@@ -1,0 +1,482 @@
+VehicleID,StockNo,VIN,Make,Model,Trim,ModelYear,BodyType,Fuel,Transmission,Condition,Mileage,Colour,ListPrice,Cost,BranchID,Status,AcquiredDate,SoldDate,DaysInStock
+v-0001,AX1001,A6JG4Y1UGWUCAZASK,Toyota,Corolla,LE,2021,Sedan,Petrol,Automatic,Used,37161,Pearl White,14300,12800,b-downtown,Sold,2024-05-17,2024-11-01,168
+v-0002,AX1002,5X67JK9SDK7H8YXBS,Toyota,Yaris,ZR,2020,Hatchback,Hybrid,Automatic,Used,50497,Pearl White,11000,9700,b-downtown,Sold,2024-05-25,2024-10-07,135
+v-0003,AX1003,489VFZ4N146HZYSZL,Hyundai,Staria,Elite,2024,Van,Diesel,Manual,New,11,Graphite Grey,46500,42000,b-northside,Sold,2024-07-15,2024-11-29,137
+v-0004,AX1004,MLWADM2KUVRX81FNN,Kia,Picanto,S,2017,Hatchback,Petrol,Automatic,Used,97259,Racing Red,4400,3900,b-northside,Sold,2024-07-29,2024-10-01,64
+v-0005,AX1005,K8VXB2GJUWEK8YZZY,Kia,Sportage,GT-Line,2018,SUV,Hybrid,Manual,Used,70482,Racing Red,12400,10400,b-downtown,Sold,2024-08-03,2024-10-23,81
+v-0006,AX1006,AT6GFEB60M7CWBDXF,Honda,Civic,LX,2018,Sedan,Petrol,Automatic,Used,83092,Deep Blue,9100,8000,b-downtown,Sold,2024-08-08,2024-10-09,62
+v-0007,AX1007,X0TM70EX0XBWSWF85,Tesla,Model 3,Performance,2018,Sedan,Electric,Automatic,Used,91822,Deep Blue,16700,14000,b-northside,Sold,2024-08-13,2024-11-11,90
+v-0008,AX1008,H74AU5WXU8J3EZ5R0,BMW,X5,M Sport,2020,SUV,Diesel,Automatic,Used,59402,Forest Green,36200,29300,b-downtown,Sold,2024-08-24,2024-10-21,58
+v-0009,AX1009,3ANHXTXDXRVNXWB1B,Toyota,Corolla,XSE,2024,Sedan,Hybrid,Automatic,New,35,Pearl White,28100,25700,b-downtown,Sold,2024-08-31,2024-10-15,45
+v-0010,AX1010,9NYAFLVTABE299FCX,Toyota,RAV4,XLE,2018,SUV,Petrol,Manual,Used,63079,Sand Beige,12500,11100,b-downtown,Sold,2024-09-02,2025-03-06,185
+v-0011,AX1011,WLXLGRFS6F7U3ZJ0G,Toyota,Corolla,SE,2022,Sedan,Petrol,Automatic,Used,18897,Pearl White,18600,15300,b-northside,Sold,2024-09-04,2024-11-06,63
+v-0012,AX1012,K8GDSUE0CSJ0RH3XH,Mercedes-Benz,GLC,AMG Line,2018,SUV,Petrol,Automatic,Used,77018,Pearl White,21300,19000,b-northside,Sold,2024-09-06,2024-11-30,85
+v-0013,AX1013,GG9AHV7ERA5PY18GX,Nissan,Leaf,SV,2024,Hatchback,Electric,Automatic,New,38,Deep Blue,32500,29500,b-downtown,Sold,2024-09-07,2024-10-20,43
+v-0014,AX1014,80XYWKCBTEZDZEEJL,Hyundai,Elantra,SE,2020,Sedan,Petrol,Automatic,Used,51934,Deep Blue,11500,9900,b-downtown,Sold,2024-09-09,2024-10-06,27
+v-0015,AX1015,GS3S691R0WAXDWRL4,Kia,Sportage,EX,2022,SUV,Hybrid,Automatic,Used,31086,Graphite Grey,22700,18500,b-downtown,Sold,2024-09-10,2025-04-09,211
+v-0016,AX1016,CK56DC29BMD3XJF8M,Nissan,Leaf,SV,2018,Hatchback,Electric,Automatic,Used,92926,Racing Red,11100,9000,b-downtown,Sold,2024-09-12,2024-11-28,77
+v-0017,AX1017,T8LX9R31L9Z6NMGSS,Volkswagen,Golf,Life,2022,Hatchback,Petrol,Automatic,Used,22366,Midnight Black,20600,18100,b-downtown,Sold,2024-09-13,2024-10-26,43
+v-0018,AX1018,M35RZANBLJPETFVW0,Honda,City,V,2022,Sedan,Petrol,Automatic,Used,28888,Silver Metallic,14100,12500,b-northside,Sold,2024-09-15,2024-10-17,32
+v-0019,AX1019,Y149G8JA905EW5PR1,Tesla,Model Y,RWD,2016,SUV,Electric,Automatic,Used,117703,Silver Metallic,11100,9300,b-downtown,Sold,2024-09-16,2024-12-11,86
+v-0020,AX1020,GX19KVP0XY4F5SUVG,Tesla,Model Y,Long Range,2018,SUV,Electric,Automatic,Used,73377,Pearl White,17600,14100,b-northside,Sold,2024-09-17,2024-10-04,17
+v-0021,AX1021,CCEM8FUG5N8KASSJW,Honda,City,V,2020,Sedan,Petrol,Automatic,Used,61629,Silver Metallic,9800,8200,b-downtown,Sold,2024-09-18,2024-12-09,82
+v-0022,AX1022,XVHP9S876C9Y0Y089,Mercedes-Benz,GLC,AMG Line,2024,SUV,Petrol,Automatic,New,30,Silver Metallic,59100,54200,b-downtown,Sold,2024-09-20,2024-10-19,29
+v-0023,AX1023,JA5A2U4ER7DVRK7W9,Toyota,Corolla,SE,2020,Sedan,Petrol,Automatic,Used,56587,Silver Metallic,12800,10800,b-downtown,Sold,2024-09-22,2024-11-07,46
+v-0024,AX1024,NNJ7FKJ8H6GU4H64R,Toyota,RAV4,XLE,2023,SUV,Petrol,Manual,Used,14136,Deep Blue,29000,24700,b-downtown,Sold,2024-09-23,2024-12-20,88
+v-0025,AX1025,HHSPTTZF4PVE4Z0FG,Honda,Civic,EX,2019,Sedan,Petrol,Automatic,Used,53464,Graphite Grey,12900,10500,b-northside,Sold,2024-09-25,2024-12-22,88
+v-0026,AX1026,XK0B5ZYBU3TFEZ9V5,Hyundai,Staria,Elite,2024,Van,Diesel,Automatic,New,58,Pearl White,45000,41000,b-northside,Sold,2024-09-27,2024-12-23,87
+v-0027,AX1027,ACZ1BDFJR7MKY1ZJT,Hyundai,Staria,Load,2019,Van,Diesel,Automatic,Used,51372,Midnight Black,18100,15700,b-downtown,Sold,2024-09-28,2024-10-06,8
+v-0028,AX1028,L2AHDSVSB70YSED3T,Mazda,CX-5,Sport,2021,SUV,Petrol,Automatic,Used,43044,Midnight Black,18300,16500,b-downtown,Sold,2024-09-30,2024-11-21,52
+v-0029,AX1029,VAR7G9DS0BF52VH5B,BMW,X5,xLine,2023,SUV,Petrol,Automatic,Used,10537,Racing Red,57500,47700,b-downtown,Sold,2024-10-01,2024-12-03,63
+v-0030,AX1030,H443J8G259UCDF7CH,Kia,Sportage,GT-Line,2017,SUV,Petrol,Automatic,Used,114907,Sand Beige,9800,8800,b-northside,Sold,2024-10-02,2024-12-16,75
+v-0031,AX1031,2L3C9AWM017UKUYU4,Ford,Transit Custom,Trend,2024,Van,Diesel,Automatic,New,45,Sand Beige,40900,38000,b-northside,Sold,2024-10-03,2024-10-16,13
+v-0032,AX1032,B0N5RGX2E9KK56SWB,Kia,Sportage,GT-Line,2023,SUV,Petrol,Automatic,Used,9318,Pearl White,29500,24800,b-downtown,Sold,2024-10-06,2024-12-05,60
+v-0033,AX1033,5UW44LE543MD7NV3W,Ford,Mustang,GT,2022,Coupe,Petrol,Automatic,Used,24593,Silver Metallic,29800,26700,b-downtown,Sold,2024-10-10,2024-10-17,7
+v-0034,AX1034,P8KWFNDYJ962K18SM,Toyota,RAV4,Limited,2022,SUV,Hybrid,Automatic,Used,20575,Pearl White,26500,22500,b-downtown,Sold,2024-10-11,2025-05-13,214
+v-0035,AX1035,E4G7V4ARXJUF2XH8B,Honda,Civic,LX,2018,Sedan,Petrol,Automatic,Used,72737,Deep Blue,9200,7400,b-downtown,Sold,2024-10-12,2024-10-24,12
+v-0036,AX1036,K2K3MVZDYW166GK9F,BMW,3 Series,Sport,2017,Sedan,Petrol,Automatic,Used,105514,Racing Red,13200,11500,b-downtown,Sold,2024-10-15,2024-12-05,51
+v-0037,AX1037,8SCDWWMWWN7WB4ANY,Toyota,Hilux,SR5,2017,Pickup,Diesel,Manual,Used,100994,Midnight Black,11900,10600,b-northside,Sold,2024-10-17,2024-11-17,31
+v-0038,AX1038,RTT2AM2P8JXCUE49Y,Mercedes-Benz,C-Class,Avantgarde,2023,Sedan,Hybrid,Automatic,Used,13566,Pearl White,40300,35200,b-downtown,Sold,2024-10-19,2024-12-27,69
+v-0039,AX1039,13NNF2X5M24749LEC,Tesla,Model Y,Long Range,2021,SUV,Electric,Automatic,Used,25613,Silver Metallic,30300,25900,b-northside,Sold,2024-10-21,2025-02-12,114
+v-0040,AX1040,713JWMBS4WRJCG2NJ,Mercedes-Benz,C-Class,Avantgarde,2023,Sedan,Petrol,Automatic,Used,8987,Midnight Black,40700,35700,b-downtown,Sold,2024-10-25,2024-11-18,24
+v-0041,AX1041,ZLNHD25W08CBXWVCF,Kia,Picanto,S,2022,Hatchback,Petrol,Automatic,Used,32489,Forest Green,10500,9100,b-northside,Sold,2024-10-27,2024-11-29,33
+v-0042,AX1042,W003764N4R8F6W20M,Mazda,CX-5,Akera,2024,SUV,Petrol,Manual,New,30,Graphite Grey,35000,32600,b-downtown,Sold,2024-11-01,2024-11-22,21
+v-0043,AX1043,SBK2BVR7U7AAB9C0M,Kia,Sportage,LX,2024,SUV,Hybrid,Automatic,New,33,Deep Blue,30400,28100,b-downtown,Sold,2024-11-03,2025-01-13,71
+v-0044,AX1044,77J6GS9442D4B4Z8Y,BMW,3 Series,Sport,2021,Sedan,Hybrid,Automatic,Used,43832,Pearl White,27100,23900,b-downtown,Sold,2024-11-05,2025-01-19,75
+v-0045,AX1045,3ZAZR2YEXU5AHG38G,Ford,Transit Custom,Trend,2019,Van,Diesel,Automatic,Used,68109,Silver Metallic,16700,13800,b-downtown,Sold,2024-11-06,2024-12-16,40
+v-0046,AX1046,CVCBFV5K8C2K8KMMV,Kia,Sorento,SX,2019,SUV,Diesel,Automatic,Used,72978,Midnight Black,18200,15700,b-downtown,Sold,2024-11-07,2025-01-22,76
+v-0047,AX1047,FLBBJVNGACXRN0BKY,Hyundai,Tucson,Limited,2021,SUV,Petrol,Manual,Used,46076,Pearl White,21100,17200,b-northside,Sold,2024-11-08,2024-11-21,13
+v-0048,AX1048,JCHDA2XGFWXW82BCX,BMW,4 Series,M Sport,2020,Coupe,Petrol,Automatic,Used,55090,Midnight Black,27900,24700,b-northside,Sold,2024-11-09,2024-11-19,10
+v-0049,AX1049,NJKTPJUFP3SHVSJ14,Suzuki,Swift,GL,2019,Hatchback,Petrol,Automatic,Used,79113,Pearl White,6900,6000,b-downtown,Sold,2024-11-12,2024-11-28,16
+v-0050,AX1050,Z1TS2YT6Z1DS0N9KN,Mercedes-Benz,GLC,Avantgarde,2024,SUV,Petrol,Automatic,New,11,Silver Metallic,56300,51100,b-downtown,Sold,2024-11-13,2025-01-02,50
+v-0051,AX1051,AAVFWK9FF7AH8R6FS,Toyota,Camry,XLE,2023,Sedan,Hybrid,Automatic,Used,12212,Racing Red,29300,26300,b-northside,Sold,2024-11-14,2025-02-08,86
+v-0052,AX1052,47TWW8X43EE0CTSBR,Hyundai,Elantra,SEL,2024,Sedan,Hybrid,Automatic,New,31,Silver Metallic,24700,22200,b-downtown,Sold,2024-11-15,2024-12-15,30
+v-0053,AX1053,ANMCFKVTHEVKU5V4V,Kia,Picanto,S,2016,Hatchback,Petrol,Automatic,Used,79442,Midnight Black,3900,3300,b-northside,Sold,2024-11-17,2024-11-24,7
+v-0054,AX1054,9T6C12N3VGE4V6BLX,Volkswagen,Golf,GTI,2024,Hatchback,Petrol,Automatic,New,38,Midnight Black,34700,32300,b-downtown,Sold,2024-11-18,2025-03-19,121
+v-0055,AX1055,D3512ZC6D2MRCTYAR,BMW,3 Series,Sport,2020,Sedan,Hybrid,Automatic,Used,36970,Racing Red,23600,20000,b-downtown,Sold,2024-11-20,2024-12-06,16
+v-0056,AX1056,Z314LMR2E856FM4V9,Kia,Sorento,SX,2020,SUV,Hybrid,Automatic,Used,53259,Pearl White,22000,18500,b-northside,Sold,2024-11-21,2025-05-12,172
+v-0057,AX1057,WUTJ8PTYS03W6FT0V,Toyota,RAV4,XLE,2017,SUV,Petrol,Automatic,Used,98727,Pearl White,10000,8600,b-northside,Sold,2024-11-24,2024-12-30,36
+v-0058,AX1058,4R160AR2JJ1FLJUYX,BMW,X5,xLine,2017,SUV,Hybrid,Automatic,Used,76349,Sand Beige,20600,17100,b-downtown,Sold,2024-11-28,2025-01-22,55
+v-0059,AX1059,7VPZY74NECVND7BYY,Hyundai,Elantra,SE,2018,Sedan,Petrol,Automatic,Used,65288,Midnight Black,8300,7400,b-downtown,Sold,2024-11-30,2024-12-15,15
+v-0060,AX1060,FGGPUN7GUT8844W33,Ford,Ranger,XL,2023,Pickup,Petrol,Automatic,Used,10282,Silver Metallic,30400,26100,b-northside,Sold,2024-12-01,2025-01-13,43
+v-0061,AX1061,P8UCZMTJB8HZD0SGN,Nissan,Leaf,S,2016,Hatchback,Electric,Automatic,Used,77372,Midnight Black,7800,6400,b-downtown,Sold,2024-12-06,2025-02-17,73
+v-0062,AX1062,WWNLBTWLDFAZTT1N2,Ford,Mustang,GT Premium,2017,Coupe,Petrol,Automatic,Used,99206,Pearl White,13200,11400,b-downtown,Sold,2024-12-07,2025-01-13,37
+v-0063,AX1063,DWJFM13B62NB3TW4J,Nissan,Leaf,SV,2022,Hatchback,Electric,Automatic,Used,28325,Pearl White,22800,19000,b-downtown,Sold,2024-12-08,2025-01-12,35
+v-0064,AX1064,YVHK9S3E1RP03AJ9U,Honda,Civic,EX,2019,Sedan,Petrol,Automatic,Used,45622,Midnight Black,13100,10900,b-northside,Sold,2024-12-09,2025-06-20,193
+v-0065,AX1065,GMCY9R3T9ABKL8BXR,Honda,City,V,2024,Sedan,Petrol,Automatic,New,10,Graphite Grey,20700,19200,b-downtown,Sold,2024-12-10,2025-02-09,61
+v-0066,AX1066,SUTUFPD5P4YNZWKYK,Hyundai,Tucson,SE,2024,SUV,Diesel,Automatic,New,26,Sand Beige,32100,30000,b-northside,Sold,2024-12-12,2025-01-27,46
+v-0067,AX1067,03W042REZ7F0XGK9A,Toyota,Hilux,SR,2017,Pickup,Diesel,Automatic,Used,81027,Pearl White,11400,9600,b-downtown,Sold,2024-12-14,2025-01-13,30
+v-0068,AX1068,2W8ALR2X9AP3CZSF8,Hyundai,Staria,Elite,2020,Van,Diesel,Automatic,Used,60149,Pearl White,22300,19700,b-downtown,Sold,2024-12-16,2025-03-02,76
+v-0069,AX1069,M65JD9RLCTEXLDUMR,Ford,Transit Custom,Limited,2019,Van,Diesel,Manual,Used,69537,Midnight Black,18000,14800,b-northside,Sold,2024-12-17,2025-01-30,44
+v-0070,AX1070,KJGKN27Z1ZD3PX3T5,Nissan,Leaf,S,2016,Hatchback,Electric,Automatic,Used,92752,Graphite Grey,7600,6400,b-northside,Sold,2024-12-20,2025-02-02,44
+v-0071,AX1071,87XBVE4PCBJ4PASNS,Ford,Mustang,GT Premium,2023,Coupe,Petrol,Manual,Used,14993,Silver Metallic,38000,33100,b-downtown,Sold,2024-12-21,2024-12-31,10
+v-0072,AX1072,1RU64L42S49VZH7AT,Tesla,Model 3,RWD,2018,Sedan,Electric,Automatic,Used,63203,Silver Metallic,15200,12500,b-northside,Sold,2024-12-22,2025-01-02,11
+v-0073,AX1073,B054CHBLVL957YGYK,Ford,Ranger,XLT,2023,Pickup,Petrol,Automatic,Used,12892,Graphite Grey,32700,28400,b-downtown,Sold,2024-12-23,2025-01-13,21
+v-0074,AX1074,LDN6T2YVGLKM35TXL,Ford,Ranger,Wildtrak,2017,Pickup,Diesel,Automatic,Used,102279,Silver Metallic,12100,10500,b-downtown,Sold,2024-12-25,2025-02-01,38
+v-0075,AX1075,9RCEV2Y7G73ER3XJ5,Honda,City,V,2016,Sedan,Petrol,Automatic,Used,91802,Graphite Grey,5100,4300,b-downtown,Sold,2024-12-26,2025-01-03,8
+v-0076,AX1076,1LDP9RJYV2J9MBWE2,BMW,3 Series,Luxury,2020,Sedan,Hybrid,Manual,Used,59312,Silver Metallic,24500,21400,b-northside,Sold,2024-12-27,2025-02-20,55
+v-0077,AX1077,0W6S4G9YTTUY7MP9Z,Tesla,Model 3,RWD,2020,Sedan,Electric,Automatic,Used,68714,Sand Beige,17500,14100,b-downtown,Sold,2025-01-02,2025-01-14,12
+v-0078,AX1078,93MESB6SLMCZC4PYP,Mercedes-Benz,C-Class,Avantgarde,2025,Sedan,Petrol,Manual,New,36,Pearl White,49300,45100,b-downtown,Sold,2025-01-03,2025-01-30,27
+v-0079,AX1079,0UKKP1LM0J3PRB9F0,Suzuki,Swift,GLX,2024,Hatchback,Hybrid,Automatic,Used,13845,Graphite Grey,15400,12400,b-northside,Sold,2025-01-04,2025-02-18,45
+v-0080,AX1080,N8G831JJ25421TL5J,Kia,Picanto,GT-Line,2025,Hatchback,Petrol,Automatic,New,11,Midnight Black,15900,14300,b-northside,Sold,2025-01-05,2025-03-31,85
+v-0081,AX1081,FHJBXDPWEGZ1NKRGA,Mazda,CX-5,Touring,2020,SUV,Petrol,Automatic,Used,43533,Pearl White,14600,13000,b-downtown,Sold,2025-01-10,2025-02-26,47
+v-0082,AX1082,BUE56DVT8ZELNMAPY,Honda,CR-V,Touring,2025,SUV,Petrol,Automatic,New,39,Pearl White,37200,34900,b-downtown,Sold,2025-01-12,2025-07-10,179
+v-0083,AX1083,V1H3L29R3BWT0231E,BMW,X5,xLine,2024,SUV,Diesel,Automatic,Used,14548,Pearl White,57100,47200,b-downtown,Sold,2025-01-14,2025-05-13,119
+v-0084,AX1084,X00E0ZU1PKB4CLFPX,Honda,CR-V,Touring,2025,SUV,Petrol,Automatic,New,23,Deep Blue,39800,36600,b-northside,Sold,2025-01-14,2025-02-04,21
+v-0085,AX1085,9E8LXVK5CG9NEUBHF,Hyundai,Staria,Load,2024,Van,Diesel,Manual,Used,14331,Pearl White,35300,28800,b-downtown,Sold,2025-01-18,2025-07-19,182
+v-0086,AX1086,2N27SE70YP7RPEAW7,Toyota,Camry,LE,2019,Sedan,Petrol,Automatic,Used,84971,Racing Red,10400,8500,b-downtown,Sold,2025-01-21,2025-02-20,30
+v-0087,AX1087,F7EARLTF3WJT8NHYB,Tesla,Model Y,RWD,2018,SUV,Electric,Automatic,Used,106737,Sand Beige,13200,11200,b-downtown,Sold,2025-01-23,2025-07-17,175
+v-0088,AX1088,X4YTKELNHFRD2LNM7,Honda,CR-V,EX,2018,SUV,Hybrid,Automatic,Used,104332,Sand Beige,10200,8400,b-downtown,Sold,2025-01-28,2025-04-03,65
+v-0089,AX1089,GB5ABV8TCLTWR81C8,Volkswagen,Golf,Style,2025,Hatchback,Petrol,Automatic,New,14,Racing Red,31200,29100,b-northside,Sold,2025-01-30,2025-04-15,75
+v-0090,AX1090,SHW654AAS1VNX347K,Mercedes-Benz,GLC,Avantgarde,2018,SUV,Petrol,Automatic,Used,89617,Racing Red,16600,13500,b-downtown,Sold,2025-02-01,2025-02-14,13
+v-0091,AX1091,71E1T9EFTSGNE64L0,Hyundai,Tucson,SEL,2025,SUV,Diesel,Automatic,New,59,Pearl White,33400,30900,b-downtown,Sold,2025-02-02,2025-04-20,77
+v-0092,AX1092,Z1A0UHPPBG8CJ5RET,BMW,X5,M Sport,2025,SUV,Hybrid,Automatic,New,6,Pearl White,71900,64900,b-northside,Sold,2025-02-04,2025-03-02,26
+v-0093,AX1093,JP7EPB1CBF2E1FJN7,Toyota,Corolla,SE,2021,Sedan,Hybrid,Automatic,Used,42153,Graphite Grey,13200,11000,b-northside,Sold,2025-02-05,2025-02-23,18
+v-0094,AX1094,N04Y1HY6BLCBLYVVE,Toyota,RAV4,Limited,2017,SUV,Petrol,Automatic,Used,130692,Silver Metallic,8900,8000,b-northside,Sold,2025-02-06,2025-02-18,12
+v-0095,AX1095,LY1MF7ZZ0RRA2FTUZ,Mazda,CX-5,Akera,2025,SUV,Petrol,Automatic,New,29,Sand Beige,34900,32700,b-northside,Sold,2025-02-08,2025-02-17,9
+v-0096,AX1096,PB07V8M3XFRTMZFZ6,Honda,Civic,LX,2025,Sedan,Petrol,Automatic,New,23,Racing Red,26300,23700,b-northside,Sold,2025-02-09,2025-08-26,198
+v-0097,AX1097,E9N91B98T0TH9LEAY,Toyota,Hilux,SR,2025,Pickup,Diesel,Automatic,New,6,Pearl White,38800,35800,b-downtown,Sold,2025-02-11,2025-04-20,68
+v-0098,AX1098,1DJUHP6C8D6G4V139,BMW,4 Series,Sport,2024,Coupe,Petrol,Automatic,Used,15172,Racing Red,43600,35300,b-downtown,Sold,2025-02-14,2025-04-29,74
+v-0099,AX1099,9T5BTFAZ8GM57FM1V,Toyota,Corolla,SE,2022,Sedan,Petrol,Automatic,Used,49683,Midnight Black,15100,12700,b-downtown,Sold,2025-02-15,2025-03-30,43
+v-0100,AX1100,07GW70W3VUYSZ36H5,BMW,3 Series,M Sport,2025,Sedan,Hybrid,Automatic,New,31,Midnight Black,54900,49000,b-downtown,Sold,2025-02-17,2025-06-19,122
+v-0101,AX1101,B7PRJ7HL3J5MUCN60,Kia,Sportage,GT-Line,2021,SUV,Hybrid,Automatic,Used,57961,Pearl White,17200,14400,b-northside,Sold,2025-02-19,2025-07-20,151
+v-0102,AX1102,VM7HTM6D7G6W7UC8G,Toyota,Camry,XLE,2025,Sedan,Petrol,Automatic,New,6,Graphite Grey,36500,33000,b-downtown,Sold,2025-02-21,2025-05-10,78
+v-0103,AX1103,X5DDXEK6KB0K9CBWG,Tesla,Model Y,Long Range,2025,SUV,Electric,Automatic,New,48,Pearl White,50000,45300,b-downtown,Sold,2025-02-22,2025-03-15,21
+v-0104,AX1104,G2NMZEG9DRYT2CGTL,Honda,CR-V,LX,2017,SUV,Petrol,Automatic,Used,112803,Midnight Black,8000,7200,b-downtown,Sold,2025-02-27,2025-05-26,88
+v-0105,AX1105,XP974MYDK6SNRUE37,Kia,Picanto,S,2022,Hatchback,Petrol,Manual,Used,38518,Racing Red,8900,7100,b-downtown,Sold,2025-03-01,2025-04-11,41
+v-0106,AX1106,EXRH25F2WYE69UU1G,BMW,3 Series,M Sport,2025,Sedan,Petrol,Automatic,New,53,Silver Metallic,53300,49200,b-downtown,Sold,2025-03-02,2025-03-25,23
+v-0107,AX1107,69BKURGWJKA1LRZXX,BMW,3 Series,M Sport,2017,Sedan,Hybrid,Automatic,Used,122450,Midnight Black,12800,10400,b-northside,Sold,2025-03-03,2025-03-18,15
+v-0108,AX1108,LD11KZ22FYW6DRZBC,Hyundai,Elantra,SEL,2025,Sedan,Petrol,Automatic,New,54,Forest Green,25400,23700,b-downtown,Sold,2025-03-05,2025-04-29,55
+v-0109,AX1109,2ZS2P7ATK2UNENVFV,Mazda,CX-5,Akera,2017,SUV,Petrol,Automatic,Used,82827,Midnight Black,9300,7500,b-downtown,Sold,2025-03-07,2025-03-23,16
+v-0110,AX1110,NGDPSV2C9KC5UF6UF,Toyota,RAV4,XLE,2017,SUV,Petrol,Automatic,Used,104754,Deep Blue,8500,6800,b-northside,Sold,2025-03-07,2025-05-08,62
+v-0111,AX1111,LK8YRB7C8RJ7JCKG0,Kia,Picanto,GT-Line,2018,Hatchback,Petrol,Automatic,Used,112293,Midnight Black,4600,4100,b-northside,Sold,2025-03-08,2025-04-04,27
+v-0112,AX1112,937PYC034TWKGZ6NF,Ford,Ranger,Wildtrak,2022,Pickup,Diesel,Automatic,Used,46880,Silver Metallic,24500,20800,b-downtown,Sold,2025-03-10,2025-04-07,28
+v-0113,AX1113,09GX509TUVMUXUD7Y,Toyota,Camry,LE,2020,Sedan,Petrol,Automatic,Used,73611,Pearl White,12400,10100,b-northside,Sold,2025-03-12,2025-04-25,44
+v-0114,AX1114,CAV6HHBBY8K513VLG,Kia,Sportage,LX,2025,SUV,Petrol,Automatic,New,9,Sand Beige,29500,26500,b-northside,Sold,2025-03-13,2025-05-03,51
+v-0115,AX1115,26SD38JSZE72HH52W,Tesla,Model 3,Performance,2021,Sedan,Electric,Automatic,Used,53161,Silver Metallic,24300,20300,b-downtown,Sold,2025-03-15,2025-04-09,25
+v-0116,AX1116,EL7S3KKRG78NCTEYT,Toyota,Yaris,Ascent,2022,Hatchback,Hybrid,Automatic,Used,24930,Midnight Black,11600,9400,b-northside,Sold,2025-03-21,2025-04-14,24
+v-0117,AX1117,ULBSDU42HZMB625WR,BMW,X5,xLine,2024,SUV,Petrol,Automatic,Used,13371,Midnight Black,57200,47500,b-northside,Sold,2025-03-22,2025-07-16,116
+v-0118,AX1118,V74GK5X8UC9Z8A304,Mercedes-Benz,C-Class,Avantgarde,2019,Sedan,Hybrid,Automatic,Used,65020,Pearl White,17300,14400,b-northside,Sold,2025-03-23,2025-04-03,11
+v-0119,AX1119,1D060SLU1D8TSK5F3,BMW,3 Series,M Sport,2024,Sedan,Hybrid,Automatic,Used,17863,Deep Blue,44500,39400,b-northside,Sold,2025-03-23,2025-04-09,17
+v-0120,AX1120,GMXVKM06CSA6XSGVC,Tesla,Model Y,RWD,2020,SUV,Electric,Automatic,Used,58951,Midnight Black,19500,16200,b-northside,Sold,2025-03-24,2025-08-16,145
+v-0121,AX1121,YE1G51L0R8K84UVWK,Mercedes-Benz,GLC,AMG Line,2024,SUV,Petrol,Automatic,Used,12188,Silver Metallic,51000,41300,b-downtown,Sold,2025-03-26,2025-04-22,27
+v-0122,AX1122,HPC9JC7LF5MBS5NCS,BMW,4 Series,M Sport,2025,Coupe,Petrol,Automatic,New,36,Silver Metallic,54800,51300,b-northside,Sold,2025-03-27,2025-06-14,79
+v-0123,AX1123,SZTBRTNLN5J3S0G9R,BMW,3 Series,Luxury,2018,Sedan,Petrol,Automatic,Used,93554,Pearl White,14600,12200,b-downtown,Sold,2025-03-29,2025-04-20,22
+v-0124,AX1124,X6J1VS49399H3W4TV,Kia,Picanto,S,2018,Hatchback,Petrol,Automatic,Used,92596,Pearl White,4400,3800,b-downtown,Sold,2025-03-31,2025-07-04,95
+v-0125,AX1125,H32H5U23ARVSBNXHY,Mercedes-Benz,C-Class,AMG Line,2018,Sedan,Petrol,Automatic,Used,76697,Silver Metallic,15700,12900,b-northside,Sold,2025-04-01,2025-04-10,9
+v-0126,AX1126,NZC59PR1CH88FHN5L,Mazda,CX-5,Akera,2025,SUV,Petrol,Automatic,New,7,Graphite Grey,37300,33900,b-downtown,Sold,2025-04-03,2025-05-30,57
+v-0127,AX1127,XREHKPE45JH8UA914,Hyundai,Tucson,Limited,2025,SUV,Petrol,Automatic,New,19,Deep Blue,37200,33800,b-downtown,Sold,2025-04-06,2025-05-14,38
+v-0128,AX1128,UVPBR3EH5AGHK3MC0,Mercedes-Benz,GLC,Avantgarde,2025,SUV,Petrol,Automatic,New,52,Midnight Black,57600,52400,b-northside,Sold,2025-04-07,2025-08-28,143
+v-0129,AX1129,L6187CFJVCNG7BEA4,BMW,4 Series,Sport,2018,Coupe,Petrol,Automatic,Used,83591,Pearl White,15600,13200,b-northside,Sold,2025-04-08,2025-05-04,26
+v-0130,AX1130,CUN74CHTYF1XMSANU,Volkswagen,Golf,GTI,2025,Hatchback,Petrol,Automatic,New,60,Graphite Grey,34700,31800,b-downtown,Sold,2025-04-09,2025-06-09,61
+v-0131,AX1131,SG6DM6SVN5KZEUXHT,Hyundai,Tucson,Limited,2020,SUV,Petrol,Automatic,Used,50067,Graphite Grey,15500,13600,b-downtown,Sold,2025-04-11,2025-05-17,36
+v-0132,AX1132,089PS8AXWZ8XRYD62,Ford,Transit Custom,Limited,2025,Van,Diesel,Automatic,New,7,Silver Metallic,44600,39900,b-northside,Sold,2025-04-12,2025-06-04,53
+v-0133,AX1133,PHPTLXVMBWU8AUFRR,Volkswagen,Golf,GTI,2025,Hatchback,Petrol,Automatic,New,9,Deep Blue,33200,29700,b-downtown,Sold,2025-04-15,2025-05-20,35
+v-0134,AX1134,T4SG3X03T0JRRNURG,Hyundai,Staria,Elite,2019,Van,Diesel,Automatic,Used,90096,Silver Metallic,15600,12700,b-downtown,Sold,2025-04-16,2025-04-28,12
+v-0135,AX1135,A79ASKMUV9A35B7XB,Volkswagen,Golf,GTI,2023,Hatchback,Petrol,Manual,Used,26100,Deep Blue,23800,21300,b-northside,Sold,2025-04-17,2025-05-16,29
+v-0136,AX1136,FX176FU41Z41AAWPE,Toyota,RAV4,Limited,2025,SUV,Petrol,Automatic,New,15,Silver Metallic,36600,32900,b-downtown,Sold,2025-04-19,2025-05-15,26
+v-0137,AX1137,KVG78962AVAR0D4C4,Hyundai,Elantra,SEL,2020,Sedan,Hybrid,Automatic,Used,57954,Midnight Black,10600,8800,b-downtown,Sold,2025-04-20,2025-05-07,17
+v-0138,AX1138,ED4BPH80CDFT4BTFM,Hyundai,Staria,Load,2017,Van,Diesel,Automatic,Used,99239,Midnight Black,10500,9300,b-downtown,Sold,2025-04-22,2025-10-02,163
+v-0139,AX1139,CYT7ZX70UUCAFF4KB,BMW,3 Series,M Sport,2021,Sedan,Hybrid,Automatic,Used,51620,Graphite Grey,26700,22500,b-northside,Sold,2025-04-24,2025-05-26,32
+v-0140,AX1140,F2MHFMYPX1JPTP94V,Hyundai,Tucson,Limited,2025,SUV,Hybrid,Manual,New,51,Forest Green,37000,33300,b-northside,Sold,2025-04-26,2025-05-28,32
+v-0141,AX1141,MYF3T7B45DXZMR32M,Toyota,Corolla,XSE,2018,Sedan,Hybrid,Automatic,Used,76831,Racing Red,8400,7200,b-northside,Sold,2025-04-28,2025-07-18,81
+v-0142,AX1142,WEW1AKHN96W93F9PP,Tesla,Model Y,Long Range,2025,SUV,Electric,Automatic,New,5,Pearl White,48500,44200,b-northside,Sold,2025-05-01,2025-05-14,13
+v-0143,AX1143,W4LGYD47YCS5E6MTL,Toyota,RAV4,Limited,2018,SUV,Hybrid,Manual,Used,97809,Deep Blue,10800,9400,b-downtown,Sold,2025-05-02,2025-06-10,39
+v-0144,AX1144,HSTTUVC6GESABU2NH,Tesla,Model 3,Long Range,2025,Sedan,Electric,Automatic,New,42,Graphite Grey,45200,41100,b-northside,Sold,2025-05-04,2025-06-03,30
+v-0145,AX1145,TTUVRJH4HM1BMG0J7,Mercedes-Benz,GLC,AMG Line,2022,SUV,Petrol,Automatic,Used,26948,Silver Metallic,36700,30200,b-downtown,Sold,2025-05-05,2025-07-21,77
+v-0146,AX1146,B48D16G3XZX3N43Y8,Kia,Sorento,SX,2025,SUV,Diesel,Automatic,New,14,Silver Metallic,43300,40100,b-northside,Sold,2025-05-06,2025-07-15,70
+v-0147,AX1147,RGHEKR18T8FNMVXVX,Tesla,Model Y,RWD,2018,SUV,Electric,Automatic,Used,68466,Graphite Grey,14200,12200,b-northside,Sold,2025-05-07,2025-05-25,18
+v-0148,AX1148,ZPKLETN39C1BXZM4F,Suzuki,Swift,GL,2025,Hatchback,Petrol,Automatic,New,45,Pearl White,17800,16600,b-northside,Sold,2025-05-08,2025-05-16,8
+v-0149,AX1149,G6RFW0V4N2HHV8EFN,Mazda,CX-5,Sport,2017,SUV,Petrol,Automatic,Used,75010,Deep Blue,8100,6500,b-downtown,Sold,2025-05-10,2025-06-11,32
+v-0150,AX1150,7CSWXA9MMMMW208XW,Toyota,RAV4,Limited,2024,SUV,Hybrid,Automatic,Used,16358,Midnight Black,31100,26600,b-downtown,Sold,2025-05-10,2025-07-09,60
+v-0151,AX1151,E50W01Y7EP3S4D8LK,Toyota,Camry,LE,2022,Sedan,Hybrid,Automatic,Used,28263,Racing Red,18200,15400,b-northside,Sold,2025-05-13,2025-07-06,54
+v-0152,AX1152,N0HD46VJ8PY7FJXTY,Suzuki,Swift,GL,2025,Hatchback,Hybrid,Automatic,New,23,Pearl White,17000,15700,b-downtown,Sold,2025-05-14,2025-12-14,214
+v-0153,AX1153,U84M180WTTE37VCWF,Kia,Sportage,LX,2024,SUV,Hybrid,Automatic,Used,9382,Racing Red,25400,22400,b-downtown,Sold,2025-05-15,2025-07-10,56
+v-0154,AX1154,75SF832XV3MCHCZ2D,Honda,CR-V,EX,2025,SUV,Petrol,Automatic,New,29,Silver Metallic,35000,32700,b-downtown,Sold,2025-05-18,2025-10-29,164
+v-0155,AX1155,NE9XP9C7KVEBLFHTA,Toyota,Hilux,Rogue,2025,Pickup,Diesel,Automatic,New,46,Pearl White,45200,41000,b-northside,Sold,2025-05-19,2025-07-13,55
+v-0156,AX1156,1MVN88RGHRCG2WVXF,Ford,Mustang,GT,2020,Coupe,Petrol,Automatic,Used,64653,Deep Blue,17600,15200,b-downtown,Sold,2025-05-21,2025-06-26,36
+v-0157,AX1157,FRADEA7TY49KVN5BG,Ford,Ranger,XLT,2024,Pickup,Petrol,Automatic,Used,14662,Racing Red,32600,26100,b-downtown,Sold,2025-05-22,2025-08-05,75
+v-0158,AX1158,PH3NB6JJCJP212D6S,Suzuki,Swift,GLX,2020,Hatchback,Hybrid,Automatic,Used,75522,Silver Metallic,7500,6600,b-northside,Sold,2025-05-25,2025-06-24,30
+v-0159,AX1159,S84UU6D0HHSN637N1,BMW,X5,xLine,2025,SUV,Diesel,Automatic,New,46,Midnight Black,67100,61400,b-northside,Sold,2025-05-27,2025-08-08,73
+v-0160,AX1160,RA5PYVSC80TSNH74P,Volkswagen,Golf,GTI,2017,Hatchback,Petrol,Automatic,Used,120129,Racing Red,8100,6900,b-northside,Sold,2025-05-28,2025-11-01,157
+v-0161,AX1161,HUCR1FZ2S8SKDY903,Toyota,Corolla,LE,2019,Sedan,Petrol,Manual,Used,86367,Sand Beige,8300,7100,b-downtown,Sold,2025-05-29,2025-08-16,79
+v-0162,AX1162,7NY2S9SCYYSCBRR6C,BMW,4 Series,Sport,2025,Coupe,Petrol,Automatic,New,20,Midnight Black,51300,47400,b-northside,Sold,2025-05-30,2025-08-25,87
+v-0163,AX1163,LX5MNWUNYP8AH63VX,Nissan,Leaf,SV,2023,Hatchback,Electric,Automatic,Used,21836,Forest Green,23100,19800,b-downtown,Sold,2025-06-02,2025-07-31,59
+v-0164,AX1164,ER5TU8CRSJYXLE719,Kia,Sportage,LX,2025,SUV,Petrol,Manual,New,24,Racing Red,29900,27300,b-northside,Sold,2025-06-03,2025-07-06,33
+v-0165,AX1165,HSHV64XN0WH69F98M,Toyota,Hilux,SR5,2025,Pickup,Diesel,Manual,New,50,Racing Red,42700,40000,b-northside,Sold,2025-06-04,2025-08-28,85
+v-0166,AX1166,6DA9F9RUK44BND09H,Toyota,Hilux,Rogue,2021,Pickup,Diesel,Automatic,Used,38661,Forest Green,22600,18500,b-downtown,Sold,2025-06-05,2025-06-13,8
+v-0167,AX1167,VGWGRV9YGVZ4S3T4W,Toyota,Hilux,SR5,2025,Pickup,Diesel,Automatic,New,27,Silver Metallic,41400,38000,b-northside,Sold,2025-06-06,2025-06-13,7
+v-0168,AX1168,L226DPP4F7134XHLS,Nissan,Leaf,SV Plus,2023,Hatchback,Electric,Automatic,Used,17921,Forest Green,25000,21300,b-northside,Sold,2025-06-07,2025-07-24,47
+v-0169,AX1169,Y1EM1WFUU8NKNLK77,Toyota,Yaris,SX,2019,Hatchback,Petrol,Automatic,Used,98678,Pearl White,6900,5500,b-downtown,Sold,2025-06-09,2025-07-02,23
+v-0170,AX1170,C6K4PVCM7ZLUA86Z0,Mercedes-Benz,GLC,Avantgarde,2025,SUV,Petrol,Automatic,New,23,Silver Metallic,57600,53900,b-northside,Sold,2025-06-10,2025-07-22,42
+v-0171,AX1171,EU62FTRH9XCKEEFT4,Ford,Ranger,XLT,2024,Pickup,Petrol,Manual,Used,5734,Deep Blue,33100,29200,b-downtown,Sold,2025-06-11,2025-07-19,38
+v-0172,AX1172,7747AXGVS5KDHBBC5,Toyota,Yaris,SX,2023,Hatchback,Hybrid,Automatic,Used,28925,Pearl White,14400,12300,b-northside,Sold,2025-06-13,2025-12-15,185
+v-0173,AX1173,CNTRXL36P446DFTRC,Nissan,Leaf,S,2025,Hatchback,Electric,Automatic,New,29,Racing Red,29400,27400,b-downtown,Sold,2025-06-15,2025-07-19,34
+v-0174,AX1174,37GB9689VC9X7G4HP,Tesla,Model 3,Performance,2020,Sedan,Electric,Automatic,Used,68272,Midnight Black,20300,17200,b-downtown,Sold,2025-06-17,2025-07-12,25
+v-0175,AX1175,YNUFG3J8UDGKX5L05,Toyota,Camry,LE,2025,Sedan,Hybrid,Automatic,New,5,Midnight Black,30100,27500,b-northside,Sold,2025-06-18,2025-08-07,50
+v-0176,AX1176,1ZZNDR54BKEMNXFFF,Honda,CR-V,LX,2017,SUV,Petrol,Automatic,Used,107822,Forest Green,8100,6600,b-downtown,Sold,2025-06-19,2025-07-09,20
+v-0177,AX1177,1K79LKAHUY7CZKYKN,Ford,Mustang,GT,2020,Coupe,Petrol,Automatic,Used,60011,Racing Red,17800,15100,b-northside,Sold,2025-06-20,2025-09-07,79
+v-0178,AX1178,BL3ENYEH5F12YNCM8,Honda,City,V,2022,Sedan,Petrol,Automatic,Used,42094,Pearl White,11800,9500,b-downtown,Sold,2025-06-20,2025-07-15,25
+v-0179,AX1179,P9TPZ5ZATXCRWW04X,Toyota,Hilux,SR5,2019,Pickup,Diesel,Automatic,Used,59118,Graphite Grey,15000,12200,b-downtown,Sold,2025-06-21,2025-07-16,25
+v-0180,AX1180,N34KKPB9F0X19XA6A,Nissan,Leaf,SV,2021,Hatchback,Electric,Automatic,Used,60759,Sand Beige,15900,12800,b-northside,Sold,2025-06-23,2025-07-31,38
+v-0181,AX1181,9PWS9ASFCGXMN0AYM,Honda,Civic,EX,2025,Sedan,Petrol,Automatic,New,19,Racing Red,30200,28000,b-downtown,Sold,2025-06-25,2025-08-06,42
+v-0182,AX1182,9X9ZV6A2RERLRWL6D,Hyundai,Staria,Elite,2025,Van,Diesel,Manual,New,16,Midnight Black,44200,41500,b-downtown,Sold,2025-06-28,2025-07-07,9
+v-0183,AX1183,Y54MR6N8SHA390K4G,Toyota,RAV4,XLE,2024,SUV,Hybrid,Automatic,Used,12989,Silver Metallic,29100,25200,b-downtown,Sold,2025-06-30,2025-08-09,40
+v-0184,AX1184,BARHD4GHET932NWYV,Ford,Transit Custom,Trend,2025,Van,Diesel,Automatic,New,56,Pearl White,41100,37400,b-northside,Sold,2025-07-02,2025-07-13,11
+v-0185,AX1185,HNSNDDSVY0TK3KUE2,Mercedes-Benz,C-Class,Avantgarde,2025,Sedan,Petrol,Automatic,New,5,Midnight Black,49100,44000,b-downtown,Sold,2025-07-03,2025-09-30,89
+v-0186,AX1186,KN5XWJZCZC6ZLATS9,Mazda,CX-5,Sport,2019,SUV,Petrol,Manual,Used,68132,Silver Metallic,11100,9200,b-downtown,Sold,2025-07-05,2025-07-27,22
+v-0187,AX1187,968NNETLUP4Y0E9JR,Mercedes-Benz,GLC,Avantgarde,2019,SUV,Petrol,Automatic,Used,94919,Racing Red,19100,15700,b-downtown,Sold,2025-07-09,2025-10-02,85
+v-0188,AX1188,9GGTW94YKMTNLMXT2,Hyundai,Elantra,SE,2018,Sedan,Hybrid,Automatic,Used,89349,Pearl White,6800,5700,b-northside,Sold,2025-07-10,2025-08-05,26
+v-0189,AX1189,6UR1ECCLYSHYVWH33,Hyundai,Tucson,SEL,2020,SUV,Diesel,Automatic,Used,72454,Pearl White,13800,11600,b-downtown,Sold,2025-07-12,2025-08-06,25
+v-0190,AX1190,DPU0AC3UF832AAP3G,Mercedes-Benz,GLC,Avantgarde,2025,SUV,Diesel,Manual,New,5,Racing Red,57100,52800,b-northside,Sold,2025-07-13,2025-09-23,72
+v-0191,AX1191,0EEF6ALP1K1KCKNVF,BMW,X5,xLine,2025,SUV,Diesel,Automatic,New,17,Graphite Grey,70700,64600,b-northside,Sold,2025-07-14,2025-08-21,38
+v-0192,AX1192,SMNXEJJWN6USEDC0W,Hyundai,Staria,Elite,2023,Van,Diesel,Manual,Used,25206,Deep Blue,32100,27200,b-northside,Sold,2025-07-15,2025-08-18,34
+v-0193,AX1193,BFXKJE7VU87AK997F,Hyundai,Tucson,SEL,2025,SUV,Hybrid,Manual,New,50,Pearl White,32700,29200,b-northside,Sold,2025-07-24,2025-08-13,20
+v-0194,AX1194,5ULDE1XN7T82LN0NK,Mercedes-Benz,GLC,AMG Line,2025,SUV,Petrol,Automatic,New,30,Silver Metallic,62800,58600,b-downtown,Sold,2025-07-25,2025-09-02,39
+v-0195,AX1195,LHWUYRWS1M5N4MAC0,Tesla,Model Y,Long Range,2022,SUV,Electric,Automatic,Used,42055,Silver Metallic,29400,25100,b-downtown,Sold,2025-07-27,2025-09-29,64
+v-0196,AX1196,505B7WC4C4U8N4EV3,Toyota,RAV4,Limited,2023,SUV,Hybrid,Automatic,Used,26660,Pearl White,26200,21200,b-northside,Sold,2025-07-28,2025-08-12,15
+v-0197,AX1197,8HFC0LNBNXHNMXDZ5,Toyota,Yaris,Ascent,2021,Hatchback,Hybrid,Automatic,Used,56112,Silver Metallic,9400,7600,b-northside,Sold,2025-07-30,2026-01-15,169
+v-0198,AX1198,KKB98Y452CRGWYK3E,Kia,Picanto,S,2019,Hatchback,Petrol,Automatic,Used,64631,Sand Beige,5400,4800,b-northside,Sold,2025-08-01,2025-09-04,34
+v-0199,AX1199,UDXKF8D0RA44B4DTJ,Toyota,Corolla,SE,2017,Sedan,Hybrid,Automatic,Used,120811,Silver Metallic,6200,5200,b-downtown,Sold,2025-08-02,2025-09-18,47
+v-0200,AX1200,570080MEBFW7XU0N7,Tesla,Model Y,Long Range,2020,SUV,Electric,Automatic,Used,70556,Midnight Black,20600,18100,b-northside,Sold,2025-08-03,2025-08-29,26
+v-0201,AX1201,4DM5LF22R56J88ZZX,Ford,Mustang,GT,2018,Coupe,Petrol,Automatic,Used,106000,Silver Metallic,12000,10300,b-northside,Sold,2025-08-04,2025-10-15,72
+v-0202,AX1202,RRAVLF9ADD2RVZKVL,Kia,Sorento,EX,2022,SUV,Petrol,Automatic,Used,44918,Pearl White,24100,20500,b-downtown,Sold,2025-08-05,2025-10-01,57
+v-0203,AX1203,PXJFRUATLMAZL8AV2,Honda,City,S,2025,Sedan,Petrol,Automatic,New,45,Deep Blue,18200,16800,b-downtown,Sold,2025-08-06,2025-09-20,45
+v-0204,AX1204,EX8N3F5ZW3XZVFCML,Hyundai,Elantra,SEL,2024,Sedan,Hybrid,Automatic,Used,12867,Pearl White,20900,17900,b-northside,Sold,2025-08-08,2025-10-13,66
+v-0205,AX1205,D5JG4EXC2ZAM8M3UZ,Hyundai,Elantra,SEL,2017,Sedan,Petrol,Automatic,Used,79175,Midnight Black,6500,5400,b-northside,Sold,2025-08-09,2025-08-21,12
+v-0206,AX1206,FZBAF62W2HXF2FDZ8,Ford,Mustang,GT Premium,2025,Coupe,Petrol,Automatic,New,27,Graphite Grey,44300,39700,b-downtown,Sold,2025-08-10,2026-02-13,187
+v-0207,AX1207,06ZTCZAMUSXT760SE,Mercedes-Benz,GLC,AMG Line,2025,SUV,Petrol,Automatic,New,21,Silver Metallic,59400,54100,b-downtown,Sold,2025-08-11,2025-10-06,56
+v-0208,AX1208,KNGF52VSF973SY20Y,Ford,Ranger,Wildtrak,2025,Pickup,Petrol,Automatic,New,21,Midnight Black,43000,38700,b-northside,Sold,2025-08-13,2025-09-05,23
+v-0209,AX1209,WEPCJSU14THRPWANJ,Toyota,RAV4,XLE,2020,SUV,Petrol,Automatic,Used,55502,Silver Metallic,14800,12300,b-northside,Sold,2025-08-14,2026-01-23,162
+v-0210,AX1210,3LZ3ZB6YDR052NPWU,Toyota,Yaris,SX,2020,Hatchback,Petrol,Automatic,Used,69244,Racing Red,8500,7200,b-downtown,Sold,2025-08-16,2025-11-01,77
+v-0211,AX1211,9B63AXNCFCNVFR43J,Mercedes-Benz,GLC,AMG Line,2020,SUV,Diesel,Automatic,Used,59839,Graphite Grey,25600,22400,b-downtown,Sold,2025-08-18,2025-09-13,26
+v-0212,AX1212,V8BB3862S3TSY020Y,Ford,Ranger,Wildtrak,2022,Pickup,Petrol,Automatic,Used,27965,Pearl White,25300,22000,b-downtown,Sold,2025-08-19,2025-09-12,24
+v-0213,AX1213,94N9UEYE9N7SNZ89W,Toyota,Corolla,SE,2022,Sedan,Hybrid,Automatic,Used,48537,Deep Blue,15200,13200,b-northside,Sold,2025-08-21,2025-08-28,7
+v-0214,AX1214,2F1GUTHKZ4AW4NG8U,Kia,Sorento,EX,2024,SUV,Hybrid,Automatic,Used,13738,Racing Red,34500,30900,b-downtown,Sold,2025-08-22,2025-09-30,39
+v-0215,AX1215,ZPMSPHKDYM4GUBMS9,Toyota,Yaris,SX,2024,Hatchback,Petrol,Automatic,Used,9849,Midnight Black,17400,14000,b-downtown,Sold,2025-08-23,2025-10-05,43
+v-0216,AX1216,8H9280A1T1V503DYD,Mercedes-Benz,C-Class,AMG Line,2024,Sedan,Petrol,Automatic,Used,9630,Racing Red,43900,38100,b-northside,Sold,2025-08-25,2025-11-21,88
+v-0217,AX1217,3LLW9DSCR63DJZCYZ,Toyota,RAV4,LE,2021,SUV,Petrol,Automatic,Used,53038,Pearl White,16000,14000,b-downtown,Sold,2025-08-26,2025-09-25,30
+v-0218,AX1218,ETU2N2A6KD505S7CP,Suzuki,Swift,GL,2025,Hatchback,Petrol,Automatic,New,19,Forest Green,17600,16000,b-northside,Sold,2025-08-29,2025-10-02,34
+v-0219,AX1219,EMXHMJT17SK517ZNE,Nissan,Leaf,SV,2023,Hatchback,Electric,Automatic,Used,26458,Deep Blue,22900,19700,b-northside,Sold,2025-09-02,2025-10-12,40
+v-0220,AX1220,CWD2L229LTTZ7YF3L,Ford,Transit Custom,Trend,2021,Van,Diesel,Manual,Used,52684,Pearl White,20000,16700,b-northside,Sold,2025-09-03,2025-12-07,95
+v-0221,AX1221,LNVR06ZG27ZY9Y6KC,Hyundai,Tucson,SEL,2024,SUV,Diesel,Automatic,Used,6627,Silver Metallic,28500,23700,b-downtown,Sold,2025-09-04,2025-10-06,32
+v-0222,AX1222,BLAXPV7ESGLD5KDFY,Toyota,RAV4,Limited,2022,SUV,Petrol,Automatic,Used,34147,Pearl White,22300,19900,b-downtown,Sold,2025-09-05,2025-09-12,7
+v-0223,AX1223,MPLHYGVDCTL9KPNW5,Tesla,Model 3,RWD,2017,Sedan,Electric,Automatic,Used,97685,Forest Green,10500,8600,b-northside,Sold,2025-09-10,2026-01-05,117
+v-0224,AX1224,GDTMY3PV6N1M1UXNK,Mercedes-Benz,C-Class,AMG Line,2022,Sedan,Petrol,Manual,Used,44809,Deep Blue,30500,24900,b-northside,Sold,2025-09-11,2025-12-07,87
+v-0225,AX1225,T529XJZMY4DJEGLK8,Ford,Transit Custom,Trend,2025,Van,Diesel,Manual,New,18,Pearl White,38800,35400,b-downtown,Sold,2025-09-12,2025-11-16,65
+v-0226,AX1226,ELDEW8CUR4T0SGDTB,Kia,Sportage,LX,2025,SUV,Hybrid,Automatic,New,43,Silver Metallic,29200,26600,b-downtown,Sold,2025-09-12,2026-02-02,143
+v-0227,AX1227,9R9CPYF9S5W5390LF,Mercedes-Benz,C-Class,AMG Line,2017,Sedan,Hybrid,Manual,Used,81824,Midnight Black,13400,11600,b-downtown,Sold,2025-09-15,2025-11-22,68
+v-0228,AX1228,8ZXK000CL5ZTDH0Z6,Tesla,Model Y,RWD,2021,SUV,Electric,Automatic,Used,40042,Silver Metallic,23500,19800,b-downtown,Sold,2025-09-19,2026-04-08,201
+v-0229,AX1229,U77U7J2UG3HTNAGA0,Hyundai,Staria,Load,2023,Van,Diesel,Automatic,Used,32407,Graphite Grey,29400,23700,b-northside,Sold,2025-09-22,2025-09-29,7
+v-0230,AX1230,566KE2YMR5NAV5K7D,Toyota,Corolla,LE,2025,Sedan,Petrol,Automatic,New,23,Pearl White,24700,22800,b-northside,Sold,2025-09-23,2025-10-07,14
+v-0231,AX1231,NXW6VZSUBUPEYPSA4,BMW,X5,M Sport,2017,SUV,Hybrid,Automatic,Used,92306,Graphite Grey,18600,15600,b-northside,Sold,2025-09-27,2025-11-02,36
+v-0232,AX1232,RFFGB098NVZ0PZCVF,Suzuki,Swift,GL,2020,Hatchback,Petrol,Automatic,Used,73977,Pearl White,7000,5600,b-northside,Sold,2025-10-01,2025-11-08,38
+v-0233,AX1233,LG0R3XMYH6EFX11GM,BMW,X5,xLine,2025,SUV,Diesel,Automatic,New,21,Forest Green,69500,63600,b-northside,Sold,2025-10-02,2025-11-05,34
+v-0234,AX1234,VDN9W08EDPVF4RR7F,Volkswagen,Golf,Life,2023,Hatchback,Petrol,Automatic,Used,32383,Deep Blue,20300,16900,b-northside,Sold,2025-10-03,2025-11-23,51
+v-0235,AX1235,LV5GC4GCUGXG91142,Tesla,Model Y,RWD,2021,SUV,Electric,Automatic,Used,60186,Forest Green,22600,18300,b-northside,Sold,2025-10-03,2026-03-08,156
+v-0236,AX1236,NXRJGJ0A2D64E02YR,Tesla,Model Y,RWD,2025,SUV,Electric,Automatic,New,58,Pearl White,48000,44800,b-downtown,Sold,2025-10-04,2026-03-25,172
+v-0237,AX1237,JXR7Z31CE5JL7WFW1,Hyundai,Staria,Elite,2017,Van,Diesel,Automatic,Used,121449,Pearl White,10900,9500,b-downtown,Sold,2025-10-06,2025-10-28,22
+v-0238,AX1238,BGVMCK0HPL4WHEMRJ,Tesla,Model Y,RWD,2025,SUV,Electric,Automatic,New,52,Racing Red,46900,42400,b-northside,Sold,2025-10-07,2026-01-24,109
+v-0239,AX1239,81PYJSDA57KH4FE5W,Tesla,Model 3,RWD,2019,Sedan,Electric,Automatic,Used,91425,Graphite Grey,14400,11700,b-downtown,Sold,2025-10-09,2025-12-24,76
+v-0240,AX1240,2B7NYATEL4HES18WT,Mercedes-Benz,GLC,AMG Line,2025,SUV,Diesel,Automatic,New,14,Pearl White,60900,55700,b-downtown,Sold,2025-10-10,2025-11-19,40
+v-0241,AX1241,90MP817D44LJR5AP3,Hyundai,Staria,Load,2025,Van,Diesel,Automatic,New,7,Forest Green,40800,38200,b-northside,Sold,2025-10-11,2025-10-27,16
+v-0242,AX1242,Z8TXNU82XGPFNXNYC,Honda,CR-V,EX,2023,SUV,Petrol,Automatic,Used,24091,Silver Metallic,25300,22400,b-downtown,Sold,2025-10-12,2025-11-16,35
+v-0243,AX1243,70WNKSKTWB8025NFS,Kia,Picanto,S,2021,Hatchback,Petrol,Automatic,Used,51484,Midnight Black,7500,6100,b-downtown,Sold,2025-10-12,2025-11-03,22
+v-0244,AX1244,DUUY7UAW2SLWZ30G9,Toyota,Camry,LE,2021,Sedan,Hybrid,Manual,Used,57666,Racing Red,14800,12500,b-downtown,Sold,2025-10-13,2025-11-08,26
+v-0245,AX1245,F72YE9G7N3BTLEPWG,Hyundai,Staria,Elite,2019,Van,Diesel,Automatic,Used,84379,Midnight Black,15800,12900,b-downtown,Sold,2025-10-14,2025-11-08,25
+v-0246,AX1246,M34N5CVE0VVUT6RPG,Kia,Sportage,EX,2018,SUV,Hybrid,Automatic,Used,90679,Pearl White,9600,7800,b-downtown,Sold,2025-10-17,2025-12-31,75
+v-0247,AX1247,DLYZ2B26GVPKRUUKH,Hyundai,Staria,Load,2025,Van,Diesel,Automatic,New,51,Racing Red,43100,39800,b-downtown,Sold,2025-10-19,2026-01-13,86
+v-0248,AX1248,45EFWNB8XJ59TZ4UH,BMW,X5,xLine,2025,SUV,Hybrid,Manual,New,49,Sand Beige,71300,64600,b-northside,Sold,2025-10-20,2025-12-28,69
+v-0249,AX1249,H8PH72W3UJAXZRTT4,Kia,Sorento,SX,2018,SUV,Petrol,Automatic,Used,78323,Pearl White,13300,10900,b-downtown,Sold,2025-10-22,2026-01-14,84
+v-0250,AX1250,YK9VT62XHX7A4W2Y0,Tesla,Model Y,RWD,2023,SUV,Electric,Automatic,Used,29955,Midnight Black,32300,27900,b-downtown,Sold,2025-10-24,2025-11-20,27
+v-0251,AX1251,06FCH8BLP8G1REE4Y,Hyundai,Elantra,SEL,2019,Sedan,Hybrid,Manual,Used,78903,Pearl White,8700,7400,b-downtown,Sold,2025-10-29,2026-04-24,177
+v-0252,AX1252,DKE5B8001LGUE1NLH,Ford,Transit Custom,Trend,2025,Van,Diesel,Automatic,New,8,Forest Green,38900,36100,b-northside,Sold,2025-10-29,2025-11-16,18
+v-0253,AX1253,PXFS9C1XDZ34RVU9R,Hyundai,Elantra,SE,2018,Sedan,Petrol,Automatic,Used,108710,Midnight Black,6600,5500,b-northside,Sold,2025-10-30,2026-01-11,73
+v-0254,AX1254,R580PB86CC66S0UAD,BMW,3 Series,Luxury,2025,Sedan,Hybrid,Automatic,New,53,Silver Metallic,49200,45000,b-northside,Sold,2025-10-31,2025-11-07,7
+v-0255,AX1255,21X7SN5S56ZP6XLSW,Toyota,Yaris,SX,2019,Hatchback,Petrol,Automatic,Used,86982,Pearl White,7100,5900,b-downtown,Sold,2025-11-01,2026-02-21,112
+v-0256,AX1256,CAEJZMA5HWWX0SAWG,Ford,Transit Custom,Trend,2025,Van,Diesel,Automatic,New,13,Forest Green,41200,38700,b-northside,Sold,2025-11-02,2025-11-30,28
+v-0257,AX1257,5JK6SH3SU056NGTGY,Tesla,Model Y,RWD,2025,SUV,Electric,Automatic,New,6,Pearl White,44700,40400,b-downtown,Sold,2025-11-03,2026-06-07,216
+v-0258,AX1258,WZ98JTJCGFBP3DF6F,Mercedes-Benz,C-Class,Avantgarde,2017,Sedan,Hybrid,Automatic,Used,104365,Silver Metallic,11900,9800,b-downtown,Sold,2025-11-06,2025-12-25,49
+v-0259,AX1259,NWEZ32VWBXV3SHY6F,Mazda,CX-5,Touring,2025,SUV,Petrol,Automatic,New,34,Pearl White,32600,29600,b-downtown,Sold,2025-11-07,2025-11-17,10
+v-0260,AX1260,5VEVKVCHGNRT379MR,Kia,Sportage,GT-Line,2024,SUV,Hybrid,Automatic,Used,13161,Silver Metallic,29300,25000,b-downtown,Sold,2025-11-08,2025-12-03,25
+v-0261,AX1261,FUWWL1N78ETZTU0KW,Nissan,Leaf,S,2025,Hatchback,Electric,Automatic,New,8,Midnight Black,30600,27400,b-northside,Sold,2025-11-09,2025-12-06,27
+v-0262,AX1262,0L32ANKBFWLPFPBAY,Ford,Transit Custom,Trend,2019,Van,Diesel,Manual,Used,54963,Pearl White,14700,13000,b-downtown,Sold,2025-11-10,2025-11-20,10
+v-0263,AX1263,31CC68MPCD84HCJY8,Mercedes-Benz,C-Class,Avantgarde,2022,Sedan,Hybrid,Automatic,Used,44022,Midnight Black,28300,23000,b-downtown,Sold,2025-11-11,2025-12-06,25
+v-0264,AX1264,G68D96EVJ19K2BWC9,BMW,4 Series,Sport,2023,Coupe,Petrol,Automatic,Used,27771,Graphite Grey,36700,32900,b-downtown,Sold,2025-11-11,2025-12-26,45
+v-0265,AX1265,K446XYACBSWHW1KFJ,Honda,CR-V,LX,2019,SUV,Petrol,Automatic,Used,67508,Pearl White,11800,10000,b-downtown,Sold,2025-11-13,2025-12-07,24
+v-0266,AX1266,C7RW914ZZJ68B1J2V,Tesla,Model 3,Long Range,2019,Sedan,Electric,Automatic,Used,80402,Silver Metallic,15900,13800,b-northside,Sold,2025-11-14,2026-01-22,69
+v-0267,AX1267,B3T9ZY3L2GLAXPK4Y,Kia,Picanto,S,2020,Hatchback,Petrol,Automatic,Used,74743,Graphite Grey,6200,5500,b-northside,Sold,2025-11-18,2026-04-19,152
+v-0268,AX1268,2LJCZBW74EEXY6UTR,Ford,Transit Custom,Limited,2022,Van,Diesel,Automatic,Used,31703,Forest Green,26000,20900,b-downtown,Sold,2025-11-19,2025-12-11,22
+v-0269,AX1269,6LXGPBH0EW37YPDMV,Tesla,Model Y,RWD,2017,SUV,Electric,Automatic,Used,123980,Midnight Black,11000,9300,b-downtown,Sold,2025-11-22,2025-12-28,36
+v-0270,AX1270,A4M93AHZWF3AU7F0F,Ford,Mustang,GT,2025,Coupe,Petrol,Automatic,New,33,Silver Metallic,42500,39300,b-northside,Sold,2025-11-24,2026-01-27,64
+v-0271,AX1271,PDJ6YV1V17GCTG6UZ,BMW,X5,M Sport,2021,SUV,Diesel,Automatic,Used,54067,Racing Red,36600,29400,b-northside,Sold,2025-11-25,2025-12-07,12
+v-0272,AX1272,BS7P3Y05BBAFZBZLX,Tesla,Model 3,RWD,2020,Sedan,Electric,Automatic,Used,74379,Forest Green,17300,15500,b-northside,Sold,2025-11-28,2025-12-27,29
+v-0273,AX1273,H14BF4BLSTDRK2S6K,Hyundai,Elantra,SEL,2023,Sedan,Petrol,Automatic,Used,26511,Racing Red,17600,15100,b-northside,Sold,2025-12-02,2026-02-20,80
+v-0274,AX1274,XYHHGP41NFZSK2WTF,Toyota,Yaris,ZR,2025,Hatchback,Hybrid,Automatic,New,49,Silver Metallic,23100,21700,b-northside,Sold,2025-12-03,2026-01-13,41
+v-0275,AX1275,7ZYSWCRV3REUXNA74,BMW,X5,xLine,2025,SUV,Diesel,Automatic,New,31,Sand Beige,67400,61700,b-northside,Sold,2025-12-04,2025-12-31,27
+v-0276,AX1276,B4V2PHDFLWG86Z727,Hyundai,Elantra,SEL,2019,Sedan,Petrol,Automatic,Used,90074,Racing Red,8500,7100,b-downtown,Sold,2025-12-06,2026-02-08,64
+v-0277,AX1277,02YCW14PD8N2ANE5V,Ford,Ranger,Wildtrak,2022,Pickup,Diesel,Manual,Used,40955,Pearl White,24700,20400,b-northside,Sold,2025-12-07,2026-02-01,56
+v-0278,AX1278,HPHY8FFWBA99A3K38,Hyundai,Elantra,SEL,2021,Sedan,Hybrid,Automatic,Used,48794,Silver Metallic,12500,10800,b-downtown,Sold,2025-12-10,2026-01-08,29
+v-0279,AX1279,6NZ6TD7DSB77HP484,Suzuki,Swift,GLX,2025,Hatchback,Hybrid,Manual,New,57,Midnight Black,18400,17000,b-downtown,Sold,2025-12-14,2026-04-23,130
+v-0280,AX1280,R58DXK3F5TS3CKPU6,Toyota,Hilux,SR5,2025,Pickup,Diesel,Manual,New,17,Forest Green,40700,38200,b-downtown,Sold,2025-12-15,2026-02-01,48
+v-0281,AX1281,CZ17X19E1CNY8PLTW,Honda,City,S,2021,Sedan,Petrol,Automatic,Used,46852,Forest Green,9300,7500,b-northside,Sold,2025-12-16,2026-02-18,64
+v-0282,AX1282,VEBHR83A7ZM8YNLYY,Volkswagen,Golf,Life,2018,Hatchback,Petrol,Automatic,Used,63178,Midnight Black,9000,7400,b-downtown,Sold,2025-12-17,2026-01-05,19
+v-0283,AX1283,HK2HG7TU329A9KTMP,Hyundai,Tucson,SEL,2019,SUV,Diesel,Automatic,Used,58390,Pearl White,12200,10000,b-northside,Sold,2025-12-18,2026-01-11,24
+v-0284,AX1284,46BZ8AJJ3JRS9HL43,Ford,Mustang,GT,2021,Coupe,Petrol,Automatic,Used,49264,Graphite Grey,21100,17700,b-northside,Sold,2025-12-19,2026-06-10,173
+v-0285,AX1285,ZJTX5R5YZVT6JTU81,Suzuki,Swift,GL,2024,Hatchback,Petrol,Automatic,Used,7292,Pearl White,14400,11800,b-northside,Sold,2025-12-22,2026-01-17,26
+v-0286,AX1286,JX0KWWF6HWLFNP1K8,Mercedes-Benz,GLC,Avantgarde,2019,SUV,Petrol,Automatic,Used,95120,Forest Green,19100,16500,b-northside,Sold,2025-12-23,2026-01-25,33
+v-0287,AX1287,JBPMDKWPPMHGR3WLC,BMW,3 Series,M Sport,2025,Sedan,Hybrid,Automatic,New,56,Midnight Black,56000,50800,b-northside,Sold,2025-12-24,2026-01-09,16
+v-0288,AX1288,8ZER5JHR4B35Y1SF8,Hyundai,Staria,Elite,2022,Van,Diesel,Automatic,Used,33973,Pearl White,27200,24300,b-downtown,Sold,2025-12-25,2026-01-12,18
+v-0289,AX1289,JJMRDAE39LUKKYZEW,Suzuki,Swift,GL,2017,Hatchback,Hybrid,Automatic,Used,109485,Silver Metallic,4200,3500,b-northside,Sold,2025-12-26,2026-01-12,17
+v-0290,AX1290,6EXVR5GHKPAX6GUG8,Toyota,Corolla,XSE,2021,Sedan,Petrol,Automatic,Used,56788,Forest Green,13800,11600,b-downtown,Sold,2025-12-26,2026-01-27,32
+v-0291,AX1291,5V2JL5XR2F8B6YR23,Kia,Sportage,GT-Line,2021,SUV,Petrol,Automatic,Used,39978,Silver Metallic,17800,14700,b-northside,Sold,2025-12-29,2026-01-28,30
+v-0292,AX1292,ZRDUWMPH6T03TTV10,Honda,CR-V,Touring,2025,SUV,Hybrid,Automatic,New,54,Midnight Black,39000,35100,b-downtown,Sold,2025-12-31,2026-01-26,26
+v-0293,AX1293,AT1AMSPT5G4EST4TY,Mazda,CX-5,Touring,2022,SUV,Petrol,Automatic,Used,55319,Midnight Black,16600,13400,b-downtown,Sold,2026-01-02,2026-03-19,76
+v-0294,AX1294,ZDLM2L095FS5RR70H,Toyota,Camry,XLE,2022,Sedan,Hybrid,Automatic,Used,63367,Midnight Black,17000,14700,b-downtown,Sold,2026-01-03,2026-03-05,61
+v-0295,AX1295,KE7BC0YC8D3PW9EC7,Mercedes-Benz,C-Class,Avantgarde,2024,Sedan,Hybrid,Automatic,Used,22002,Silver Metallic,34200,28500,b-northside,Sold,2026-01-04,2026-01-11,7
+v-0296,AX1296,THBCZ5J3R70KFC9VF,Tesla,Model Y,Long Range,2021,SUV,Electric,Automatic,Used,51374,Pearl White,21400,19000,b-downtown,Sold,2026-01-06,2026-02-02,27
+v-0297,AX1297,WN526AARM1HEH1XTA,Toyota,Yaris,ZR,2020,Hatchback,Hybrid,Automatic,Used,68536,Midnight Black,7900,6600,b-downtown,Sold,2026-01-07,2026-01-21,14
+v-0298,AX1298,5FKFLNVGCKUXFA8VE,Toyota,Camry,LE,2021,Sedan,Hybrid,Automatic,Used,56173,Midnight Black,12800,11000,b-northside,Sold,2026-01-08,2026-03-16,67
+v-0299,AX1299,5R1T1YKET39GXMGZL,Hyundai,Tucson,SEL,2021,SUV,Hybrid,Automatic,Used,59043,Graphite Grey,14200,12500,b-downtown,Sold,2026-01-09,2026-01-22,13
+v-0300,AX1300,HKKMVJ3WTZEXJ23N6,Honda,City,V,2021,Sedan,Petrol,Automatic,Used,71495,Silver Metallic,8300,6800,b-northside,Sold,2026-01-10,2026-02-02,23
+v-0301,AX1301,AF74GGJR0T7ANREP2,Hyundai,Elantra,SEL,2019,Sedan,Hybrid,Manual,Used,60758,Midnight Black,7800,6500,b-northside,Sold,2026-01-13,2026-02-19,37
+v-0302,AX1302,AB2KYYAH6LBNJP52V,Honda,City,RS,2026,Sedan,Petrol,Automatic,New,21,Sand Beige,21400,19500,b-downtown,Sold,2026-01-15,2026-02-24,40
+v-0303,AX1303,BB0JCDTJ0ZFSN6WK9,Suzuki,Swift,GLX,2021,Hatchback,Hybrid,Automatic,Used,67170,Silver Metallic,7700,6800,b-downtown,Sold,2026-01-19,2026-04-08,79
+v-0304,AX1304,JVFB0SLCJJ2FKSDFY,BMW,X5,xLine,2026,SUV,Diesel,Automatic,New,30,Midnight Black,69800,63100,b-downtown,Sold,2026-01-21,2026-02-23,33
+v-0305,AX1305,VGDTSEE5BWNULYAN6,Toyota,RAV4,XLE,2021,SUV,Hybrid,Automatic,Used,70185,Pearl White,14400,11900,b-downtown,Sold,2026-01-22,2026-02-16,25
+v-0306,AX1306,EDP46PHKEE0UH11RE,Honda,City,V,2022,Sedan,Petrol,Automatic,Used,60175,Graphite Grey,9800,8100,b-downtown,Sold,2026-01-23,2026-02-17,25
+v-0307,AX1307,UF90B0994XW5W2H68,Toyota,Corolla,SE,2019,Sedan,Hybrid,Automatic,Used,88988,Silver Metallic,7700,6200,b-downtown,Sold,2026-01-25,2026-02-01,7
+v-0308,AX1308,C2WKUF455668AZHB8,BMW,X5,M Sport,2026,SUV,Diesel,Automatic,New,14,Racing Red,76800,69600,b-downtown,Sold,2026-01-27,2026-04-06,69
+v-0309,AX1309,3697CVXHK16J8LFF7,BMW,3 Series,Sport,2023,Sedan,Hybrid,Manual,Used,36674,Forest Green,27500,23800,b-downtown,Sold,2026-01-31,2026-02-20,20
+v-0310,AX1310,WV555XE7FGKSYDKWH,Toyota,Camry,SE,2026,Sedan,Petrol,Automatic,New,20,Pearl White,32600,29800,b-downtown,Sold,2026-02-01,2026-02-26,25
+v-0311,AX1311,K78J1KF4E2230MUA3,Toyota,RAV4,Limited,2019,SUV,Hybrid,Automatic,Used,68982,Racing Red,11400,10200,b-northside,Sold,2026-02-05,2026-03-02,25
+v-0312,AX1312,7MXP6AGD75HXATS24,Toyota,Corolla,LE,2019,Sedan,Hybrid,Automatic,Used,104907,Silver Metallic,6900,6100,b-northside,Sold,2026-02-06,2026-03-29,51
+v-0313,AX1313,YXE2WCAC9DFD8KPV6,Hyundai,Elantra,N Line,2026,Sedan,Petrol,Automatic,New,35,Graphite Grey,26200,24200,b-northside,Sold,2026-02-08,2026-02-17,9
+v-0314,AX1314,FMBC9ZGFVAA604XJ9,BMW,4 Series,M Sport,2023,Coupe,Petrol,Automatic,Used,44801,Midnight Black,33100,28900,b-downtown,Sold,2026-02-09,2026-02-27,18
+v-0315,AX1315,Y7V4EL2KKRVP8GE2Y,Toyota,Yaris,ZR,2026,Hatchback,Petrol,Automatic,New,52,Pearl White,22600,20400,b-northside,Sold,2026-02-10,2026-02-20,10
+v-0316,AX1316,9EKFTGECRC8JGH4NY,Toyota,RAV4,Limited,2025,SUV,Hybrid,Automatic,Used,11099,Graphite Grey,31300,26800,b-downtown,Sold,2026-02-12,2026-03-29,45
+v-0317,AX1317,S6N04AFXS6GS04VLD,Ford,Ranger,XLT,2019,Pickup,Petrol,Automatic,Used,61310,Pearl White,12100,9800,b-northside,Sold,2026-02-14,2026-05-07,82
+v-0318,AX1318,PPXZAUUHAH3HBAC3S,Kia,Picanto,S,2020,Hatchback,Petrol,Manual,Used,86311,Midnight Black,5200,4500,b-northside,Sold,2026-02-17,2026-03-30,41
+v-0319,AX1319,CB4XEZ7Y15P2W19HT,Ford,Mustang,GT Premium,2026,Coupe,Petrol,Automatic,New,14,Racing Red,47100,42400,b-northside,Sold,2026-02-18,2026-03-01,11
+v-0320,AX1320,P2673E1V86LVAYTNS,Mercedes-Benz,C-Class,AMG Line,2021,Sedan,Hybrid,Automatic,Used,57870,Silver Metallic,22000,18000,b-northside,Sold,2026-02-19,2026-03-04,13
+v-0321,AX1321,A9SCNRH4GBXL0J4U7,Honda,Civic,Sport,2022,Sedan,Petrol,Automatic,Used,42189,Midnight Black,14300,12400,b-downtown,Sold,2026-02-21,2026-03-31,38
+v-0322,AX1322,ED6HXJ108BHHCD96N,Ford,Ranger,Wildtrak,2024,Pickup,Petrol,Manual,Used,24848,Silver Metallic,29600,24700,b-downtown,Sold,2026-02-22,2026-03-17,23
+v-0323,AX1323,76S438ATCVE9X66JH,Hyundai,Staria,Elite,2025,Van,Diesel,Automatic,Used,14736,Graphite Grey,38100,31800,b-northside,Sold,2026-02-23,2026-06-01,98
+v-0324,AX1324,FXL35S3VVLSLUNY69,Honda,CR-V,EX,2026,SUV,Hybrid,Automatic,New,26,Racing Red,34700,32500,b-northside,Sold,2026-02-25,2026-04-08,42
+v-0325,AX1325,UDF7KJ1AFSE3T65WP,Suzuki,Swift,GL,2026,Hatchback,Hybrid,Automatic,New,47,Midnight Black,16600,15600,b-northside,Sold,2026-02-26,2026-08-03,158
+v-0326,AX1326,WG5HSGZJPM7H5M36S,Toyota,Yaris,SX,2022,Hatchback,Hybrid,Automatic,Used,52251,Graphite Grey,10200,8500,b-downtown,Sold,2026-02-27,2026-04-09,41
+v-0327,AX1327,906RL2UCZ6ZCA2SWZ,Honda,City,RS,2026,Sedan,Petrol,Automatic,New,7,Silver Metallic,20800,19000,b-downtown,Sold,2026-02-28,2026-04-13,44
+v-0328,AX1328,WJCZBTRCTR21938A0,Hyundai,Elantra,N Line,2018,Sedan,Petrol,Automatic,Used,82136,Forest Green,6900,5900,b-downtown,Sold,2026-03-02,2026-05-22,81
+v-0329,AX1329,VGBNT4ASJGKT78BTB,Toyota,RAV4,LE,2018,SUV,Petrol,Automatic,Used,130709,Pearl White,7700,6300,b-northside,Sold,2026-03-03,2026-03-23,20
+v-0330,AX1330,D6L0RY3YPKY5TLUC0,Ford,Mustang,GT Premium,2022,Coupe,Petrol,Automatic,Used,47538,Pearl White,22800,18300,b-downtown,Sold,2026-03-08,2026-04-20,43
+v-0331,AX1331,7NVJGRMB39CPWP8CL,Hyundai,Staria,Elite,2021,Van,Diesel,Manual,Used,65166,Silver Metallic,19000,17000,b-downtown,Sold,2026-03-10,2026-06-06,88
+v-0332,AX1332,AXR0JRDJWRHWNEWX3,Mercedes-Benz,C-Class,AMG Line,2020,Sedan,Hybrid,Automatic,Used,69881,Racing Red,18500,16000,b-downtown,Sold,2026-03-11,2026-04-06,26
+v-0333,AX1333,F263C0D4ZMAAMG8G4,Suzuki,Swift,GL,2025,Hatchback,Petrol,Manual,Used,11473,Midnight Black,14300,11700,b-northside,Sold,2026-03-15,2026-04-14,30
+v-0334,AX1334,9E4V7VVMLVYJVZS6G,Toyota,Camry,XLE,2023,Sedan,Petrol,Automatic,Used,47502,Racing Red,20400,17800,b-northside,Sold,2026-03-16,2026-05-05,50
+v-0335,AX1335,XMFAXA78HS4R2KVYR,Hyundai,Elantra,N Line,2026,Sedan,Petrol,Automatic,New,49,Silver Metallic,26900,25100,b-downtown,Sold,2026-03-17,2026-05-11,55
+v-0336,AX1336,YHK1V089VPPD2GDKD,Tesla,Model 3,Performance,2020,Sedan,Electric,Automatic,Used,84497,Midnight Black,16900,14700,b-downtown,Sold,2026-03-18,2026-04-18,31
+v-0337,AX1337,V8ACN4MT6DUJUWWZ4,Toyota,RAV4,Limited,2026,SUV,Petrol,Automatic,New,10,Silver Metallic,38200,35500,b-northside,Sold,2026-03-20,2026-04-22,33
+v-0338,AX1338,TT7JWUENZZXWC3AA4,Honda,Civic,LX,2026,Sedan,Petrol,Automatic,New,48,Pearl White,26300,24100,b-downtown,Sold,2026-03-21,2026-04-15,25
+v-0339,AX1339,0KZU5SRNY9R3LBWWB,Toyota,Camry,XLE,2020,Sedan,Hybrid,Automatic,Used,63844,Silver Metallic,12600,10700,b-downtown,Available,2026-03-22,,190
+v-0340,AX1340,B9LBLB7S4U5S4NPMN,Hyundai,Tucson,SEL,2025,SUV,Petrol,Automatic,Used,17426,Midnight Black,28000,24900,b-downtown,Sold,2026-03-24,2026-05-01,38
+v-0341,AX1341,75VPESTZJNXYHNY40,Honda,CR-V,LX,2026,SUV,Petrol,Automatic,New,30,Silver Metallic,33500,30800,b-downtown,Sold,2026-03-25,2026-04-04,10
+v-0342,AX1342,YLS6705LGWWX8XAYN,Kia,Sportage,LX,2026,SUV,Hybrid,Automatic,New,28,Midnight Black,30500,28500,b-downtown,Sold,2026-03-26,2026-04-15,20
+v-0343,AX1343,PDM5LL1VYRDESNMVX,Honda,CR-V,EX,2023,SUV,Hybrid,Manual,Used,35007,Forest Green,21300,18800,b-downtown,Sold,2026-03-27,2026-06-14,79
+v-0344,AX1344,J7DRFA2FGZ95FH5VD,Mazda,CX-5,Sport,2023,SUV,Petrol,Automatic,Used,37795,Sand Beige,18500,16400,b-northside,Sold,2026-03-30,2026-05-23,54
+v-0345,AX1345,W7DJFJY8F9VG355HL,Honda,City,S,2019,Sedan,Petrol,Automatic,Used,100853,Pearl White,5400,4600,b-northside,Sold,2026-03-31,2026-04-09,9
+v-0346,AX1346,L2HC7S6DAFHNHEJ6H,Mercedes-Benz,C-Class,Avantgarde,2026,Sedan,Hybrid,Automatic,New,7,Pearl White,47900,44300,b-downtown,Sold,2026-04-02,2026-05-08,36
+v-0347,AX1347,A9437BHDZX08BY1LZ,Hyundai,Elantra,N Line,2021,Sedan,Hybrid,Manual,Used,75037,Pearl White,11000,9300,b-downtown,Available,2026-04-04,,177
+v-0348,AX1348,3Y8NMA0HGRUJRAXN3,BMW,X5,xLine,2018,SUV,Hybrid,Automatic,Used,105096,Racing Red,16800,14500,b-downtown,Sold,2026-04-05,2026-05-02,27
+v-0349,AX1349,LAVKUG7DCJUMFAMS7,Mercedes-Benz,GLC,Avantgarde,2026,SUV,Diesel,Manual,New,27,Silver Metallic,55100,51000,b-downtown,Sold,2026-04-06,2026-04-21,15
+v-0350,AX1350,JWV512SBTU8TUMAN2,Toyota,RAV4,XLE,2024,SUV,Petrol,Automatic,Used,27637,Deep Blue,24400,20500,b-northside,Sold,2026-04-08,2026-05-18,40
+v-0351,AX1351,3LWAV8PNRJST7H4ZL,Toyota,Corolla,XSE,2020,Sedan,Petrol,Manual,Used,71386,Forest Green,9900,8800,b-northside,Sold,2026-04-09,2026-05-12,33
+v-0352,AX1352,FK02HGSW9N1PBJXLT,Mercedes-Benz,C-Class,AMG Line,2020,Sedan,Petrol,Automatic,Used,73239,Sand Beige,18400,15700,b-northside,Sold,2026-04-10,2026-05-13,33
+v-0353,AX1353,U8T0DUC2W77EEPCKS,Honda,City,S,2026,Sedan,Petrol,Automatic,New,59,Graphite Grey,18900,17200,b-downtown,Sold,2026-04-11,2026-04-30,19
+v-0354,AX1354,5LTFAK2AMS90Y3993,Nissan,Leaf,SV,2018,Hatchback,Electric,Automatic,Used,121434,Racing Red,7800,6800,b-downtown,Sold,2026-04-12,2026-09-08,149
+v-0355,AX1355,72BE29H62BWFD69Y4,Honda,CR-V,EX,2019,SUV,Petrol,Automatic,Used,93642,Pearl White,10500,8800,b-northside,Sold,2026-04-15,2026-05-06,21
+v-0356,AX1356,1U7NJ5NK1L0TUB3TC,Toyota,Yaris,ZR,2018,Hatchback,Hybrid,Automatic,Used,91343,Silver Metallic,5600,4600,b-northside,Sold,2026-04-15,2026-05-18,33
+v-0357,AX1357,1R8U4BN8RJ4S6A7ZR,Toyota,Corolla,SE,2023,Sedan,Petrol,Automatic,Used,37202,Graphite Grey,15500,13100,b-downtown,Sold,2026-04-18,2026-05-29,41
+v-0358,AX1358,0WNS8SCGDJL1MBLF5,Ford,Transit Custom,Limited,2024,Van,Diesel,Manual,Used,20950,Pearl White,30800,26200,b-downtown,Sold,2026-04-22,2026-05-25,33
+v-0359,AX1359,ZXDU0CL7NMWDZSYV8,Ford,Ranger,Wildtrak,2023,Pickup,Diesel,Manual,Used,32082,Pearl White,25100,20900,b-northside,Sold,2026-04-23,2026-04-30,7
+v-0360,AX1360,9ZRGL3WDS5N0Z17G1,Honda,Civic,LX,2019,Sedan,Petrol,Automatic,Used,111322,Deep Blue,7400,6000,b-northside,Sold,2026-04-24,2026-06-01,38
+v-0361,AX1361,Y1F4JMBY63S4098AH,Mercedes-Benz,C-Class,AMG Line,2022,Sedan,Petrol,Automatic,Used,59420,Silver Metallic,25500,21300,b-northside,Sold,2026-05-02,2026-05-11,9
+v-0362,AX1362,DZ36T5W5B8JHZ1S3R,Hyundai,Staria,Elite,2026,Van,Diesel,Automatic,New,59,Silver Metallic,46100,42300,b-downtown,Sold,2026-05-03,2026-06-14,42
+v-0363,AX1363,H412PAJGH8N3KRWNV,Ford,Mustang,GT,2019,Coupe,Petrol,Manual,Used,102379,Pearl White,12100,9900,b-downtown,Sold,2026-05-05,2026-06-23,49
+v-0364,AX1364,5P62GJ8BHMH5XNDMK,Toyota,RAV4,Limited,2026,SUV,Petrol,Automatic,New,57,Pearl White,38600,34700,b-northside,Sold,2026-05-06,2026-07-12,67
+v-0365,AX1365,NNR2J90HTG52MP6T6,Hyundai,Elantra,SE,2022,Sedan,Hybrid,Automatic,Used,62829,Deep Blue,11300,9700,b-downtown,Sold,2026-05-07,2026-05-21,14
+v-0366,AX1366,WFANFASN7940BR9XW,BMW,3 Series,Luxury,2026,Sedan,Petrol,Automatic,New,11,Deep Blue,51800,46700,b-northside,Sold,2026-05-09,2026-06-08,30
+v-0367,AX1367,WTTSYJYUNSF9K9ZRA,Toyota,RAV4,Limited,2024,SUV,Hybrid,Automatic,Used,16082,Silver Metallic,26700,23000,b-downtown,Available,2026-05-11,,140
+v-0368,AX1368,06KVTTVHENMBT8LZV,BMW,3 Series,Sport,2024,Sedan,Petrol,Automatic,Used,26392,Silver Metallic,32500,26400,b-downtown,Sold,2026-05-12,2026-05-30,18
+v-0369,AX1369,KJSMANUZJ9KGJ05SC,Ford,Mustang,GT,2026,Coupe,Petrol,Automatic,New,35,Silver Metallic,43500,40600,b-northside,Sold,2026-05-12,2026-06-11,30
+v-0370,AX1370,T5EF8NZHVT0TA60UA,Volkswagen,Golf,Life,2021,Hatchback,Petrol,Automatic,Used,58383,Pearl White,12300,10800,b-northside,Sold,2026-05-13,2026-05-20,7
+v-0371,AX1371,9627MDDKWPPPJKLZG,Nissan,Leaf,SV,2022,Hatchback,Electric,Automatic,Used,52997,Silver Metallic,16200,13600,b-downtown,Sold,2026-05-14,2026-06-10,27
+v-0372,AX1372,LD4PFV86BUTV66Y9H,BMW,X5,M Sport,2020,SUV,Hybrid,Automatic,Used,82857,Silver Metallic,25600,21800,b-downtown,Sold,2026-05-16,2026-06-07,22
+v-0373,AX1373,6AK6DHWTVTDZ1PNJ9,Toyota,Hilux,SR5,2018,Pickup,Diesel,Automatic,Used,92570,Graphite Grey,10400,8600,b-downtown,Sold,2026-05-19,2026-06-10,22
+v-0374,AX1374,WFWT8Y86RGKMC54KP,Toyota,Yaris,ZR,2018,Hatchback,Petrol,Automatic,Used,86356,Graphite Grey,5600,5000,b-northside,Sold,2026-05-20,2026-07-13,54
+v-0375,AX1375,FSYDHPSRVC2BCEG4X,Honda,City,V,2025,Sedan,Petrol,Automatic,Used,13113,Pearl White,16800,14400,b-downtown,Sold,2026-05-22,2026-06-21,30
+v-0376,AX1376,H4VWZ234B26098D6A,BMW,4 Series,Sport,2023,Coupe,Petrol,Automatic,Used,48801,Silver Metallic,30400,27300,b-downtown,Sold,2026-05-23,2026-06-25,33
+v-0377,AX1377,ULZ5ZJUK2D10AMYKN,Kia,Sorento,LX,2026,SUV,Petrol,Automatic,New,56,Silver Metallic,37500,34800,b-downtown,Sold,2026-05-24,2026-07-03,40
+v-0378,AX1378,KSMZPPNULP0PU1RYV,Kia,Sorento,EX,2022,SUV,Hybrid,Automatic,Used,36280,Pearl White,21100,18700,b-northside,Sold,2026-05-25,2026-06-30,36
+v-0379,AX1379,BZYADN2BXWDGS3F5S,Toyota,RAV4,Limited,2023,SUV,Petrol,Automatic,Used,38574,Racing Red,22100,17700,b-downtown,Sold,2026-05-26,2026-08-11,77
+v-0380,AX1380,4VKRWSBA6EP3M9D4W,Toyota,RAV4,Limited,2026,SUV,Petrol,Manual,New,40,Graphite Grey,38300,34100,b-downtown,Sold,2026-05-27,2026-06-09,13
+v-0381,AX1381,FJB1BKUSKC433YMBM,Toyota,RAV4,Limited,2018,SUV,Hybrid,Automatic,Used,118974,Racing Red,8900,7200,b-northside,Available,2026-05-28,,123
+v-0382,AX1382,5A31VCVD2MRSYDF1J,Mercedes-Benz,GLC,AMG Line,2019,SUV,Petrol,Automatic,Used,114716,Sand Beige,17000,14600,b-downtown,Available,2026-05-29,,122
+v-0383,AX1383,KN4XFPWML5Z2SG2G3,Ford,Transit Custom,Limited,2022,Van,Diesel,Automatic,Used,43242,Midnight Black,21900,18700,b-downtown,Sold,2026-05-30,2026-06-06,7
+v-0384,AX1384,JPRCBPES9J6EY74K0,Hyundai,Elantra,SE,2021,Sedan,Hybrid,Automatic,Used,53618,Pearl White,9900,8500,b-downtown,Sold,2026-06-04,2026-07-17,43
+v-0385,AX1385,RDJW6K7135BHJ6HM8,Toyota,Corolla,LE,2020,Sedan,Petrol,Automatic,Used,52462,Midnight Black,8900,7500,b-downtown,Sold,2026-06-05,2026-07-10,35
+v-0386,AX1386,RVSDMF5EB97US6GCE,Hyundai,Tucson,SEL,2022,SUV,Hybrid,Automatic,Used,41575,Sand Beige,17000,14000,b-northside,Sold,2026-06-06,2026-07-18,42
+v-0387,AX1387,5YPN0ZXVRTC8HBUBP,Toyota,Camry,SE,2023,Sedan,Petrol,Automatic,Used,39691,Midnight Black,19200,15500,b-downtown,Sold,2026-06-07,2026-07-04,27
+v-0388,AX1388,NKSWCGNGTBV2MA1VU,Toyota,Corolla,SE,2026,Sedan,Hybrid,Automatic,New,28,Silver Metallic,26300,24000,b-downtown,Sold,2026-06-07,2026-07-24,47
+v-0389,AX1389,78CZ8ZD0J4LHGSDS8,Tesla,Model 3,Long Range,2026,Sedan,Electric,Automatic,New,13,Midnight Black,45800,42400,b-northside,Sold,2026-06-11,2026-07-21,40
+v-0390,AX1390,1PDJ7JXA1F69154U9,BMW,3 Series,Sport,2020,Sedan,Hybrid,Automatic,Used,68938,Graphite Grey,16500,14100,b-downtown,Sold,2026-06-12,2026-07-20,38
+v-0391,AX1391,3JB6AFVH6RFUH106D,Mercedes-Benz,GLC,Avantgarde,2022,SUV,Petrol,Automatic,Used,47140,Midnight Black,28200,23700,b-northside,Sold,2026-06-13,2026-07-28,45
+v-0392,AX1392,SXZK1WYU37TFPH196,Toyota,Hilux,SR5,2022,Pickup,Diesel,Automatic,Used,40881,Pearl White,20900,16800,b-downtown,Sold,2026-06-14,2026-08-18,65
+v-0393,AX1393,W3A1ZS12Y61RL72KL,Tesla,Model 3,Performance,2018,Sedan,Electric,Automatic,Used,122033,Silver Metallic,11700,9900,b-downtown,Sold,2026-06-14,2026-06-27,13
+v-0394,AX1394,ZDLCYU341AN2SWAD3,Ford,Transit Custom,Trend,2019,Van,Diesel,Automatic,Used,93363,Deep Blue,11800,10400,b-northside,Available,2026-06-15,,105
+v-0395,AX1395,0HDK3FJDPTZG2ELNS,Ford,Transit Custom,Limited,2026,Van,Diesel,Manual,New,41,Pearl White,42000,37600,b-downtown,Available,2026-06-15,,105
+v-0396,AX1396,PK8A0W599F65VTST1,Ford,Mustang,GT Premium,2026,Coupe,Petrol,Automatic,New,18,Midnight Black,44400,41000,b-downtown,Sold,2026-06-17,2026-07-05,18
+v-0397,AX1397,4GNXU125PXH2WSV6N,Kia,Picanto,S,2025,Hatchback,Petrol,Automatic,Used,10914,Deep Blue,12700,11200,b-downtown,Sold,2026-06-19,2026-07-17,28
+v-0398,AX1398,3VAR2RMCR0Z7AXNVU,Toyota,Corolla,XSE,2018,Sedan,Petrol,Automatic,Used,93547,Silver Metallic,7000,5900,b-downtown,Sold,2026-06-20,2026-08-21,62
+v-0399,AX1399,A14KE9LRXFT1AKFSM,Hyundai,Tucson,Limited,2024,SUV,Petrol,Automatic,Used,23983,Forest Green,25500,21600,b-northside,Sold,2026-06-21,2026-08-21,61
+v-0400,AX1400,P3EF3VRCDF8D15KAY,BMW,4 Series,Sport,2020,Coupe,Petrol,Automatic,Used,95309,Pearl White,17700,14800,b-downtown,Sold,2026-06-27,2026-07-08,11
+v-0401,AX1401,6SG3ZEDNXMTSDK8MX,Hyundai,Elantra,SE,2019,Sedan,Petrol,Automatic,Used,104251,Graphite Grey,6600,5300,b-northside,Sold,2026-06-28,2026-08-03,36
+v-0402,AX1402,TCSYLPZ91W15XTL5R,Toyota,Corolla,SE,2019,Sedan,Hybrid,Automatic,Used,81432,Silver Metallic,7800,6500,b-northside,Sold,2026-06-30,2026-07-25,25
+v-0403,AX1403,YAVUGZEX49NTZG3LT,Honda,Civic,Sport,2026,Sedan,Petrol,Automatic,New,47,Midnight Black,28700,26800,b-downtown,Sold,2026-07-01,2026-07-13,12
+v-0404,AX1404,98PVTJX26DAFUN015,Toyota,RAV4,Limited,2022,SUV,Petrol,Automatic,Used,34188,Graphite Grey,19100,15900,b-downtown,Sold,2026-07-02,2026-07-28,26
+v-0405,AX1405,865611M7BMHY534FP,Toyota,RAV4,LE,2018,SUV,Hybrid,Automatic,Used,77336,Pearl White,8300,6900,b-downtown,Available,2026-07-03,,87
+v-0406,AX1406,LMPLF8D525XNGUWR6,BMW,4 Series,M Sport,2025,Coupe,Petrol,Automatic,Used,12744,Midnight Black,47300,39000,b-downtown,Sold,2026-07-03,2026-08-20,48
+v-0407,AX1407,5R2JFH2YYHNETNWJ0,Toyota,RAV4,Limited,2019,SUV,Petrol,Manual,Used,78593,Pearl White,11200,9500,b-northside,Sold,2026-07-05,2026-08-05,31
+v-0408,AX1408,SLU78UADPF340A2X4,Suzuki,Swift,GLX,2021,Hatchback,Hybrid,Automatic,Used,65442,Silver Metallic,7700,6600,b-downtown,Sold,2026-07-05,2026-08-25,51
+v-0409,AX1409,9N4WP7H5AGS79W288,Suzuki,Swift,GLX,2018,Hatchback,Hybrid,Automatic,Used,122704,Midnight Black,4400,3600,b-downtown,Sold,2026-07-06,2026-08-01,26
+v-0410,AX1410,R3CXZ7NR0TK046BF8,Volkswagen,Golf,Style,2026,Hatchback,Petrol,Automatic,New,5,Forest Green,32400,30000,b-downtown,Sold,2026-07-07,2026-08-15,39
+v-0411,AX1411,Y07C84ZHKHZJYCBUD,Toyota,Corolla,SE,2022,Sedan,Petrol,Automatic,Used,65061,Pearl White,12600,10300,b-northside,Sold,2026-07-08,2026-08-03,26
+v-0412,AX1412,JS4PNLM3635TZKY1E,Mercedes-Benz,GLC,AMG Line,2025,SUV,Diesel,Automatic,Used,11147,Forest Green,51000,45000,b-downtown,Available,2026-07-10,,80
+v-0413,AX1413,RKEJA9TBKLT0WYUD3,Toyota,RAV4,Limited,2026,SUV,Petrol,Automatic,New,23,Midnight Black,37600,35100,b-northside,Sold,2026-07-12,2026-07-26,14
+v-0414,AX1414,D9UX0CH2F3CZWU2R3,Suzuki,Swift,GLX,2026,Hatchback,Hybrid,Automatic,New,7,Deep Blue,18500,16600,b-downtown,Reserved,2026-07-14,,76
+v-0415,AX1415,9H3Z6TY1JU2PYGPBR,Ford,Ranger,Wildtrak,2022,Pickup,Diesel,Automatic,Used,54238,Racing Red,20800,18400,b-downtown,Sold,2026-07-15,2026-07-28,13
+v-0416,AX1416,0HCLBX7AP6A3HYL2A,Ford,Mustang,GT,2026,Coupe,Petrol,Automatic,New,22,Pearl White,42900,40300,b-downtown,Sold,2026-07-16,2026-08-07,22
+v-0417,AX1417,B3KLL8RPZ6M2WPD43,Toyota,Camry,XLE,2026,Sedan,Petrol,Manual,New,12,Silver Metallic,35100,31700,b-northside,Sold,2026-07-18,2026-09-14,58
+v-0418,AX1418,87AAB1JJR11FJSRSU,Mercedes-Benz,C-Class,AMG Line,2021,Sedan,Hybrid,Automatic,Used,74361,Silver Metallic,21400,18000,b-downtown,Sold,2026-07-19,2026-08-12,24
+v-0419,AX1419,YXEWZL72N1HY2THFV,Mercedes-Benz,C-Class,Avantgarde,2024,Sedan,Petrol,Automatic,Used,28163,Pearl White,33800,27800,b-downtown,Available,2026-07-21,,69
+v-0420,AX1420,6A06GDPTBFUYM9C7A,Toyota,Corolla,SE,2020,Sedan,Petrol,Manual,Used,80222,Pearl White,9100,7300,b-northside,Sold,2026-07-24,2026-08-22,29
+v-0421,AX1421,BTADUWYP28VKV6FD3,Mercedes-Benz,C-Class,AMG Line,2026,Sedan,Petrol,Automatic,New,14,Graphite Grey,52800,47100,b-downtown,Available,2026-07-26,,64
+v-0422,AX1422,NTNPYME6X5F2PSPRZ,Ford,Ranger,Wildtrak,2026,Pickup,Petrol,Manual,New,60,Midnight Black,43300,39300,b-downtown,Available,2026-07-28,,62
+v-0423,AX1423,GLVKKRKZ4T5LZDPAH,Hyundai,Elantra,SEL,2024,Sedan,Hybrid,Automatic,Used,21445,Pearl White,17700,15700,b-downtown,Sold,2026-07-31,2026-09-16,47
+v-0424,AX1424,MBZ6LSJGNT66R9RAT,BMW,3 Series,Luxury,2024,Sedan,Petrol,Automatic,Used,29488,Silver Metallic,34900,30900,b-northside,Sold,2026-08-01,2026-08-28,27
+v-0425,AX1425,MN2LJR45Y8YAUZAVF,Toyota,Camry,XLE,2025,Sedan,Petrol,Automatic,Used,11589,Midnight Black,29300,24400,b-downtown,Reserved,2026-08-02,,57
+v-0426,AX1426,HUGYGJB7G0CHG5EDA,Volkswagen,Golf,Style,2019,Hatchback,Petrol,Automatic,Used,84735,Silver Metallic,9400,7600,b-downtown,Available,2026-08-03,,56
+v-0427,AX1427,LAXB32SZ1R7YNJEV6,Nissan,Leaf,SV,2025,Hatchback,Electric,Automatic,Used,14876,Sand Beige,27200,23400,b-northside,Available,2026-08-04,,55
+v-0428,AX1428,AFBYT5ZAB15MGYCBS,Kia,Picanto,GT-Line,2020,Hatchback,Petrol,Automatic,Used,71841,Pearl White,5800,5100,b-northside,Sold,2026-08-05,2026-08-20,15
+v-0429,AX1429,XV39NXC67N2Y5JW0J,Honda,Civic,LX,2023,Sedan,Petrol,Automatic,Used,39187,Midnight Black,15500,13900,b-northside,Sold,2026-08-06,2026-09-16,41
+v-0430,AX1430,XMGFCVW951BF2RVFF,Kia,Sportage,GT-Line,2021,SUV,Hybrid,Automatic,Used,72767,Sand Beige,14400,11800,b-northside,Available,2026-08-06,,53
+v-0431,AX1431,22FB5KND7N4TMEJEG,Mazda,CX-5,Touring,2026,SUV,Petrol,Automatic,New,31,Graphite Grey,33800,30700,b-downtown,Available,2026-08-07,,52
+v-0432,AX1432,JMDSM3SY3NDZ60N5M,Ford,Ranger,XLT,2026,Pickup,Diesel,Automatic,New,41,Racing Red,39700,36400,b-downtown,Sold,2026-08-08,2026-08-28,20
+v-0433,AX1433,F9LRY9S64ER4GJE34,BMW,X5,xLine,2021,SUV,Petrol,Automatic,Used,43520,Midnight Black,29700,25400,b-downtown,Sold,2026-08-09,2026-08-23,14
+v-0434,AX1434,0JTMMBHYE8RK16BTF,Toyota,RAV4,LE,2026,SUV,Petrol,Automatic,New,7,Pearl White,33100,31100,b-downtown,Reserved,2026-08-10,,49
+v-0435,AX1435,DMHEHJHZ3AA3C0LG5,Mazda,CX-5,Sport,2026,SUV,Petrol,Automatic,New,13,Midnight Black,30800,27500,b-downtown,Sold,2026-08-12,2026-08-23,11
+v-0436,AX1436,7YGZ51RHN5PMBGMVF,Hyundai,Staria,Elite,2026,Van,Diesel,Automatic,New,55,Racing Red,46500,42300,b-northside,Sold,2026-08-13,2026-09-23,41
+v-0437,AX1437,R75Z0U8903HJ7TUE8,Toyota,Corolla,XSE,2023,Sedan,Hybrid,Automatic,Used,29370,Midnight Black,16800,14900,b-downtown,Sold,2026-08-14,2026-09-06,23
+v-0438,AX1438,03FKKFN2F2AN0LJYU,Ford,Ranger,Wildtrak,2020,Pickup,Petrol,Automatic,Used,82575,Pearl White,14600,13000,b-northside,Sold,2026-08-21,2026-08-30,9
+v-0439,AX1439,D7JPJPX72A996P0GC,Hyundai,Tucson,Limited,2026,SUV,Petrol,Automatic,New,14,Pearl White,36000,32400,b-northside,Reserved,2026-08-22,,37
+v-0440,AX1440,Y9GXS7XVXCYXXZXR9,Honda,City,S,2026,Sedan,Petrol,Automatic,New,19,Silver Metallic,19100,17700,b-downtown,Sold,2026-08-24,2026-09-16,23
+v-0441,AX1441,DVZ9FPUV8Z4X2NYEL,Toyota,Hilux,Rogue,2024,Pickup,Diesel,Automatic,Used,21725,Silver Metallic,31400,27700,b-downtown,Sold,2026-08-25,2026-09-18,24
+v-0442,AX1442,XZLYM5V0T7YUP1UCB,Mercedes-Benz,GLC,AMG Line,2026,SUV,Petrol,Automatic,New,11,Midnight Black,59800,53800,b-northside,Reserved,2026-08-26,,33
+v-0443,AX1443,9DLWPJYCZGA2U26XY,Hyundai,Tucson,SEL,2023,SUV,Diesel,Automatic,Used,32893,Midnight Black,20100,16100,b-downtown,Available,2026-08-26,,33
+v-0444,AX1444,WZP31ADZUAN9NYNXM,Mazda,CX-5,Akera,2026,SUV,Petrol,Automatic,New,39,Pearl White,35000,31600,b-northside,Sold,2026-08-28,2026-09-14,17
+v-0445,AX1445,0AJVCDA1DC9U2UPUR,Mazda,CX-5,Akera,2026,SUV,Petrol,Automatic,New,15,Pearl White,36500,32800,b-downtown,Available,2026-08-29,,30
+v-0446,AX1446,LUK15VB32K2JB4D9Y,Mercedes-Benz,C-Class,AMG Line,2019,Sedan,Petrol,Automatic,Used,108189,Midnight Black,14800,12800,b-downtown,Available,2026-08-30,,29
+v-0447,AX1447,7BP9VEL59G1RC9D8V,Hyundai,Tucson,SEL,2024,SUV,Diesel,Automatic,Used,20714,Silver Metallic,23900,19200,b-northside,Sold,2026-08-31,2026-09-07,7
+v-0448,AX1448,2ZNZD61JWWXCSCYZM,Toyota,Yaris,ZR,2026,Hatchback,Petrol,Automatic,New,16,Graphite Grey,22500,20900,b-downtown,Sold,2026-09-01,2026-09-20,19
+v-0449,AX1449,X3N74BF4T1NZAFHR6,Suzuki,Swift,GLX,2019,Hatchback,Petrol,Manual,Used,82230,Pearl White,5500,4500,b-downtown,Sold,2026-09-02,2026-09-10,8
+v-0450,AX1450,60N2TDVMM22BL8EGL,Kia,Sorento,LX,2026,SUV,Diesel,Automatic,New,18,Pearl White,39300,36900,b-northside,Available,2026-09-03,,25
+v-0451,AX1451,5BND1M1PV8ANJSBK5,BMW,3 Series,M Sport,2026,Sedan,Petrol,Automatic,New,22,Sand Beige,53100,47700,b-northside,Sold,2026-09-04,2026-09-20,16
+v-0452,AX1452,E8JD3FMNFB4ZL4GGF,Toyota,Hilux,SR,2026,Pickup,Diesel,Automatic,New,19,Pearl White,37600,34000,b-downtown,Sold,2026-09-04,2026-09-11,7
+v-0453,AX1453,HRE326ZH5KW53CG2D,Hyundai,Tucson,Limited,2026,SUV,Petrol,Automatic,New,55,Silver Metallic,36100,33000,b-downtown,Available,2026-09-05,,23
+v-0454,AX1454,L2ABZ238U0ZP6UDE9,Toyota,Corolla,SE,2022,Sedan,Hybrid,Automatic,Used,56500,Midnight Black,12800,10800,b-northside,Sold,2026-09-08,2026-09-27,19
+v-0455,AX1455,CSPPDNC598FTC2TFF,Kia,Sorento,EX,2019,SUV,Hybrid,Automatic,Used,69751,Sand Beige,12600,10600,b-northside,Available,2026-09-08,,20
+v-0456,AX1456,RXCBD72RZYXB5XWW8,Hyundai,Staria,Elite,2024,Van,Diesel,Automatic,Used,28671,Graphite Grey,31900,26700,b-downtown,Sold,2026-09-08,2026-09-19,11
+v-0457,AX1457,DTVJUAWWAT0N9CRDD,Kia,Picanto,S,2018,Hatchback,Petrol,Automatic,Used,103708,Pearl White,3700,3300,b-downtown,Available,2026-09-08,,20
+v-0458,AX1458,ZHT9SNMWA9AP2LHHP,Toyota,Corolla,XSE,2024,Sedan,Hybrid,Automatic,Used,21987,Sand Beige,19800,17000,b-downtown,Available,2026-09-09,,19
+v-0459,AX1459,Y1PF0JYP55DVDV5X5,Ford,Transit Custom,Trend,2018,Van,Diesel,Automatic,Used,82642,Graphite Grey,10300,8500,b-downtown,Available,2026-09-10,,18
+v-0460,AX1460,M00LGV1SDX2Y3XNCM,Toyota,Corolla,XSE,2019,Sedan,Hybrid,Automatic,Used,88717,Silver Metallic,8300,6900,b-northside,Available,2026-09-10,,18
+v-0461,AX1461,K4PM65GW4TJ0CBFUL,BMW,4 Series,M Sport,2022,Coupe,Petrol,Automatic,Used,42108,Pearl White,28600,23600,b-northside,Available,2026-09-12,,16
+v-0462,AX1462,92FKMJ27E3U7P7YD5,BMW,X5,xLine,2023,SUV,Diesel,Automatic,Used,37303,Pearl White,40600,33600,b-northside,Available,2026-09-13,,15
+v-0463,AX1463,LR9DN7M1EFB0A41AC,Honda,CR-V,EX,2021,SUV,Petrol,Automatic,Used,73454,Silver Metallic,14700,13200,b-northside,Available,2026-09-13,,15
+v-0464,AX1464,P3N7PAGBUBV6FU0JL,Toyota,RAV4,Limited,2022,SUV,Petrol,Manual,Used,53376,Graphite Grey,18500,16100,b-downtown,Available,2026-09-14,,14
+v-0465,AX1465,06PJ1SKGHT28EWFL2,Toyota,Corolla,LE,2022,Sedan,Hybrid,Automatic,Used,61749,Deep Blue,11800,10600,b-northside,Available,2026-09-14,,14
+v-0466,AX1466,0NWNBKBJAKJ8AZ742,BMW,3 Series,Sport,2026,Sedan,Petrol,Automatic,New,14,Pearl White,45300,41900,b-downtown,Available,2026-09-15,,13
+v-0467,AX1467,0C6LA7AR1X6CMC6HF,Hyundai,Elantra,N Line,2026,Sedan,Petrol,Automatic,New,57,Silver Metallic,26800,25100,b-downtown,Available,2026-09-19,,9
+v-0468,AX1468,R71V94ZFB6MBE3U8P,Hyundai,Tucson,Limited,2026,SUV,Hybrid,Automatic,New,55,Midnight Black,37500,35100,b-downtown,Available,2026-09-20,,8
+v-0469,AX1469,B8GGJ1ASPSYW8M3MN,Toyota,Corolla,XSE,2021,Sedan,Petrol,Automatic,Used,75414,Silver Metallic,11500,9800,b-downtown,Reserved,2026-09-21,,7
+v-0470,AX1470,TT83SKHZFZKAB78G5,Nissan,Leaf,S,2022,Hatchback,Electric,Automatic,Used,65017,Pearl White,14600,12400,b-downtown,Available,2026-09-22,,6
+v-0471,AX1471,PBSN94EC3S4PJ9M90,Mercedes-Benz,C-Class,Avantgarde,2020,Sedan,Hybrid,Automatic,Used,82118,Pearl White,16800,14000,b-northside,Available,2026-09-22,,6
+v-0472,AX1472,WNA6B5DFG3KZPLH8V,Tesla,Model 3,Long Range,2018,Sedan,Electric,Automatic,Used,121591,Graphite Grey,10900,8700,b-downtown,Available,2026-09-23,,5
+v-0473,AX1473,5NGPCPBT4K2VD46Y0,Ford,Transit Custom,Trend,2019,Van,Diesel,Automatic,Used,70147,Graphite Grey,12300,10600,b-northside,Available,2026-09-23,,5
+v-0474,AX1474,4PB43TK4GKC5L78RJ,Hyundai,Staria,Elite,2018,Van,Diesel,Manual,Used,117644,Graphite Grey,10900,8800,b-downtown,Available,2026-09-24,,4
+v-0475,AX1475,Y9V7FTM7FPK57PKXX,Hyundai,Elantra,SEL,2020,Sedan,Hybrid,Automatic,Used,91292,Racing Red,8500,7600,b-downtown,Available,2026-09-25,,3
+v-0476,AX1476,XJZE4BBX173DPTYL4,Toyota,Yaris,Ascent,2023,Hatchback,Hybrid,Automatic,Used,37950,Pearl White,11300,10200,b-northside,Available,2026-09-25,,3
+v-0477,AX1477,L97UGH60LGPLCC282,Honda,Civic,EX,2019,Sedan,Petrol,Automatic,Used,101094,Racing Red,8700,7200,b-downtown,Reserved,2026-09-26,,2
+v-0478,AX1478,SB0J4BJVXYYB10GU3,BMW,3 Series,Luxury,2021,Sedan,Hybrid,Manual,Used,46267,Midnight Black,21600,18800,b-northside,Available,2026-09-26,,2
+v-0479,AX1479,6XA29HXKNUU2T67ZP,Ford,Ranger,Wildtrak,2024,Pickup,Diesel,Automatic,Used,29264,Pearl White,29400,25500,b-downtown,Available,2026-09-27,,1
+v-0480,AX1480,83LS0B1UZ40HNNRNX,Tesla,Model Y,RWD,2026,SUV,Electric,Automatic,New,10,Deep Blue,48300,44300,b-downtown,Available,2026-09-28,,0
+v-0481,AX1481,6AUPBXPD9UR4J7R47,Hyundai,Elantra,SE,2018,Sedan,Hybrid,Automatic,Used,105021,Graphite Grey,5700,5000,b-northside,Available,2026-09-28,,0

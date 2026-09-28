@@ -1,0 +1,1575 @@
+LeadID,CreatedDate,CreatedAt,Source,LeadType,CurrentStage,BranchID,SalespersonID,VehicleID,FirstResponseMinutes,ReachedContacted,ReachedTestDrive,ReachedNegotiation,IsWon,IsLost,IsOpen,ClosedDate
+l-00005,2024-09-16,2024-09-16T15:46:00.000Z,Walk-in,Test Drive,Won,b-downtown,s-lucas,v-0006,0,1,1,1,1,0,0,2024-10-09
+l-00014,2024-09-17,2024-09-17T14:26:00.000Z,Phone,Enquiry,Won,b-northside,s-sara,v-0020,15,1,1,1,1,0,0,2024-10-04
+l-00003,2024-09-19,2024-09-19T17:00:00.000Z,Walk-in,Test Drive,Won,b-northside,s-james,v-0004,5,1,1,1,1,0,0,2024-10-01
+l-00002,2024-09-30,2024-09-30T16:08:00.000Z,Website,Enquiry,Won,b-downtown,s-maya,v-0002,9,1,1,1,1,0,0,2024-10-07
+l-00008,2024-09-30,2024-09-30T17:52:00.000Z,Marketplace,Test Drive,Won,b-downtown,s-omar,v-0013,53,1,1,1,1,0,0,2024-10-20
+l-00750,2024-10-01,2024-10-01T10:47:00.000Z,Website,Finance,Lost,b-northside,s-james,v-0018,156,1,0,0,0,1,0,2024-10-04
+l-00019,2024-10-01,2024-10-01T13:20:00.000Z,Marketplace,Enquiry,Won,b-downtown,s-maya,v-0027,59,1,1,1,1,0,0,2024-10-06
+l-00009,2024-10-02,2024-10-02T13:31:00.000Z,Marketplace,Test Drive,Won,b-downtown,s-lucas,v-0014,89,1,1,1,1,0,0,2024-10-06
+l-00012,2024-10-02,2024-10-02T13:51:00.000Z,Marketplace,Enquiry,Won,b-downtown,s-omar,v-0017,841,1,1,1,1,0,0,2024-10-26
+l-01190,2024-10-03,2024-10-03T14:50:00.000Z,Marketplace,Test Drive,Lost,b-northside,s-james,v-0003,16,1,1,0,0,1,0,2024-10-13
+l-00023,2024-10-03,2024-10-03T16:18:00.000Z,Website,Test Drive,Won,b-northside,s-james,v-0031,46,1,1,1,1,0,0,2024-10-16
+l-01216,2024-10-04,2024-10-04T12:14:00.000Z,Facebook,Test Drive,Lost,b-downtown,s-omar,v-0015,37,1,1,1,0,1,0,2024-10-12
+l-01361,2024-10-05,2024-10-05T08:50:00.000Z,Website,Test Drive,Lost,b-northside,s-sara,,5,1,1,1,0,1,0,2024-10-19
+l-01377,2024-10-06,2024-10-06T17:11:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-lucas,v-0015,0,1,0,0,0,1,0,2024-10-11
+l-00948,2024-10-08,2024-10-08T14:12:00.000Z,Marketplace,Finance,Lost,b-downtown,s-maya,v-0010,36,1,1,1,0,1,0,2024-10-26
+l-00930,2024-10-09,2024-10-09T11:38:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-omar,,0,1,0,0,0,1,0,2024-10-13
+l-01070,2024-10-10,2024-10-10T08:15:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,v-0017,208,1,1,0,0,1,0,2024-10-22
+l-00726,2024-10-10,2024-10-10T08:48:00.000Z,Walk-in,Enquiry,Lost,b-northside,s-sara,v-0011,1,1,1,0,0,1,0,2024-10-21
+l-00347,2024-10-10,2024-10-10T18:55:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-omar,v-0028,4,1,1,0,0,1,0,2024-10-27
+l-00025,2024-10-12,2024-10-12T08:52:00.000Z,Phone,Enquiry,Won,b-downtown,s-lucas,v-0035,11,1,1,1,1,0,0,2024-10-24
+l-00615,2024-10-12,2024-10-12T17:31:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-maya,v-0016,5,1,0,0,0,1,0,2024-10-19
+l-01194,2024-10-12,2024-10-12T18:03:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-omar,v-0022,186,1,0,0,0,1,0,2024-10-16
+l-00755,2024-10-14,2024-10-14T08:26:00.000Z,Marketplace,Finance,Lost,b-northside,s-james,v-0031,59,1,1,0,0,1,0,2024-10-30
+l-01436,2024-10-14,2024-10-14T12:06:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,v-0023,33,1,1,1,0,1,0,2024-10-26
+l-00340,2024-10-14,2024-10-14T17:42:00.000Z,Website,Enquiry,Lost,b-northside,s-james,,110,1,0,0,0,1,0,2024-10-27
+l-00407,2024-10-15,2024-10-15T08:08:00.000Z,Facebook,Finance,Lost,b-northside,s-sara,,185,1,1,1,0,1,0,2024-10-29
+l-01020,2024-10-17,2024-10-17T11:05:00.000Z,Phone,Test Drive,Lost,b-downtown,s-maya,,5,1,0,0,0,1,0,2024-10-25
+l-01453,2024-10-17,2024-10-17T16:19:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-maya,v-0024,46,1,1,1,0,1,0,2024-11-05
+l-01561,2024-10-18,2024-10-18T11:43:00.000Z,Phone,Enquiry,Lost,b-downtown,,v-0034,,0,0,0,0,1,0,2024-10-30
+l-01544,2024-10-18,2024-10-18T14:36:00.000Z,Phone,Enquiry,Lost,b-northside,s-sara,v-0011,6,1,0,0,0,1,0,2024-10-25
+l-01156,2024-10-19,2024-10-19T13:36:00.000Z,Facebook,Finance,Lost,b-northside,,v-0025,,0,0,0,0,1,0,2024-10-26
+l-00001,2024-10-19,2024-10-19T13:51:00.000Z,Website,Enquiry,Won,b-downtown,s-maya,v-0001,54,1,1,1,1,0,0,2024-11-01
+l-00004,2024-10-19,2024-10-19T17:41:00.000Z,Phone,Enquiry,Won,b-downtown,s-omar,v-0005,18,1,1,1,1,0,0,2024-10-23
+l-01168,2024-10-20,2024-10-20T11:19:00.000Z,Website,Test Drive,Lost,b-northside,,v-0025,,0,0,0,0,1,0,2024-10-25
+l-01364,2024-10-22,2024-10-22T09:32:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,,12,1,1,0,0,1,0,2024-10-25
+l-01089,2024-10-23,2024-10-23T09:53:00.000Z,Marketplace,Finance,Lost,b-downtown,s-maya,v-0017,44,1,1,0,0,1,0,2024-10-29
+l-01293,2024-10-23,2024-10-23T10:50:00.000Z,Marketplace,Test Drive,Lost,b-northside,s-james,v-0026,211,1,0,0,0,1,0,2024-11-04
+l-01557,2024-10-23,2024-10-23T12:23:00.000Z,Walk-in,Test Drive,Lost,b-northside,,,,0,0,0,0,1,0,2024-10-25
+l-00016,2024-10-25,2024-10-25T14:02:00.000Z,Website,Enquiry,Won,b-downtown,s-lucas,v-0023,310,1,0,1,1,0,0,2024-11-07
+l-00946,2024-10-25,2024-10-25T14:13:00.000Z,Walk-in,Enquiry,Lost,b-northside,s-sara,v-0039,1,1,0,0,0,1,0,2024-11-01
+l-01351,2024-10-25,2024-10-25T15:12:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,v-0038,48,1,1,0,0,1,0,2024-10-30
+l-01320,2024-10-26,2024-10-26T16:43:00.000Z,Marketplace,Test Drive,Lost,b-downtown,s-lucas,v-0015,9,1,1,0,0,1,0,2024-10-30
+l-01303,2024-10-27,2024-10-27T16:32:00.000Z,Phone,Enquiry,Lost,b-downtown,s-lucas,v-0023,13,1,1,0,0,1,0,2024-11-09
+l-00006,2024-10-27,2024-10-27T17:49:00.000Z,Marketplace,Test Drive,Won,b-northside,s-sara,v-0011,22,1,1,1,1,0,0,2024-11-06
+l-00435,2024-10-27,2024-10-27T18:16:00.000Z,Facebook,Finance,Lost,b-downtown,s-lucas,,32,1,0,0,0,1,0,2024-10-30
+l-01256,2024-10-28,2024-10-28T16:58:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,,45,1,0,0,0,1,0,2024-11-03
+l-01291,2024-10-29,2024-10-29T15:24:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-lucas,v-0015,49,1,0,0,0,1,0,2024-11-02
+l-00650,2024-10-29,2024-10-29T15:39:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-maya,v-0023,4,1,0,0,0,1,0,2024-10-31
+l-00770,2024-10-29,2024-10-29T17:13:00.000Z,Website,Enquiry,Lost,b-northside,,v-0025,,0,0,0,0,1,0,2024-10-31
+l-01470,2024-10-30,2024-10-30T16:45:00.000Z,Facebook,Enquiry,Lost,b-downtown,,,,0,0,0,0,1,0,2024-11-06
+l-00619,2024-10-31,2024-10-31T09:05:00.000Z,Website,Enquiry,Lost,b-downtown,,,,0,0,0,0,1,0,2024-11-02
+l-00506,2024-10-31,2024-10-31T12:35:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-lucas,v-0034,142,1,0,0,0,1,0,2024-11-06
+l-00020,2024-10-31,2024-10-31T13:35:00.000Z,Walk-in,Enquiry,Won,b-downtown,s-lucas,v-0028,1,1,1,1,1,0,0,2024-11-21
+l-00780,2024-11-01,2024-11-01T08:11:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-maya,v-0028,5,1,0,0,0,1,0,2024-11-04
+l-00786,2024-11-01,2024-11-01T18:41:00.000Z,Facebook,Enquiry,Lost,b-northside,s-sara,v-0039,45,1,1,0,0,1,0,2024-11-14
+l-00363,2024-11-03,2024-11-03T10:03:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-james,,19,1,0,0,0,1,0,2024-11-06
+l-01099,2024-11-04,2024-11-04T14:22:00.000Z,Website,Test Drive,Lost,b-downtown,,v-0034,,0,0,0,0,1,0,2024-11-16
+l-00683,2024-11-05,2024-11-05T10:17:00.000Z,Facebook,Finance,Lost,b-northside,s-james,v-0007,44,1,1,0,0,1,0,2024-11-21
+l-01242,2024-11-05,2024-11-05T10:24:00.000Z,Facebook,Test Drive,Lost,b-northside,s-james,v-0041,56,1,0,0,0,1,0,2024-11-19
+l-00447,2024-11-06,2024-11-06T14:00:00.000Z,Website,Test Drive,Lost,b-northside,s-james,,170,1,1,0,0,1,0,2024-11-15
+l-01076,2024-11-08,2024-11-08T17:34:00.000Z,Walk-in,Enquiry,Lost,b-downtown,,v-0043,,0,0,0,0,1,0,2024-11-22
+l-00612,2024-11-09,2024-11-09T12:40:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,v-0036,58,1,0,0,0,1,0,2024-11-21
+l-00007,2024-11-09,2024-11-09T12:57:00.000Z,Facebook,Finance,Won,b-northside,s-james,v-0012,329,1,1,1,1,0,0,2024-11-30
+l-01395,2024-11-09,2024-11-09T13:48:00.000Z,Website,Enquiry,Lost,b-northside,s-sara,v-0037,57,1,1,0,0,1,0,2024-11-20
+l-00030,2024-11-09,2024-11-09T18:57:00.000Z,Marketplace,Test Drive,Won,b-northside,s-sara,v-0048,195,1,0,1,1,0,0,2024-11-19
+l-00021,2024-11-10,2024-11-10T10:33:00.000Z,Facebook,Enquiry,Won,b-downtown,s-lucas,v-0029,42,1,1,1,1,0,0,2024-12-03
+l-00361,2024-11-11,2024-11-11T10:18:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-lucas,v-0010,5,1,1,1,0,1,0,2024-11-22
+l-00453,2024-11-11,2024-11-11T13:16:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-lucas,,31,1,1,0,0,1,0,2024-11-22
+l-00936,2024-11-12,2024-11-12T09:19:00.000Z,Website,Test Drive,Lost,b-northside,s-james,,149,1,1,1,0,1,0,2024-11-24
+l-00692,2024-11-12,2024-11-12T10:08:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,v-0038,140,1,1,1,0,1,0,2024-11-29
+l-00662,2024-11-12,2024-11-12T11:24:00.000Z,Facebook,Enquiry,Lost,b-northside,,,,0,0,0,0,1,0,2024-11-17
+l-00925,2024-11-12,2024-11-12T14:39:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,v-0034,337,1,0,0,0,1,0,2024-11-19
+l-00011,2024-11-12,2024-11-12T15:03:00.000Z,Facebook,Finance,Won,b-downtown,s-lucas,v-0016,48,1,1,1,1,0,0,2024-11-28
+l-00784,2024-11-12,2024-11-12T18:19:00.000Z,Marketplace,Finance,Lost,b-northside,,v-0041,,0,0,0,0,1,0,2024-11-20
+l-00862,2024-11-13,2024-11-13T09:05:00.000Z,Website,Enquiry,Lost,b-northside,s-sara,v-0030,761,1,1,0,0,1,0,2024-11-26
+l-00294,2024-11-13,2024-11-13T10:54:00.000Z,Marketplace,Test Drive,Lost,b-downtown,s-omar,v-0043,116,1,1,0,0,1,0,2024-11-27
+l-00608,2024-11-13,2024-11-13T12:04:00.000Z,Phone,Enquiry,Lost,b-downtown,s-lucas,v-0024,27,1,0,0,0,1,0,2024-11-15
+l-00029,2024-11-13,2024-11-13T17:10:00.000Z,Website,Enquiry,Won,b-northside,s-james,v-0047,27,1,0,1,1,0,0,2024-11-21
+l-00821,2024-11-14,2024-11-14T08:08:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-omar,v-0043,0,1,0,0,0,1,0,2024-11-19
+l-00796,2024-11-14,2024-11-14T11:31:00.000Z,Marketplace,Test Drive,Lost,b-downtown,s-omar,v-0034,15,1,0,0,0,1,0,2024-11-25
+l-01170,2024-11-14,2024-11-14T15:33:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,v-0045,30,1,0,0,0,1,0,2024-11-25
+l-00840,2024-11-15,2024-11-15T16:53:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,v-0052,162,1,1,0,0,1,0,2024-11-29
+l-00872,2024-11-16,2024-11-16T12:03:00.000Z,Walk-in,Finance,Lost,b-downtown,,,,0,0,0,0,1,0,2024-11-29
+l-01480,2024-11-17,2024-11-17T09:36:00.000Z,Facebook,Enquiry,Lost,b-downtown,,v-0043,,0,0,0,0,1,0,2024-11-24
+l-00034,2024-11-17,2024-11-17T09:54:00.000Z,Phone,Enquiry,Won,b-northside,s-james,v-0053,9,1,1,1,1,0,0,2024-11-24
+l-00893,2024-11-17,2024-11-17T12:56:00.000Z,Phone,Enquiry,Lost,b-downtown,s-lucas,v-0034,8,1,0,0,0,1,0,2024-11-26
+l-01307,2024-11-17,2024-11-17T17:29:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-lucas,,3,1,0,0,0,1,0,2024-11-26
+l-00829,2024-11-18,2024-11-18T12:00:00.000Z,Phone,Enquiry,Lost,b-downtown,s-maya,v-0049,14,1,0,0,0,1,0,2024-11-24
+l-00348,2024-11-18,2024-11-18T17:55:00.000Z,Website,Test Drive,Lost,b-downtown,s-lucas,v-0015,103,1,1,1,0,1,0,2024-12-03
+l-01468,2024-11-19,2024-11-19T09:32:00.000Z,Website,Finance,Lost,b-downtown,s-omar,v-0042,119,1,1,0,0,1,0,2024-12-02
+l-00686,2024-11-19,2024-11-19T17:25:00.000Z,Facebook,Finance,Lost,b-downtown,s-maya,,12,1,0,0,0,1,0,2024-11-24
+l-00456,2024-11-21,2024-11-21T09:57:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,v-0038,219,1,0,0,0,1,0,2024-11-30
+l-00842,2024-11-22,2024-11-22T09:58:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-omar,,126,1,1,0,0,1,0,2024-12-03
+l-01507,2024-11-22,2024-11-22T14:40:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,,31,1,1,0,0,1,0,2024-11-23
+l-00353,2024-11-23,2024-11-23T15:02:00.000Z,Referral,Enquiry,Lost,b-downtown,s-maya,v-0015,85,1,0,0,0,1,0,2024-11-25
+l-00026,2024-11-24,2024-11-24T12:14:00.000Z,Facebook,Finance,Won,b-downtown,s-maya,v-0036,114,1,1,1,1,0,0,2024-12-05
+l-00031,2024-11-24,2024-11-24T12:26:00.000Z,Marketplace,Enquiry,Won,b-downtown,s-maya,v-0049,42,1,1,1,1,0,0,2024-11-28
+l-00013,2024-11-25,2024-11-25T08:38:00.000Z,Marketplace,Finance,Won,b-downtown,s-omar,v-0019,46,1,1,1,1,0,0,2024-12-11
+l-01253,2024-11-25,2024-11-25T11:57:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-maya,,58,1,1,0,0,1,0,2024-12-01
+l-01452,2024-11-25,2024-11-25T14:18:00.000Z,Marketplace,Finance,Lost,b-downtown,,v-0032,,0,0,0,0,1,0,2024-11-26
+l-00728,2024-11-25,2024-11-25T16:07:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,v-0032,44,1,0,0,0,1,0,2024-12-06
+l-00510,2024-11-25,2024-11-25T18:54:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-maya,,5,1,1,1,0,1,0,2024-12-06
+l-01226,2024-11-26,2024-11-26T08:42:00.000Z,Facebook,Finance,Lost,b-downtown,s-lucas,v-0054,789,1,1,1,0,1,0,2024-12-12
+l-01430,2024-11-26,2024-11-26T12:08:00.000Z,Facebook,Test Drive,Lost,b-downtown,s-maya,,41,1,1,1,0,1,0,2024-12-07
+l-01272,2024-11-26,2024-11-26T13:44:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-maya,,18,1,0,0,0,1,0,2024-12-04
+l-01169,2024-11-27,2024-11-27T08:17:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-lucas,v-0029,1,1,0,0,0,1,0,2024-12-07
+l-00623,2024-11-27,2024-11-27T08:26:00.000Z,Referral,Test Drive,Lost,b-northside,s-james,v-0056,168,1,1,1,0,1,0,2024-12-06
+l-01402,2024-11-27,2024-11-27T10:59:00.000Z,Facebook,Finance,Lost,b-northside,s-sara,v-0030,51,1,1,0,0,1,0,2024-12-01
+l-01313,2024-11-27,2024-11-27T13:12:00.000Z,Referral,Enquiry,Lost,b-downtown,s-omar,,136,1,1,0,0,1,0,2024-12-01
+l-00017,2024-11-27,2024-11-27T17:16:00.000Z,Marketplace,Test Drive,Won,b-downtown,s-maya,v-0024,929,1,1,1,1,0,0,2024-12-20
+l-00455,2024-11-28,2024-11-28T11:09:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,,135,1,0,0,0,1,0,2024-12-12
+l-00402,2024-11-28,2024-11-28T12:16:00.000Z,Referral,Enquiry,Lost,b-downtown,s-maya,v-0019,97,1,0,0,0,1,0,2024-12-09
+l-00591,2024-11-28,2024-11-28T17:05:00.000Z,Phone,Enquiry,Lost,b-northside,s-james,v-0039,29,1,0,0,0,1,0,2024-12-07
+l-00033,2024-11-29,2024-11-29T10:48:00.000Z,Facebook,Enquiry,Won,b-downtown,s-lucas,v-0052,239,1,1,1,1,0,0,2024-12-15
+l-00018,2024-11-30,2024-11-30T11:04:00.000Z,Website,Enquiry,Won,b-northside,s-james,v-0026,42,1,1,1,1,0,0,2024-12-23
+l-00036,2024-11-30,2024-11-30T12:15:00.000Z,Marketplace,Enquiry,Won,b-downtown,s-lucas,v-0055,229,1,1,1,1,0,0,2024-12-06
+l-01173,2024-11-30,2024-11-30T15:32:00.000Z,Walk-in,Test Drive,Lost,b-downtown,s-omar,v-0050,0,1,1,0,0,1,0,2024-12-15
+l-00040,2024-11-30,2024-11-30T17:28:00.000Z,Website,Enquiry,Won,b-downtown,s-omar,v-0059,46,1,1,1,1,0,0,2024-12-15
+l-00404,2024-12-01,2024-12-01T09:54:00.000Z,Phone,Test Drive,Lost,b-downtown,s-lucas,,20,1,0,0,0,1,0,2024-12-02
+l-01529,2024-12-01,2024-12-01T14:48:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-lucas,,24,1,0,0,0,1,0,2024-12-11
+l-00512,2024-12-02,2024-12-02T12:43:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,,28,1,0,0,0,1,0,2024-12-12
+l-00760,2024-12-02,2024-12-02T14:39:00.000Z,Referral,Enquiry,Lost,b-northside,s-sara,v-0056,176,1,1,0,0,1,0,2024-12-17
+l-01012,2024-12-02,2024-12-02T16:44:00.000Z,Marketplace,Test Drive,Lost,b-northside,s-james,v-0056,73,1,1,1,0,1,0,2024-12-06
+l-00538,2024-12-02,2024-12-02T17:19:00.000Z,Website,Enquiry,Lost,b-northside,s-james,v-0056,48,1,0,0,0,1,0,2024-12-11
+l-01183,2024-12-03,2024-12-03T13:31:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-maya,v-0032,5,1,0,0,0,1,0,2024-12-08
+l-00325,2024-12-04,2024-12-04T09:40:00.000Z,Website,Test Drive,Lost,b-northside,s-sara,,59,1,0,0,0,1,0,2024-12-12
+l-01391,2024-12-04,2024-12-04T09:40:00.000Z,Facebook,Enquiry,Lost,b-northside,s-james,v-0026,30,1,1,0,0,1,0,2024-12-10
+l-00289,2024-12-06,2024-12-06T12:26:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,v-0010,29,1,0,0,0,1,0,2024-12-12
+l-00973,2024-12-06,2024-12-06T17:24:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-james,v-0051,38,1,1,0,0,1,0,2024-12-16
+l-00318,2024-12-06,2024-12-06T18:08:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,,12,1,1,1,0,1,0,2024-12-21
+l-00015,2024-12-06,2024-12-06T18:56:00.000Z,Website,Finance,Won,b-downtown,s-maya,v-0021,30,1,1,1,1,0,0,2024-12-09
+l-00740,2024-12-07,2024-12-07T09:34:00.000Z,Website,Finance,Lost,b-downtown,s-lucas,,52,1,1,0,0,1,0,2024-12-18
+l-00425,2024-12-08,2024-12-08T09:43:00.000Z,Facebook,Finance,Lost,b-northside,s-sara,v-0057,88,1,1,0,0,1,0,2024-12-18
+l-00038,2024-12-08,2024-12-08T11:49:00.000Z,Website,Enquiry,Won,b-northside,s-james,v-0057,170,1,1,1,1,0,0,2024-12-30
+l-00022,2024-12-08,2024-12-08T12:55:00.000Z,Marketplace,Test Drive,Won,b-northside,s-sara,v-0030,183,1,1,1,1,0,0,2024-12-16
+l-01518,2024-12-08,2024-12-08T13:25:00.000Z,Website,Test Drive,Lost,b-downtown,s-lucas,v-0058,178,1,0,0,0,1,0,2024-12-16
+l-01419,2024-12-08,2024-12-08T18:12:00.000Z,Facebook,Enquiry,Lost,b-northside,,,,0,0,0,0,1,0,2024-12-10
+l-00742,2024-12-09,2024-12-09T15:02:00.000Z,Facebook,Enquiry,Lost,b-northside,s-sara,,56,1,0,0,0,1,0,2024-12-12
+l-01217,2024-12-10,2024-12-10T09:55:00.000Z,Marketplace,Test Drive,Lost,b-northside,s-sara,v-0060,768,1,0,0,0,1,0,2024-12-17
+l-01116,2024-12-10,2024-12-10T15:14:00.000Z,Phone,Enquiry,Lost,b-downtown,,v-0034,,0,0,0,0,1,0,2024-12-24
+l-00666,2024-12-10,2024-12-10T15:40:00.000Z,Referral,Enquiry,Lost,b-downtown,s-maya,v-0043,95,1,1,0,0,1,0,2024-12-24
+l-01277,2024-12-10,2024-12-10T16:19:00.000Z,Marketplace,Test Drive,Lost,b-downtown,s-omar,,32,1,0,0,0,1,0,2024-12-18
+l-00887,2024-12-12,2024-12-12T10:34:00.000Z,Website,Enquiry,Lost,b-northside,s-sara,v-0039,165,1,0,0,0,1,0,2024-12-14
+l-00589,2024-12-12,2024-12-12T13:06:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-lucas,v-0024,148,1,0,0,0,1,0,2024-12-16
+l-01359,2024-12-13,2024-12-13T11:01:00.000Z,Walk-in,Test Drive,Lost,b-northside,s-sara,v-0057,1,1,0,0,0,1,0,2024-12-20
+l-00917,2024-12-13,2024-12-13T12:35:00.000Z,Phone,Enquiry,Lost,b-downtown,s-omar,v-0010,3,1,1,1,0,1,0,2024-12-25
+l-00547,2024-12-13,2024-12-13T17:01:00.000Z,Website,Test Drive,Lost,b-downtown,s-maya,,119,1,1,1,0,1,0,2024-12-30
+l-00841,2024-12-14,2024-12-14T11:44:00.000Z,Website,Enquiry,Lost,b-northside,,v-0051,,0,0,0,0,1,0,2024-12-17
+l-01187,2024-12-14,2024-12-14T14:54:00.000Z,Facebook,Enquiry,Lost,b-downtown,,v-0024,,0,0,0,0,1,0,2024-12-15
+l-01322,2024-12-15,2024-12-15T12:59:00.000Z,Facebook,Test Drive,Lost,b-downtown,s-omar,v-0045,57,1,1,0,0,1,0,2024-12-29
+l-00384,2024-12-15,2024-12-15T17:17:00.000Z,Referral,Finance,Lost,b-downtown,s-lucas,v-0010,60,1,1,1,0,1,0,2024-12-20
+l-00704,2024-12-17,2024-12-17T12:10:00.000Z,Website,Enquiry,Lost,b-northside,,v-0060,,0,0,0,0,1,0,2024-12-31
+l-01329,2024-12-17,2024-12-17T12:51:00.000Z,Phone,Enquiry,Lost,b-northside,s-james,,25,1,1,0,0,1,0,2024-12-25
+l-01255,2024-12-17,2024-12-17T15:59:00.000Z,Phone,Enquiry,Lost,b-downtown,,,,0,0,0,0,1,0,2024-12-18
+l-01368,2024-12-19,2024-12-19T12:27:00.000Z,Phone,Enquiry,Lost,b-downtown,s-omar,v-0067,25,1,1,1,0,1,0,2024-12-31
+l-00727,2024-12-19,2024-12-19T12:33:00.000Z,Website,Enquiry,Lost,b-northside,s-james,,32,1,0,0,0,1,0,2024-12-29
+l-00313,2024-12-20,2024-12-20T09:46:00.000Z,Marketplace,Enquiry,Lost,b-northside,,v-0057,,0,0,0,0,1,0,2024-12-25
+l-01492,2024-12-22,2024-12-22T08:33:00.000Z,Phone,Enquiry,Lost,b-downtown,,,,0,0,0,0,1,0,2025-01-04
+l-01563,2024-12-22,2024-12-22T12:07:00.000Z,Facebook,Enquiry,Lost,b-downtown,,v-0034,,0,0,0,0,1,0,2025-01-01
+l-01109,2024-12-23,2024-12-23T10:58:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,v-0071,191,1,0,0,0,1,0,2024-12-26
+l-00441,2024-12-23,2024-12-23T17:39:00.000Z,Facebook,Finance,Lost,b-northside,s-sara,,41,1,0,0,0,1,0,2024-12-31
+l-00437,2024-12-24,2024-12-24T13:22:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,v-0071,83,1,0,0,0,1,0,2025-01-05
+l-01276,2024-12-24,2024-12-24T18:12:00.000Z,Website,Test Drive,Lost,b-downtown,s-lucas,v-0015,9,1,1,0,0,1,0,2024-12-31
+l-00459,2024-12-25,2024-12-25T12:32:00.000Z,Phone,Enquiry,Lost,b-downtown,s-omar,v-0062,24,1,0,0,0,1,0,2024-12-27
+l-00343,2024-12-25,2024-12-25T13:13:00.000Z,Walk-in,Enquiry,Lost,b-northside,,v-0060,,0,0,0,0,1,0,2024-12-29
+l-00032,2024-12-26,2024-12-26T17:36:00.000Z,Phone,Test Drive,Won,b-downtown,s-maya,v-0050,8,1,1,1,1,0,0,2025-01-02
+l-00043,2024-12-27,2024-12-27T16:53:00.000Z,Website,Enquiry,Won,b-downtown,s-maya,v-0067,41,1,1,1,1,0,0,2025-01-13
+l-00825,2024-12-28,2024-12-28T08:19:00.000Z,Website,Enquiry,Lost,b-northside,s-james,v-0069,14,1,1,0,0,1,0,2025-01-01
+l-00027,2024-12-28,2024-12-28T08:46:00.000Z,Marketplace,Finance,Won,b-downtown,s-maya,v-0043,42,1,1,1,1,0,0,2025-01-13
+l-00028,2024-12-28,2024-12-28T10:43:00.000Z,Facebook,Finance,Won,b-downtown,s-omar,v-0046,48,1,1,1,1,0,0,2025-01-22
+l-00600,2024-12-28,2024-12-28T11:39:00.000Z,Website,Enquiry,Lost,b-downtown,,v-0050,,0,0,0,0,1,0,2025-01-08
+l-01458,2024-12-29,2024-12-29T08:34:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,v-0075,630,1,0,0,0,1,0,2025-01-01
+l-00961,2024-12-29,2024-12-29T08:36:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,v-0065,959,1,1,1,0,1,0,2025-01-04
+l-00566,2024-12-30,2024-12-30T09:11:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,,132,1,0,0,0,1,0,2025-01-08
+l-01363,2024-12-30,2024-12-30T15:00:00.000Z,Marketplace,Finance,Lost,b-downtown,s-maya,v-0063,47,1,1,0,0,1,0,2025-01-12
+l-01054,2024-12-30,2024-12-30T16:35:00.000Z,Website,Enquiry,Lost,b-northside,s-james,v-0060,33,1,1,0,0,1,0,2025-01-11
+l-00443,2024-12-30,2024-12-30T18:47:00.000Z,Facebook,Test Drive,Lost,b-northside,s-james,,22,1,1,1,0,1,0,2025-01-12
+l-00039,2025-01-01,2025-01-01T15:12:00.000Z,Website,Finance,Won,b-downtown,s-maya,v-0058,720,1,1,1,1,0,0,2025-01-22
+l-00042,2025-01-02,2025-01-02T14:48:00.000Z,Walk-in,Test Drive,Won,b-northside,s-james,v-0066,0,1,1,1,1,0,0,2025-01-27
+l-00440,2025-01-03,2025-01-03T09:33:00.000Z,Website,Enquiry,Lost,b-downtown,,v-0058,,0,0,0,0,1,0,2025-01-17
+l-00454,2025-01-03,2025-01-03T15:17:00.000Z,Website,Test Drive,Lost,b-northside,,v-0070,,0,0,0,0,1,0,2025-01-17
+l-00494,2025-01-03,2025-01-03T17:27:00.000Z,Referral,Enquiry,Lost,b-northside,s-sara,,87,1,0,0,0,1,0,2025-01-05
+l-01086,2025-01-04,2025-01-04T08:08:00.000Z,Facebook,Enquiry,Lost,b-downtown,,,,0,0,0,0,1,0,2025-01-15
+l-00497,2025-01-04,2025-01-04T09:03:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-james,v-0069,57,1,0,0,0,1,0,2025-01-17
+l-01098,2025-01-04,2025-01-04T10:22:00.000Z,Marketplace,Enquiry,Lost,b-northside,,v-0051,,0,0,0,0,1,0,2025-01-18
+l-00960,2025-01-04,2025-01-04T11:41:00.000Z,Walk-in,Enquiry,Lost,b-downtown,,,,0,0,0,0,1,0,2025-01-08
+l-00382,2025-01-05,2025-01-05T15:35:00.000Z,Website,Enquiry,Lost,b-northside,s-sara,,43,1,0,0,0,1,0,2025-01-14
+l-00764,2025-01-06,2025-01-06T17:20:00.000Z,Website,Enquiry,Lost,b-northside,s-james,,232,1,0,0,0,1,0,2025-01-15
+l-01110,2025-01-07,2025-01-07T14:35:00.000Z,Walk-in,Finance,Lost,b-northside,s-james,,4,1,0,0,0,1,0,2025-01-12
+l-00495,2025-01-07,2025-01-07T16:44:00.000Z,Facebook,Enquiry,Lost,b-downtown,,v-0054,,0,0,0,0,1,0,2025-01-12
+l-00391,2025-01-08,2025-01-08T09:37:00.000Z,Facebook,Test Drive,Lost,b-downtown,s-lucas,,25,1,0,0,0,1,0,2025-01-09
+l-00584,2025-01-08,2025-01-08T18:03:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-omar,v-0046,2,1,1,0,0,1,0,2025-01-25
+l-00045,2025-01-10,2025-01-10T09:00:00.000Z,Marketplace,Enquiry,Won,b-northside,s-sara,v-0070,23,1,0,1,1,0,0,2025-02-02
+l-01041,2025-01-12,2025-01-12T14:45:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,v-0074,112,1,1,0,0,1,0,2025-01-19
+l-00446,2025-01-12,2025-01-12T15:57:00.000Z,Walk-in,Test Drive,Lost,b-downtown,s-lucas,v-0010,5,1,0,0,0,1,0,2025-01-26
+l-00802,2025-01-13,2025-01-13T10:32:00.000Z,Marketplace,Test Drive,Lost,b-northside,s-james,v-0064,34,1,0,0,0,1,0,2025-01-22
+l-01259,2025-01-14,2025-01-14T11:26:00.000Z,Phone,Enquiry,Lost,b-northside,s-sara,v-0066,9,1,0,0,0,1,0,2025-01-23
+l-00663,2025-01-15,2025-01-15T14:03:00.000Z,Facebook,Finance,Lost,b-northside,s-james,v-0084,141,1,1,0,0,1,0,2025-01-24
+l-00844,2025-01-16,2025-01-16T08:18:00.000Z,Website,Enquiry,Lost,b-northside,s-james,v-0064,18,1,1,0,0,1,0,2025-01-25
+l-01128,2025-01-17,2025-01-17T17:54:00.000Z,Referral,Enquiry,Lost,b-northside,s-james,v-0080,159,1,0,0,0,1,0,2025-01-18
+l-00377,2025-01-18,2025-01-18T17:56:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,v-0082,20,1,1,0,0,1,0,2025-02-02
+l-00818,2025-01-19,2025-01-19T09:01:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-lucas,v-0068,512,1,1,0,0,1,0,2025-01-28
+l-00590,2025-01-19,2025-01-19T15:04:00.000Z,Marketplace,Enquiry,Lost,b-downtown,,v-0034,,0,0,0,0,1,0,2025-01-26
+l-00833,2025-01-19,2025-01-19T16:43:00.000Z,Facebook,Enquiry,Lost,b-downtown,,v-0074,,0,0,0,0,1,0,2025-02-02
+l-00048,2025-01-20,2025-01-20T17:42:00.000Z,Referral,Enquiry,Won,b-northside,s-james,v-0084,49,1,1,1,1,0,0,2025-02-04
+l-00598,2025-01-21,2025-01-21T08:14:00.000Z,Phone,Test Drive,Lost,b-northside,,v-0064,,0,0,0,0,1,0,2025-01-30
+l-01234,2025-01-22,2025-01-22T12:20:00.000Z,Facebook,Test Drive,Lost,b-northside,,v-0084,,0,0,0,0,1,0,2025-01-31
+l-00953,2025-01-22,2025-01-22T14:04:00.000Z,Facebook,Enquiry,Lost,b-downtown,,v-0083,,0,0,0,0,1,0,2025-01-24
+l-01026,2025-01-23,2025-01-23T11:49:00.000Z,Phone,Test Drive,Lost,b-downtown,,v-0015,,0,0,0,0,1,0,2025-01-30
+l-00413,2025-01-24,2025-01-24T13:54:00.000Z,Walk-in,Test Drive,Lost,b-northside,s-james,,1,1,0,0,0,1,0,2025-02-03
+l-00636,2025-01-25,2025-01-25T11:23:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-lucas,v-0082,11,1,0,0,0,1,0,2025-02-08
+l-00731,2025-01-25,2025-01-25T13:58:00.000Z,Phone,Enquiry,Lost,b-northside,,,,0,0,0,0,1,0,2025-01-30
+l-01317,2025-01-25,2025-01-25T17:36:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-james,v-0066,46,1,0,0,0,1,0,2025-02-05
+l-00314,2025-01-27,2025-01-27T08:42:00.000Z,Website,Test Drive,Lost,b-northside,s-sara,,1150,1,1,1,0,1,0,2025-02-11
+l-01327,2025-01-27,2025-01-27T10:34:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,v-0078,219,1,1,1,0,1,0,2025-02-13
+l-00852,2025-01-28,2025-01-28T13:02:00.000Z,Facebook,Test Drive,Lost,b-downtown,,v-0086,,0,0,0,0,1,0,2025-01-30
+l-00866,2025-01-28,2025-01-28T18:34:00.000Z,Website,Enquiry,Lost,b-downtown,,v-0010,,0,0,0,0,1,0,2025-02-02
+l-01290,2025-01-29,2025-01-29T14:49:00.000Z,Phone,Test Drive,Lost,b-northside,s-sara,v-0076,8,1,1,1,0,1,0,2025-02-05
+l-00478,2025-01-29,2025-01-29T16:17:00.000Z,Facebook,Test Drive,Lost,b-northside,,,,0,0,0,0,1,0,2025-02-01
+l-01064,2025-01-30,2025-01-30T08:00:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-maya,,226,1,1,0,0,1,0,2025-02-10
+l-01487,2025-01-30,2025-01-30T11:31:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,v-0010,31,1,1,0,0,1,0,2025-02-10
+l-01457,2025-01-30,2025-01-30T12:12:00.000Z,Referral,Finance,Lost,b-downtown,s-lucas,v-0088,27,1,1,0,0,1,0,2025-02-09
+l-01396,2025-01-30,2025-01-30T12:49:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-omar,,218,1,1,0,0,1,0,2025-02-07
+l-00556,2025-01-31,2025-01-31T16:31:00.000Z,Walk-in,Test Drive,Lost,b-northside,s-sara,v-0089,3,1,1,0,0,1,0,2025-02-07
+l-00326,2025-02-01,2025-02-01T09:49:00.000Z,Referral,Test Drive,Lost,b-downtown,s-maya,v-0034,94,1,1,1,0,1,0,2025-02-10
+l-00945,2025-02-01,2025-02-01T11:10:00.000Z,Walk-in,Finance,Lost,b-northside,s-sara,v-0084,0,1,0,0,0,1,0,2025-02-03
+l-00051,2025-02-01,2025-02-01T13:16:00.000Z,Website,Enquiry,Won,b-downtown,s-maya,v-0090,20,1,1,1,1,0,0,2025-02-14
+l-00046,2025-02-01,2025-02-01T17:25:00.000Z,Facebook,Enquiry,Won,b-northside,s-sara,v-0079,6,1,1,1,1,0,0,2025-02-18
+l-00729,2025-02-03,2025-02-03T14:35:00.000Z,Facebook,Enquiry,Lost,b-northside,,,,0,0,0,0,1,0,2025-02-08
+l-00054,2025-02-05,2025-02-05T10:46:00.000Z,Marketplace,Enquiry,Won,b-northside,s-sara,v-0093,16,1,0,1,1,0,0,2025-02-23
+l-00374,2025-02-05,2025-02-05T13:28:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-james,v-0064,136,1,0,0,0,1,0,2025-02-11
+l-01006,2025-02-07,2025-02-07T17:04:00.000Z,Website,Test Drive,Lost,b-downtown,s-omar,v-0083,153,1,1,1,0,1,0,2025-02-12
+l-01072,2025-02-07,2025-02-07T18:23:00.000Z,Referral,Enquiry,Lost,b-northside,s-sara,v-0080,69,1,0,0,0,1,0,2025-02-08
+l-00055,2025-02-08,2025-02-08T18:45:00.000Z,Phone,Test Drive,Won,b-northside,s-sara,v-0094,15,1,1,1,1,0,0,2025-02-18
+l-00851,2025-02-09,2025-02-09T15:00:00.000Z,Marketplace,Enquiry,Lost,b-downtown,,,,0,0,0,0,1,0,2025-02-14
+l-01545,2025-02-10,2025-02-10T13:11:00.000Z,Referral,Enquiry,Lost,b-downtown,,v-0054,,0,0,0,0,1,0,2025-02-22
+l-01409,2025-02-11,2025-02-11T15:58:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-james,,9,1,0,0,0,1,0,2025-02-20
+l-00056,2025-02-12,2025-02-12T08:31:00.000Z,Walk-in,Test Drive,Won,b-northside,s-sara,v-0095,5,1,1,1,1,0,0,2025-02-17
+l-01296,2025-02-12,2025-02-12T09:54:00.000Z,Website,Finance,Lost,b-downtown,,,,0,0,0,0,1,0,2025-02-13
+l-01358,2025-02-12,2025-02-12T13:20:00.000Z,Marketplace,Test Drive,Lost,b-northside,,v-0080,,0,0,0,0,1,0,2025-02-24
+l-01539,2025-02-13,2025-02-13T08:49:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-lucas,v-0091,1,1,0,0,0,1,0,2025-02-18
+l-00972,2025-02-13,2025-02-13T09:14:00.000Z,Marketplace,Enquiry,Lost,b-downtown,,,,0,0,0,0,1,0,2025-02-18
+l-01034,2025-02-14,2025-02-14T08:40:00.000Z,Website,Finance,Lost,b-downtown,,v-0083,,0,0,0,0,1,0,2025-02-16
+l-00611,2025-02-14,2025-02-14T14:52:00.000Z,Facebook,Test Drive,Lost,b-northside,s-sara,v-0079,18,1,0,0,0,1,0,2025-02-20
+l-00044,2025-02-15,2025-02-15T12:45:00.000Z,Website,Enquiry,Won,b-downtown,s-maya,v-0068,13,1,0,1,1,0,0,2025-03-02
+l-01111,2025-02-15,2025-02-15T17:07:00.000Z,Website,Test Drive,Lost,b-northside,,v-0094,,0,0,0,0,1,0,2025-02-18
+l-00572,2025-02-16,2025-02-16T13:07:00.000Z,Walk-in,Enquiry,Lost,b-downtown,,v-0085,,0,0,0,0,1,0,2025-02-24
+l-01107,2025-02-16,2025-02-16T16:20:00.000Z,Phone,Enquiry,Lost,b-northside,s-james,v-0094,8,1,0,0,0,1,0,2025-02-23
+l-00460,2025-02-16,2025-02-16T17:41:00.000Z,Website,Enquiry,Lost,b-northside,s-james,,8,1,0,0,0,1,0,2025-02-19
+l-00053,2025-02-17,2025-02-17T09:52:00.000Z,Facebook,Test Drive,Won,b-northside,s-james,v-0092,119,1,1,1,1,0,0,2025-03-02
+l-01047,2025-02-17,2025-02-17T09:59:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-lucas,,0,1,1,0,0,1,0,2025-03-04
+l-01353,2025-02-17,2025-02-17T12:52:00.000Z,Marketplace,Test Drive,Lost,b-northside,s-james,v-0096,34,1,0,0,0,1,0,2025-02-22
+l-00599,2025-02-17,2025-02-17T14:40:00.000Z,Marketplace,Enquiry,Lost,b-northside,,,,0,0,0,0,1,0,2025-02-27
+l-01548,2025-02-20,2025-02-20T09:44:00.000Z,Phone,Finance,Lost,b-downtown,,v-0087,,0,0,0,0,1,0,2025-02-21
+l-01547,2025-02-20,2025-02-20T18:53:00.000Z,Referral,Enquiry,Lost,b-downtown,s-omar,,114,1,0,0,0,1,0,2025-03-04
+l-00293,2025-02-21,2025-02-21T11:18:00.000Z,Facebook,Enquiry,Lost,b-downtown,,v-0015,,0,0,0,0,1,0,2025-02-22
+l-01560,2025-02-21,2025-02-21T12:31:00.000Z,Website,Test Drive,Lost,b-downtown,s-omar,v-0088,40,1,1,1,0,1,0,2025-02-26
+l-00433,2025-02-22,2025-02-22T18:56:00.000Z,Website,Enquiry,Lost,b-northside,,v-0092,,0,0,0,0,1,0,2025-02-23
+l-00035,2025-02-23,2025-02-23T17:33:00.000Z,Phone,Test Drive,Won,b-downtown,s-maya,v-0054,19,1,0,1,1,0,0,2025-03-19
+l-01083,2025-02-24,2025-02-24T08:52:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-maya,v-0091,87,1,0,0,0,1,0,2025-03-07
+l-01053,2025-02-24,2025-02-24T09:07:00.000Z,Website,Test Drive,Lost,b-northside,s-sara,,12,1,1,1,0,1,0,2025-03-13
+l-00874,2025-02-25,2025-02-25T15:33:00.000Z,Website,Enquiry,Lost,b-northside,s-sara,v-0056,1353,1,1,0,0,1,0,2025-03-10
+l-00668,2025-02-25,2025-02-25T18:02:00.000Z,Referral,Enquiry,Lost,b-northside,s-sara,v-0092,172,1,0,0,0,1,0,2025-03-06
+l-00660,2025-02-26,2025-02-26T12:57:00.000Z,Marketplace,Enquiry,Lost,b-downtown,,,,0,0,0,0,1,0,2025-02-28
+l-01341,2025-02-26,2025-02-26T14:57:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-maya,v-0082,8,1,0,0,0,1,0,2025-03-03
+l-00883,2025-02-27,2025-02-27T08:53:00.000Z,Phone,Enquiry,Lost,b-downtown,s-lucas,v-0034,3,1,0,0,0,1,0,2025-03-05
+l-01496,2025-02-27,2025-02-27T12:47:00.000Z,Walk-in,Enquiry,Lost,b-northside,s-james,v-0101,3,1,0,0,0,1,0,2025-03-10
+l-00977,2025-02-27,2025-02-27T16:36:00.000Z,Phone,Enquiry,Lost,b-northside,s-james,,17,1,1,0,0,1,0,2025-03-10
+l-01398,2025-02-28,2025-02-28T18:22:00.000Z,Facebook,Finance,Lost,b-northside,s-james,v-0089,20,1,1,1,0,1,0,2025-03-13
+l-00721,2025-02-28,2025-02-28T18:48:00.000Z,Phone,Enquiry,Lost,b-downtown,,v-0091,,0,0,0,0,1,0,2025-03-01
+l-01326,2025-03-01,2025-03-01T11:50:00.000Z,Website,Enquiry,Lost,b-downtown,,v-0091,,0,0,0,0,1,0,2025-03-08
+l-01220,2025-03-01,2025-03-01T15:48:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-lucas,v-0091,135,1,1,0,0,1,0,2025-03-06
+l-00876,2025-03-02,2025-03-02T11:46:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-sara,,180,1,1,1,0,1,0,2025-03-11
+l-00696,2025-03-02,2025-03-02T14:24:00.000Z,Facebook,Finance,Lost,b-downtown,s-lucas,v-0098,45,1,1,0,0,1,0,2025-03-06
+l-01147,2025-03-02,2025-03-02T16:59:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-omar,,58,1,0,0,0,1,0,2025-03-09
+l-00749,2025-03-03,2025-03-03T12:49:00.000Z,Walk-in,Test Drive,Lost,b-northside,s-sara,v-0107,1,1,1,1,0,1,0,2025-03-12
+l-00064,2025-03-04,2025-03-04T08:45:00.000Z,Facebook,Enquiry,Won,b-downtown,s-omar,v-0106,24,1,1,1,1,0,0,2025-03-25
+l-01057,2025-03-04,2025-03-04T10:49:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-maya,v-0085,48,1,0,0,0,1,0,2025-03-13
+l-00526,2025-03-05,2025-03-05T08:38:00.000Z,Website,Test Drive,Lost,b-downtown,s-lucas,v-0100,206,1,0,0,0,1,0,2025-03-15
+l-00067,2025-03-07,2025-03-07T09:31:00.000Z,Facebook,Test Drive,Won,b-downtown,s-lucas,v-0109,39,1,1,1,1,0,0,2025-03-23
+l-00464,2025-03-07,2025-03-07T13:58:00.000Z,Facebook,Test Drive,Lost,b-downtown,s-lucas,v-0109,623,1,1,0,0,1,0,2025-03-20
+l-00736,2025-03-08,2025-03-08T13:18:00.000Z,Marketplace,Test Drive,Lost,b-northside,,v-0101,,0,0,0,0,1,0,2025-03-12
+l-01349,2025-03-08,2025-03-08T13:28:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-omar,v-0034,35,1,1,1,0,1,0,2025-03-19
+l-00355,2025-03-08,2025-03-08T17:36:00.000Z,Website,Enquiry,Lost,b-downtown,,v-0109,,0,0,0,0,1,0,2025-03-09
+l-00950,2025-03-09,2025-03-09T08:16:00.000Z,Facebook,Enquiry,Lost,b-northside,s-sara,v-0110,86,1,0,0,0,1,0,2025-03-23
+l-00525,2025-03-09,2025-03-09T14:14:00.000Z,Referral,Enquiry,Lost,b-northside,s-james,v-0080,152,1,0,0,0,1,0,2025-03-19
+l-01200,2025-03-10,2025-03-10T08:36:00.000Z,Website,Test Drive,Lost,b-downtown,s-lucas,v-0015,35,1,1,1,0,1,0,2025-03-30
+l-00999,2025-03-10,2025-03-10T10:54:00.000Z,Website,Enquiry,Lost,b-northside,s-james,v-0110,101,1,0,0,0,1,0,2025-03-21
+l-01376,2025-03-10,2025-03-10T17:48:00.000Z,Walk-in,Test Drive,Lost,b-northside,s-james,v-0064,1,1,1,1,0,1,0,2025-03-22
+l-00951,2025-03-10,2025-03-10T18:21:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-omar,v-0015,135,1,1,0,0,1,0,2025-03-26
+l-00561,2025-03-11,2025-03-11T08:40:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,,28,1,1,1,0,1,0,2025-03-27
+l-01122,2025-03-11,2025-03-11T10:33:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,,105,1,1,1,0,1,0,2025-03-23
+l-00065,2025-03-12,2025-03-12T10:57:00.000Z,Website,Finance,Won,b-northside,s-james,v-0107,35,1,1,1,1,0,0,2025-03-18
+l-00593,2025-03-12,2025-03-12T16:47:00.000Z,Marketplace,Enquiry,Lost,b-northside,,v-0089,,0,0,0,0,1,0,2025-03-24
+l-01166,2025-03-12,2025-03-12T18:11:00.000Z,Website,Test Drive,Lost,b-downtown,,v-0105,,0,0,0,0,1,0,2025-03-17
+l-00306,2025-03-13,2025-03-13T11:57:00.000Z,Website,Finance,Lost,b-downtown,s-lucas,v-0098,5,1,0,0,0,1,0,2025-03-25
+l-01181,2025-03-13,2025-03-13T16:11:00.000Z,Phone,Test Drive,Lost,b-downtown,s-lucas,v-0034,16,1,1,0,0,1,0,2025-03-28
+l-00327,2025-03-13,2025-03-13T18:40:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-omar,v-0082,3,1,0,0,0,1,0,2025-03-14
+l-00050,2025-03-15,2025-03-15T11:32:00.000Z,Marketplace,Enquiry,Won,b-downtown,s-omar,v-0088,19,1,1,1,1,0,0,2025-04-03
+l-00670,2025-03-15,2025-03-15T15:22:00.000Z,Website,Test Drive,Lost,b-downtown,s-maya,v-0102,24,1,0,0,0,1,0,2025-03-18
+l-00580,2025-03-17,2025-03-17T09:37:00.000Z,Website,Enquiry,Lost,b-downtown,,v-0109,,0,0,0,0,1,0,2025-03-19
+l-00047,2025-03-17,2025-03-17T11:10:00.000Z,Marketplace,Test Drive,Won,b-northside,s-sara,v-0080,177,1,1,1,1,0,0,2025-03-31
+l-00393,2025-03-18,2025-03-18T15:33:00.000Z,Phone,Test Drive,Lost,b-downtown,s-maya,,23,1,0,0,0,1,0,2025-03-23
+l-00403,2025-03-19,2025-03-19T09:25:00.000Z,Walk-in,Finance,Lost,b-northside,s-sara,,1,1,1,0,0,1,0,2025-04-06
+l-00865,2025-03-20,2025-03-20T14:53:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,v-0108,16,1,0,0,0,1,0,2025-03-30
+l-01210,2025-03-21,2025-03-21T10:17:00.000Z,Facebook,Test Drive,Lost,b-downtown,s-maya,v-0102,136,1,1,0,0,1,0,2025-03-29
+l-00071,2025-03-22,2025-03-22T13:26:00.000Z,Website,Enquiry,Won,b-northside,s-sara,v-0116,37,1,1,1,1,0,0,2025-04-14
+l-01466,2025-03-23,2025-03-23T09:17:00.000Z,Marketplace,Finance,Lost,b-downtown,s-maya,v-0104,115,1,0,0,0,1,0,2025-04-04
+l-00536,2025-03-23,2025-03-23T15:10:00.000Z,Walk-in,Test Drive,Lost,b-downtown,s-maya,v-0083,0,1,0,0,0,1,0,2025-04-05
+l-00817,2025-03-23,2025-03-23T18:08:00.000Z,Phone,Enquiry,Lost,b-downtown,s-omar,,21,1,1,0,0,1,0,2025-03-25
+l-00990,2025-03-24,2025-03-24T08:17:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,v-0112,28,1,1,0,0,1,0,2025-04-09
+l-01462,2025-03-24,2025-03-24T10:52:00.000Z,Website,Enquiry,Lost,b-northside,s-james,v-0119,107,1,1,0,0,1,0,2025-03-30
+l-00059,2025-03-24,2025-03-24T11:04:00.000Z,Website,Finance,Won,b-downtown,s-maya,v-0099,58,1,1,1,1,0,0,2025-03-30
+l-01422,2025-03-25,2025-03-25T16:26:00.000Z,Facebook,Finance,Lost,b-northside,s-sara,v-0056,35,1,0,0,0,1,0,2025-03-27
+l-01143,2025-03-25,2025-03-25T18:03:00.000Z,Marketplace,Enquiry,Lost,b-downtown,,v-0091,,0,0,0,0,1,0,2025-03-30
+l-01165,2025-03-26,2025-03-26T08:49:00.000Z,Phone,Test Drive,Lost,b-downtown,s-maya,v-0083,5,1,0,0,0,1,0,2025-03-27
+l-01051,2025-03-26,2025-03-26T09:04:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,v-0082,16,1,1,1,0,1,0,2025-04-06
+l-00072,2025-03-27,2025-03-27T11:56:00.000Z,Website,Finance,Won,b-northside,s-sara,v-0118,63,1,1,1,1,0,0,2025-04-03
+l-01488,2025-03-27,2025-03-27T16:18:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,,99,1,1,0,0,1,0,2025-04-05
+l-01161,2025-03-28,2025-03-28T08:23:00.000Z,Website,Enquiry,Lost,b-downtown,,v-0100,,0,0,0,0,1,0,2025-04-01
+l-00058,2025-03-28,2025-03-28T11:40:00.000Z,Facebook,Enquiry,Won,b-downtown,s-lucas,v-0097,52,1,1,1,1,0,0,2025-04-20
+l-01155,2025-03-28,2025-03-28T12:09:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-lucas,v-0104,35,1,0,0,0,1,0,2025-04-06
+l-01435,2025-03-28,2025-03-28T12:59:00.000Z,Referral,Enquiry,Lost,b-northside,s-sara,,10,1,0,0,0,1,0,2025-04-02
+l-00070,2025-03-28,2025-03-28T14:13:00.000Z,Walk-in,Test Drive,Won,b-downtown,s-lucas,v-0115,1,1,1,1,1,0,0,2025-04-09
+l-00992,2025-03-29,2025-03-29T09:50:00.000Z,Website,Enquiry,Lost,b-northside,s-james,,1365,1,0,0,0,1,0,2025-04-02
+l-01091,2025-03-29,2025-03-29T13:35:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-lucas,v-0099,33,1,1,1,0,1,0,2025-04-13
+l-00713,2025-03-29,2025-03-29T15:00:00.000Z,Walk-in,Test Drive,Lost,b-northside,s-sara,v-0113,1,1,0,0,0,1,0,2025-04-07
+l-01482,2025-03-29,2025-03-29T15:20:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,v-0091,53,1,1,1,0,1,0,2025-04-09
+l-00632,2025-03-30,2025-03-30T15:16:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-james,,52,1,1,0,0,1,0,2025-04-07
+l-01387,2025-03-31,2025-03-31T10:05:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-lucas,,55,1,1,1,0,1,0,2025-04-15
+l-00010,2025-03-31,2025-03-31T11:40:00.000Z,Walk-in,Enquiry,Won,b-downtown,s-lucas,v-0015,5,1,1,1,1,0,0,2025-04-09
+l-01189,2025-03-31,2025-03-31T14:28:00.000Z,Website,Enquiry,Lost,b-northside,s-sara,,48,1,1,0,0,1,0,2025-04-07
+l-00553,2025-03-31,2025-03-31T16:16:00.000Z,Marketplace,Test Drive,Lost,b-downtown,s-maya,v-0097,110,1,0,0,0,1,0,2025-04-11
+l-00886,2025-03-31,2025-03-31T16:48:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,,31,1,0,0,0,1,0,2025-04-06
+l-00304,2025-04-01,2025-04-01T14:35:00.000Z,Facebook,Enquiry,Lost,b-northside,s-james,v-0064,39,1,0,0,0,1,0,2025-04-11
+l-00889,2025-04-01,2025-04-01T18:54:00.000Z,Website,Test Drive,Lost,b-downtown,s-omar,v-0034,133,1,1,0,0,1,0,2025-04-10
+l-00346,2025-04-02,2025-04-02T08:47:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,v-0121,29,1,0,0,0,1,0,2025-04-15
+l-01199,2025-04-02,2025-04-02T09:46:00.000Z,Website,Test Drive,Lost,b-northside,s-james,v-0113,9,1,1,1,0,1,0,2025-04-10
+l-01061,2025-04-02,2025-04-02T11:53:00.000Z,Walk-in,Enquiry,Lost,b-downtown,,v-0097,,0,0,0,0,1,0,2025-04-03
+l-01186,2025-04-02,2025-04-02T12:34:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-sara,v-0096,22,1,0,0,0,1,0,2025-04-04
+l-00073,2025-04-03,2025-04-03T10:38:00.000Z,Facebook,Enquiry,Won,b-northside,s-sara,v-0119,22,1,1,1,1,0,0,2025-04-09
+l-01152,2025-04-03,2025-04-03T15:40:00.000Z,Marketplace,Test Drive,Lost,b-northside,s-james,v-0113,21,1,0,0,0,1,0,2025-04-13
+l-00068,2025-04-04,2025-04-04T10:35:00.000Z,Phone,Enquiry,Won,b-downtown,s-maya,v-0112,4,1,0,1,1,0,0,2025-04-07
+l-00482,2025-04-04,2025-04-04T14:09:00.000Z,Walk-in,Enquiry,Lost,b-downtown,,v-0115,,0,0,0,0,1,0,2025-04-11
+l-00077,2025-04-04,2025-04-04T14:49:00.000Z,Walk-in,Enquiry,Won,b-downtown,s-omar,v-0123,4,1,1,1,1,0,0,2025-04-20
+l-01543,2025-04-06,2025-04-06T11:02:00.000Z,Facebook,Test Drive,Lost,b-downtown,,v-0108,,0,0,0,0,1,0,2025-04-13
+l-00618,2025-04-07,2025-04-07T09:11:00.000Z,Website,Test Drive,Lost,b-northside,s-james,v-0110,87,1,1,0,0,1,0,2025-04-13
+l-00063,2025-04-07,2025-04-07T14:48:00.000Z,Marketplace,Enquiry,Won,b-downtown,s-lucas,v-0105,26,1,1,1,1,0,0,2025-04-11
+l-00283,2025-04-07,2025-04-07T18:14:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,,12,1,1,1,0,1,0,2025-04-20
+l-00476,2025-04-09,2025-04-09T11:56:00.000Z,Marketplace,Test Drive,Lost,b-downtown,s-lucas,,41,1,1,0,0,1,0,2025-04-17
+l-01244,2025-04-09,2025-04-09T15:42:00.000Z,Website,Enquiry,Lost,b-northside,s-sara,v-0110,49,1,0,0,0,1,0,2025-04-22
+l-01184,2025-04-09,2025-04-09T16:25:00.000Z,Facebook,Enquiry,Lost,b-northside,s-james,,47,1,1,0,0,1,0,2025-04-24
+l-00502,2025-04-10,2025-04-10T09:53:00.000Z,Facebook,Enquiry,Lost,b-northside,s-sara,v-0117,33,1,0,0,0,1,0,2025-04-12
+l-00052,2025-04-11,2025-04-11T11:48:00.000Z,Phone,Enquiry,Won,b-downtown,s-omar,v-0091,21,1,0,1,1,0,0,2025-04-20
+l-00898,2025-04-11,2025-04-11T18:11:00.000Z,Walk-in,Enquiry,Lost,b-northside,s-james,v-0113,4,1,0,0,0,1,0,2025-04-12
+l-00428,2025-04-12,2025-04-12T13:32:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-omar,v-0126,20,1,0,0,0,1,0,2025-04-20
+l-00484,2025-04-13,2025-04-13T08:00:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-omar,v-0083,4,1,1,0,0,1,0,2025-04-30
+l-01257,2025-04-14,2025-04-14T08:28:00.000Z,Website,Test Drive,Lost,b-northside,s-james,v-0128,103,1,0,0,0,1,0,2025-04-15
+l-00465,2025-04-15,2025-04-15T09:16:00.000Z,Phone,Test Drive,Lost,b-northside,s-james,,13,1,1,0,0,1,0,2025-04-28
+l-00774,2025-04-15,2025-04-15T10:59:00.000Z,Walk-in,Enquiry,Lost,b-northside,s-james,,5,1,1,0,0,1,0,2025-04-25
+l-00911,2025-04-15,2025-04-15T14:23:00.000Z,Website,Test Drive,Lost,b-northside,,v-0096,,0,0,0,0,1,0,2025-04-28
+l-00360,2025-04-15,2025-04-15T16:59:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-james,v-0064,166,1,0,0,0,1,0,2025-04-21
+l-01399,2025-04-16,2025-04-16T14:28:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-maya,v-0108,4,1,0,0,0,1,0,2025-04-27
+l-00086,2025-04-16,2025-04-16T16:18:00.000Z,Phone,Enquiry,Won,b-downtown,s-lucas,v-0134,17,1,1,1,1,0,0,2025-04-28
+l-00075,2025-04-16,2025-04-16T17:02:00.000Z,Facebook,Enquiry,Won,b-downtown,s-omar,v-0121,59,1,1,1,1,0,0,2025-04-22
+l-00069,2025-04-18,2025-04-18T10:25:00.000Z,Website,Enquiry,Won,b-northside,s-james,v-0113,57,1,1,1,1,0,0,2025-04-25
+l-01096,2025-04-18,2025-04-18T11:48:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-maya,v-0134,40,1,0,0,0,1,0,2025-04-23
+l-01397,2025-04-18,2025-04-18T14:24:00.000Z,Facebook,Test Drive,Lost,b-downtown,s-omar,,1029,1,0,0,0,1,0,2025-04-20
+l-00626,2025-04-18,2025-04-18T18:56:00.000Z,Facebook,Test Drive,Lost,b-downtown,s-omar,v-0127,127,1,0,0,0,1,0,2025-04-20
+l-00037,2025-04-19,2025-04-19T09:57:00.000Z,Marketplace,Finance,Won,b-northside,s-james,v-0056,480,1,1,1,1,0,0,2025-05-12
+l-00472,2025-04-20,2025-04-20T09:44:00.000Z,Facebook,Test Drive,Lost,b-northside,s-sara,,8,1,0,0,0,1,0,2025-04-23
+l-00089,2025-04-21,2025-04-21T12:29:00.000Z,Facebook,Enquiry,Won,b-downtown,s-omar,v-0137,24,1,0,1,1,0,0,2025-05-07
+l-00066,2025-04-22,2025-04-22T09:58:00.000Z,Referral,Enquiry,Won,b-downtown,s-lucas,v-0108,63,1,1,1,1,0,0,2025-04-29
+l-00062,2025-04-22,2025-04-22T11:47:00.000Z,Website,Test Drive,Won,b-downtown,s-omar,v-0102,49,1,1,1,1,0,0,2025-05-10
+l-01343,2025-04-24,2025-04-24T12:51:00.000Z,Website,Finance,Lost,b-downtown,,v-0131,,0,0,0,0,1,0,2025-04-30
+l-00397,2025-04-25,2025-04-25T15:34:00.000Z,Website,Test Drive,Lost,b-northside,s-james,v-0135,22,1,1,0,0,1,0,2025-04-29
+l-01153,2025-04-25,2025-04-25T18:36:00.000Z,Walk-in,Enquiry,Lost,b-downtown,,v-0137,,0,0,0,0,1,0,2025-05-03
+l-01288,2025-04-27,2025-04-27T08:57:00.000Z,Walk-in,Enquiry,Lost,b-northside,s-sara,,0,1,1,1,0,1,0,2025-05-04
+l-00081,2025-04-27,2025-04-27T10:19:00.000Z,Walk-in,Finance,Won,b-northside,s-james,v-0129,4,1,1,1,1,0,0,2025-05-04
+l-01251,2025-04-27,2025-04-27T13:26:00.000Z,Website,Finance,Lost,b-northside,s-sara,v-0117,41,1,0,0,0,1,0,2025-05-03
+l-01527,2025-04-27,2025-04-27T15:04:00.000Z,Facebook,Finance,Lost,b-downtown,,v-0083,,0,0,0,0,1,0,2025-05-05
+l-00422,2025-04-27,2025-04-27T18:20:00.000Z,Marketplace,Test Drive,Lost,b-northside,s-sara,v-0114,35,1,0,0,0,1,0,2025-04-29
+l-00088,2025-04-28,2025-04-28T09:25:00.000Z,Website,Enquiry,Won,b-downtown,s-maya,v-0136,135,1,1,1,1,0,0,2025-05-15
+l-00758,2025-04-29,2025-04-29T13:18:00.000Z,Walk-in,Finance,Lost,b-downtown,,v-0131,,0,0,0,0,1,0,2025-05-07
+l-01415,2025-04-30,2025-04-30T09:26:00.000Z,Website,Test Drive,Lost,b-downtown,s-maya,v-0100,154,1,1,0,0,1,0,2025-05-04
+l-01011,2025-04-30,2025-04-30T13:00:00.000Z,Facebook,Test Drive,Lost,b-downtown,s-maya,v-0137,14,1,0,0,0,1,0,2025-05-12
+l-00395,2025-04-30,2025-04-30T18:13:00.000Z,Phone,Finance,Lost,b-downtown,s-omar,v-0138,11,1,1,1,0,1,0,2025-05-14
+l-01108,2025-05-01,2025-05-01T15:22:00.000Z,Walk-in,Test Drive,Lost,b-downtown,s-maya,v-0083,4,1,0,0,0,1,0,2025-05-04
+l-00905,2025-05-02,2025-05-02T14:50:00.000Z,Phone,Enquiry,Lost,b-downtown,,v-0124,,0,0,0,0,1,0,2025-05-13
+l-00024,2025-05-02,2025-05-02T14:56:00.000Z,Website,Test Drive,Won,b-downtown,s-lucas,v-0034,56,1,1,1,1,0,0,2025-05-13
+l-00900,2025-05-02,2025-05-02T17:00:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,,52,1,0,0,0,1,0,2025-05-05
+l-00557,2025-05-03,2025-05-03T15:36:00.000Z,Website,Finance,Lost,b-downtown,s-lucas,v-0143,14,1,0,0,0,1,0,2025-05-13
+l-00085,2025-05-04,2025-05-04T11:02:00.000Z,Phone,Enquiry,Won,b-downtown,s-lucas,v-0133,11,1,1,1,1,0,0,2025-05-20
+l-00689,2025-05-04,2025-05-04T11:09:00.000Z,Marketplace,Finance,Lost,b-downtown,s-omar,,13,1,0,0,0,1,0,2025-05-07
+l-00362,2025-05-04,2025-05-04T13:03:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-james,v-0135,1231,1,1,1,0,1,0,2025-05-18
+l-01394,2025-05-04,2025-05-04T16:47:00.000Z,Website,Finance,Lost,b-downtown,,v-0085,,0,0,0,0,1,0,2025-05-11
+l-01439,2025-05-05,2025-05-05T13:14:00.000Z,Website,Test Drive,Lost,b-downtown,,v-0130,,0,0,0,0,1,0,2025-05-18
+l-00919,2025-05-06,2025-05-06T13:37:00.000Z,Facebook,Enquiry,Lost,b-northside,,v-0120,,0,0,0,0,1,0,2025-05-13
+l-00083,2025-05-07,2025-05-07T13:17:00.000Z,Walk-in,Enquiry,Won,b-downtown,s-maya,v-0131,3,1,0,1,1,0,0,2025-05-17
+l-00090,2025-05-08,2025-05-08T16:25:00.000Z,Website,Enquiry,Won,b-northside,s-james,v-0142,41,1,1,1,1,0,0,2025-05-14
+l-01146,2025-05-10,2025-05-10T12:31:00.000Z,Website,Test Drive,Lost,b-downtown,s-lucas,v-0082,11,1,1,0,0,1,0,2025-05-25
+l-00080,2025-05-10,2025-05-10T16:40:00.000Z,Facebook,Test Drive,Won,b-downtown,s-omar,v-0127,6,1,1,1,1,0,0,2025-05-14
+l-00087,2025-05-11,2025-05-11T10:19:00.000Z,Marketplace,Finance,Won,b-northside,s-james,v-0135,17,1,1,1,1,0,0,2025-05-16
+l-01208,2025-05-11,2025-05-11T17:38:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-lucas,v-0104,21,1,1,0,0,1,0,2025-05-19
+l-01260,2025-05-12,2025-05-12T08:19:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,v-0127,45,1,1,0,0,1,0,2025-05-22
+l-00586,2025-05-12,2025-05-12T15:14:00.000Z,Walk-in,Finance,Lost,b-northside,,v-0101,,0,0,0,0,1,0,2025-05-20
+l-00552,2025-05-12,2025-05-12T16:44:00.000Z,Marketplace,Test Drive,Lost,b-downtown,s-maya,v-0143,46,1,0,0,0,1,0,2025-05-14
+l-00607,2025-05-13,2025-05-13T11:33:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-lucas,v-0082,482,1,1,0,0,1,0,2025-05-18
+l-01211,2025-05-13,2025-05-13T12:04:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,,185,1,0,0,0,1,0,2025-05-24
+l-00093,2025-05-13,2025-05-13T13:03:00.000Z,Phone,Enquiry,Won,b-northside,s-james,v-0147,2,1,1,1,1,0,0,2025-05-25
+l-00894,2025-05-13,2025-05-13T16:54:00.000Z,Website,Test Drive,Lost,b-northside,s-sara,v-0148,13,1,1,0,0,1,0,2025-05-27
+l-01193,2025-05-14,2025-05-14T12:46:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-sara,v-0120,24,1,1,0,0,1,0,2025-06-02
+l-00711,2025-05-15,2025-05-15T11:04:00.000Z,Marketplace,Enquiry,Lost,b-northside,,v-0140,,0,0,0,0,1,0,2025-05-28
+l-01494,2025-05-15,2025-05-15T12:58:00.000Z,Walk-in,Enquiry,Lost,b-northside,,,,0,0,0,0,1,0,2025-05-19
+l-01357,2025-05-15,2025-05-15T14:49:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-sara,v-0122,167,1,0,0,0,1,0,2025-05-26
+l-00532,2025-05-15,2025-05-15T14:56:00.000Z,Facebook,Enquiry,Lost,b-northside,s-james,v-0139,72,1,0,0,0,1,0,2025-05-17
+l-01554,2025-05-15,2025-05-15T18:12:00.000Z,Website,Enquiry,Lost,b-northside,s-sara,v-0139,26,1,1,1,0,1,0,2025-05-31
+l-00321,2025-05-17,2025-05-17T15:28:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,v-0126,156,1,0,0,0,1,0,2025-05-21
+l-00592,2025-05-17,2025-05-17T16:49:00.000Z,Website,Finance,Lost,b-northside,,v-0144,,0,0,0,0,1,0,2025-05-26
+l-00996,2025-05-18,2025-05-18T18:12:00.000Z,Walk-in,Enquiry,Lost,b-northside,s-sara,,5,1,1,1,0,1,0,2025-06-06
+l-00082,2025-05-19,2025-05-19T08:13:00.000Z,Walk-in,Enquiry,Won,b-downtown,s-lucas,v-0130,2,1,1,1,1,0,0,2025-06-09
+l-00079,2025-05-20,2025-05-20T10:06:00.000Z,Website,Enquiry,Won,b-downtown,s-omar,v-0126,42,1,1,1,1,0,0,2025-05-30
+l-01382,2025-05-20,2025-05-20T15:27:00.000Z,Website,Enquiry,Lost,b-northside,s-james,v-0132,30,1,0,0,0,1,0,2025-05-24
+l-01533,2025-05-20,2025-05-20T17:24:00.000Z,Website,Test Drive,Lost,b-northside,s-sara,,59,1,0,0,0,1,0,2025-05-21
+l-01120,2025-05-20,2025-05-20T17:47:00.000Z,Website,Test Drive,Lost,b-downtown,s-lucas,,34,1,0,0,0,1,0,2025-06-02
+l-01008,2025-05-21,2025-05-21T15:43:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-lucas,v-0150,12,1,1,0,0,1,0,2025-05-30
+l-01025,2025-05-21,2025-05-21T17:12:00.000Z,Website,Enquiry,Lost,b-northside,s-james,v-0144,40,1,1,0,0,1,0,2025-06-01
+l-00815,2025-05-22,2025-05-22T15:39:00.000Z,Website,Test Drive,Lost,b-northside,s-james,,29,1,0,0,0,1,0,2025-05-31
+l-00991,2025-05-23,2025-05-23T10:28:00.000Z,Marketplace,Finance,Lost,b-northside,,v-0096,,0,0,0,0,1,0,2025-05-24
+l-00084,2025-05-24,2025-05-24T14:55:00.000Z,Marketplace,Enquiry,Won,b-northside,s-sara,v-0132,193,1,1,1,1,0,0,2025-06-04
+l-00550,2025-05-25,2025-05-25T10:38:00.000Z,Walk-in,Enquiry,Lost,b-northside,s-sara,v-0064,4,1,0,0,0,1,0,2025-05-31
+l-00856,2025-05-25,2025-05-25T10:41:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,v-0157,31,1,1,1,0,1,0,2025-06-01
+l-01421,2025-05-25,2025-05-25T13:21:00.000Z,Website,Test Drive,Lost,b-northside,,v-0122,,0,0,0,0,1,0,2025-05-30
+l-00060,2025-05-25,2025-05-25T15:41:00.000Z,Referral,Enquiry,Won,b-downtown,s-omar,v-0100,161,1,1,1,1,0,0,2025-06-19
+l-01405,2025-05-25,2025-05-25T16:18:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-lucas,v-0143,7,1,0,0,0,1,0,2025-06-07
+l-00420,2025-05-25,2025-05-25T16:22:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-maya,v-0082,1,1,0,0,0,1,0,2025-06-04
+l-01478,2025-05-26,2025-05-26T17:09:00.000Z,Walk-in,Finance,Lost,b-northside,,v-0158,,0,0,0,0,1,0,2025-05-28
+l-00649,2025-05-27,2025-05-27T10:51:00.000Z,Website,Enquiry,Lost,b-northside,,,,0,0,0,0,1,0,2025-06-08
+l-00888,2025-05-27,2025-05-27T15:31:00.000Z,Website,Test Drive,Lost,b-downtown,s-omar,v-0157,189,1,0,0,0,1,0,2025-05-30
+l-01528,2025-05-28,2025-05-28T13:09:00.000Z,Website,Test Drive,Lost,b-downtown,s-omar,v-0143,47,1,0,0,0,1,0,2025-06-06
+l-00788,2025-05-28,2025-05-28T15:57:00.000Z,Website,Test Drive,Lost,b-northside,s-james,v-0120,30,1,1,0,0,1,0,2025-06-05
+l-01203,2025-05-29,2025-05-29T13:03:00.000Z,Website,Test Drive,Lost,b-downtown,s-omar,v-0126,79,1,1,0,0,1,0,2025-06-09
+l-01158,2025-05-30,2025-05-30T15:54:00.000Z,Phone,Finance,Lost,b-northside,s-sara,v-0159,21,1,0,0,0,1,0,2025-06-04
+l-00421,2025-05-31,2025-05-31T12:03:00.000Z,Marketplace,Enquiry,Lost,b-northside,,,,0,0,0,0,1,0,2025-06-14
+l-00688,2025-05-31,2025-05-31T14:11:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,v-0149,201,1,1,0,0,1,0,2025-06-13
+l-01537,2025-06-01,2025-06-01T13:52:00.000Z,Website,Enquiry,Lost,b-downtown,,v-0143,,0,0,0,0,1,0,2025-06-11
+l-00604,2025-06-01,2025-06-01T15:06:00.000Z,Phone,Finance,Lost,b-northside,s-james,v-0064,14,1,0,0,0,1,0,2025-06-03
+l-00574,2025-06-01,2025-06-01T15:40:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-maya,v-0100,1251,1,0,0,0,1,0,2025-06-12
+l-00094,2025-06-01,2025-06-01T16:34:00.000Z,Marketplace,Finance,Won,b-downtown,s-lucas,v-0149,97,1,0,1,1,0,0,2025-06-11
+l-00500,2025-06-01,2025-06-01T17:39:00.000Z,Walk-in,Test Drive,Lost,b-northside,s-james,v-0160,4,1,0,0,0,1,0,2025-06-09
+l-00913,2025-06-02,2025-06-02T12:01:00.000Z,Marketplace,Finance,Lost,b-downtown,s-maya,,128,1,1,1,0,1,0,2025-06-11
+l-00041,2025-06-03,2025-06-03T12:35:00.000Z,Marketplace,Test Drive,Won,b-northside,s-sara,v-0064,217,1,1,1,1,0,0,2025-06-20
+l-00076,2025-06-04,2025-06-04T08:29:00.000Z,Website,Enquiry,Won,b-northside,s-james,v-0122,54,1,1,1,1,0,0,2025-06-14
+l-01204,2025-06-04,2025-06-04T09:37:00.000Z,Phone,Test Drive,Lost,b-northside,,v-0128,,0,0,0,0,1,0,2025-06-13
+l-01440,2025-06-04,2025-06-04T10:55:00.000Z,Website,Test Drive,Lost,b-northside,s-james,,23,1,1,0,0,1,0,2025-06-20
+l-01167,2025-06-04,2025-06-04T12:34:00.000Z,Website,Enquiry,Lost,b-northside,s-james,v-0120,20,1,1,0,0,1,0,2025-06-05
+l-01013,2025-06-04,2025-06-04T17:32:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-lucas,v-0152,180,1,1,0,0,1,0,2025-06-11
+l-00098,2025-06-05,2025-06-05T13:11:00.000Z,Website,Enquiry,Won,b-northside,s-sara,v-0158,7,1,1,1,1,0,0,2025-06-24
+l-00106,2025-06-05,2025-06-05T18:57:00.000Z,Phone,Enquiry,Won,b-downtown,s-lucas,v-0166,6,1,1,1,1,0,0,2025-06-13
+l-00107,2025-06-06,2025-06-06T11:46:00.000Z,Facebook,Test Drive,Won,b-northside,s-sara,v-0167,6,1,1,1,1,0,0,2025-06-13
+l-00848,2025-06-09,2025-06-09T11:20:00.000Z,Website,Enquiry,Lost,b-northside,s-sara,v-0167,127,1,1,1,0,1,0,2025-06-14
+l-00396,2025-06-09,2025-06-09T12:13:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-omar,v-0156,140,1,1,0,0,1,0,2025-06-26
+l-00643,2025-06-09,2025-06-09T15:20:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,v-0153,1061,1,0,0,0,1,0,2025-06-12
+l-00328,2025-06-09,2025-06-09T15:38:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-maya,v-0166,6,1,1,1,0,1,0,2025-06-25
+l-01558,2025-06-09,2025-06-09T18:49:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,v-0156,175,1,0,0,0,1,0,2025-06-22
+l-00451,2025-06-10,2025-06-10T09:32:00.000Z,Phone,Enquiry,Lost,b-northside,s-james,v-0167,5,1,0,0,0,1,0,2025-06-18
+l-00594,2025-06-10,2025-06-10T15:35:00.000Z,Website,Finance,Lost,b-downtown,,v-0150,,0,0,0,0,1,0,2025-06-24
+l-01138,2025-06-10,2025-06-10T16:47:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,,39,1,0,0,0,1,0,2025-06-21
+l-00698,2025-06-11,2025-06-11T10:26:00.000Z,Website,Test Drive,Lost,b-northside,s-sara,v-0120,39,1,1,1,0,1,0,2025-06-13
+l-00385,2025-06-11,2025-06-11T15:19:00.000Z,Website,Test Drive,Lost,b-northside,s-james,v-0120,22,1,1,0,0,1,0,2025-06-15
+l-01058,2025-06-11,2025-06-11T17:31:00.000Z,Website,Enquiry,Lost,b-northside,s-james,v-0064,49,1,1,0,0,1,0,2025-06-23
+l-00481,2025-06-12,2025-06-12T10:49:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-lucas,,204,1,1,1,0,1,0,2025-06-18
+l-01517,2025-06-13,2025-06-13T10:47:00.000Z,Facebook,Test Drive,Lost,b-northside,s-james,v-0172,150,1,0,0,0,1,0,2025-06-19
+l-01302,2025-06-13,2025-06-13T15:16:00.000Z,Facebook,Test Drive,Lost,b-downtown,,v-0153,,0,0,0,0,1,0,2025-06-27
+l-01318,2025-06-14,2025-06-14T14:55:00.000Z,Walk-in,Enquiry,Lost,b-northside,,,,0,0,0,0,1,0,2025-06-26
+l-00753,2025-06-15,2025-06-15T09:28:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,v-0152,26,1,0,0,0,1,0,2025-06-17
+l-00097,2025-06-15,2025-06-15T13:24:00.000Z,Marketplace,Test Drive,Won,b-downtown,s-maya,v-0153,22,1,1,1,1,0,0,2025-07-10
+l-00540,2025-06-16,2025-06-16T13:11:00.000Z,Facebook,Finance,Lost,b-northside,s-sara,,193,1,1,0,0,1,0,2025-06-27
+l-00109,2025-06-16,2025-06-16T13:51:00.000Z,Website,Test Drive,Won,b-downtown,s-lucas,v-0169,30,1,0,1,1,0,0,2025-07-02
+l-00534,2025-06-16,2025-06-16T14:43:00.000Z,Phone,Test Drive,Lost,b-downtown,s-omar,v-0163,23,1,1,0,0,1,0,2025-06-22
+l-00423,2025-06-17,2025-06-17T13:58:00.000Z,Phone,Enquiry,Lost,b-northside,s-james,v-0064,10,1,0,0,0,1,0,2025-06-28
+l-00078,2025-06-17,2025-06-17T14:01:00.000Z,Marketplace,Test Drive,Won,b-downtown,s-maya,v-0124,6,1,1,1,1,0,0,2025-07-04
+l-01512,2025-06-17,2025-06-17T14:32:00.000Z,Marketplace,Finance,Lost,b-downtown,s-lucas,v-0174,54,1,0,0,0,1,0,2025-06-22
+l-01445,2025-06-18,2025-06-18T13:27:00.000Z,Website,Enquiry,Lost,b-northside,s-sara,,9,1,0,0,0,1,0,2025-07-01
+l-01037,2025-06-19,2025-06-19T12:24:00.000Z,Website,Test Drive,Lost,b-northside,,v-0146,,0,0,0,0,1,0,2025-06-26
+l-00112,2025-06-19,2025-06-19T15:58:00.000Z,Marketplace,Enquiry,Won,b-downtown,s-omar,v-0176,33,1,1,1,1,0,0,2025-07-09
+l-00291,2025-06-20,2025-06-20T11:49:00.000Z,Website,Finance,Lost,b-downtown,s-omar,v-0087,186,1,1,1,0,1,0,2025-07-06
+l-00518,2025-06-20,2025-06-20T14:04:00.000Z,Phone,Finance,Lost,b-northside,s-james,v-0128,15,1,0,0,0,1,0,2025-07-01
+l-01427,2025-06-22,2025-06-22T08:39:00.000Z,Facebook,Enquiry,Lost,b-northside,s-sara,,23,1,1,0,0,1,0,2025-07-02
+l-01214,2025-06-24,2025-06-24T09:16:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-maya,v-0161,48,1,0,0,0,1,0,2025-07-07
+l-00783,2025-06-24,2025-06-24T10:48:00.000Z,Walk-in,Enquiry,Lost,b-northside,s-sara,v-0120,3,1,0,0,0,1,0,2025-07-07
+l-01552,2025-06-24,2025-06-24T11:36:00.000Z,Website,Test Drive,Lost,b-downtown,,v-0153,,0,0,0,0,1,0,2025-06-30
+l-01297,2025-06-24,2025-06-24T11:37:00.000Z,Website,Finance,Lost,b-northside,,v-0101,,0,0,0,0,1,0,2025-07-02
+l-00820,2025-06-24,2025-06-24T15:23:00.000Z,Walk-in,Enquiry,Lost,b-downtown,,v-0163,,0,0,0,0,1,0,2025-06-25
+l-00603,2025-06-24,2025-06-24T18:14:00.000Z,Phone,Enquiry,Lost,b-northside,s-sara,v-0162,4,1,1,0,0,1,0,2025-07-01
+l-00432,2025-06-26,2025-06-26T11:27:00.000Z,Phone,Enquiry,Lost,b-northside,s-james,v-0096,18,1,1,0,0,1,0,2025-06-28
+l-00092,2025-06-27,2025-06-27T10:51:00.000Z,Walk-in,Enquiry,Won,b-northside,s-sara,v-0146,4,1,1,1,1,0,0,2025-07-15
+l-01264,2025-06-27,2025-06-27T15:01:00.000Z,Facebook,Test Drive,Lost,b-northside,s-james,v-0155,26,1,0,0,0,1,0,2025-07-09
+l-00091,2025-06-27,2025-06-27T15:20:00.000Z,Website,Enquiry,Won,b-downtown,s-lucas,v-0145,144,1,1,1,1,0,0,2025-07-21
+l-00095,2025-06-27,2025-06-27T15:40:00.000Z,Referral,Test Drive,Won,b-downtown,s-omar,v-0150,135,1,1,1,1,0,0,2025-07-09
+l-00493,2025-06-27,2025-06-27T16:22:00.000Z,Referral,Enquiry,Lost,b-downtown,s-maya,v-0178,132,1,0,0,0,1,0,2025-06-28
+l-00104,2025-06-28,2025-06-28T11:43:00.000Z,Facebook,Finance,Won,b-northside,s-sara,v-0164,56,1,1,1,1,0,0,2025-07-06
+l-01429,2025-06-29,2025-06-29T12:45:00.000Z,Website,Finance,Lost,b-downtown,,v-0150,,0,0,0,0,1,0,2025-07-10
+l-01454,2025-06-30,2025-06-30T12:45:00.000Z,Facebook,Enquiry,Lost,b-northside,s-james,v-0159,39,1,0,0,0,1,0,2025-07-07
+l-00908,2025-07-02,2025-07-02T12:42:00.000Z,Phone,Enquiry,Lost,b-downtown,s-omar,v-0087,15,1,1,0,0,1,0,2025-07-13
+l-01209,2025-07-02,2025-07-02T13:39:00.000Z,Facebook,Test Drive,Lost,b-northside,s-james,v-0141,55,1,0,0,0,1,0,2025-07-10
+l-01028,2025-07-02,2025-07-02T17:14:00.000Z,Website,Test Drive,Lost,b-northside,s-james,,13,1,1,1,0,1,0,2025-07-11
+l-00474,2025-07-04,2025-07-04T10:07:00.000Z,Facebook,Enquiry,Lost,b-northside,s-sara,v-0170,43,1,1,1,0,1,0,2025-07-19
+l-00426,2025-07-04,2025-07-04T14:25:00.000Z,Website,Enquiry,Lost,b-northside,s-james,v-0146,38,1,0,0,0,1,0,2025-07-07
+l-00114,2025-07-04,2025-07-04T14:51:00.000Z,Facebook,Enquiry,Won,b-downtown,s-omar,v-0179,17,1,1,1,1,0,0,2025-07-16
+l-00061,2025-07-04,2025-07-04T16:19:00.000Z,Phone,Enquiry,Won,b-northside,s-sara,v-0101,18,1,0,1,1,0,0,2025-07-20
+l-00049,2025-07-04,2025-07-04T17:22:00.000Z,Website,Enquiry,Won,b-downtown,s-omar,v-0085,196,1,1,1,1,0,0,2025-07-19
+l-00542,2025-07-05,2025-07-05T09:22:00.000Z,Facebook,Enquiry,Lost,b-northside,s-sara,v-0180,208,1,0,0,0,1,0,2025-07-18
+l-00732,2025-07-05,2025-07-05T12:55:00.000Z,Facebook,Enquiry,Lost,b-northside,,v-0165,,0,0,0,0,1,0,2025-07-13
+l-00864,2025-07-06,2025-07-06T16:50:00.000Z,Referral,Enquiry,Lost,b-downtown,,v-0153,,0,0,0,0,1,0,2025-07-10
+l-01393,2025-07-07,2025-07-07T12:51:00.000Z,Walk-in,Enquiry,Lost,b-northside,s-sara,v-0170,2,1,1,0,0,1,0,2025-07-18
+l-00430,2025-07-07,2025-07-07T14:40:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-omar,v-0186,18,1,0,0,0,1,0,2025-07-19
+l-01223,2025-07-07,2025-07-07T15:11:00.000Z,Phone,Test Drive,Lost,b-downtown,s-maya,v-0179,23,1,0,0,0,1,0,2025-07-19
+l-01334,2025-07-07,2025-07-07T16:44:00.000Z,Website,Test Drive,Lost,b-downtown,s-lucas,v-0152,11,1,0,0,0,1,0,2025-07-21
+l-00118,2025-07-08,2025-07-08T08:00:00.000Z,Referral,Enquiry,Won,b-northside,s-james,v-0184,22,1,1,1,1,0,0,2025-07-13
+l-00987,2025-07-08,2025-07-08T15:39:00.000Z,Facebook,Enquiry,Lost,b-northside,s-sara,,40,1,1,0,0,1,0,2025-07-25
+l-00110,2025-07-09,2025-07-09T10:23:00.000Z,Facebook,Enquiry,Won,b-downtown,s-lucas,v-0174,11,1,1,1,1,0,0,2025-07-12
+l-00639,2025-07-10,2025-07-10T17:23:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-maya,,78,1,0,0,0,1,0,2025-07-13
+l-00661,2025-07-12,2025-07-12T14:14:00.000Z,Website,Test Drive,Lost,b-downtown,s-lucas,v-0171,39,1,0,0,0,1,0,2025-07-25
+l-00120,2025-07-13,2025-07-13T09:10:00.000Z,Website,Finance,Won,b-downtown,s-maya,v-0186,233,1,1,1,1,0,0,2025-07-27
+l-00772,2025-07-14,2025-07-14T16:00:00.000Z,Facebook,Test Drive,Lost,b-northside,s-james,v-0096,207,1,0,0,0,1,0,2025-07-23
+l-01078,2025-07-15,2025-07-15T10:31:00.000Z,Website,Enquiry,Lost,b-northside,,v-0175,,0,0,0,0,1,0,2025-07-16
+l-00366,2025-07-15,2025-07-15T14:51:00.000Z,Website,Enquiry,Lost,b-northside,s-sara,v-0141,56,1,0,0,0,1,0,2025-07-16
+l-00365,2025-07-16,2025-07-16T10:13:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-lucas,v-0154,138,1,0,0,0,1,0,2025-07-19
+l-01131,2025-07-17,2025-07-17T10:26:00.000Z,Website,Test Drive,Lost,b-northside,s-james,,217,1,0,0,0,1,0,2025-07-23
+l-01102,2025-07-18,2025-07-18T11:12:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-maya,,26,1,0,0,0,1,0,2025-07-24
+l-00117,2025-07-19,2025-07-19T10:34:00.000Z,Website,Enquiry,Won,b-downtown,s-maya,v-0183,49,1,1,1,1,0,0,2025-08-09
+l-01171,2025-07-19,2025-07-19T12:52:00.000Z,Referral,Enquiry,Lost,b-downtown,s-maya,v-0189,87,1,1,0,0,1,0,2025-08-02
+l-01370,2025-07-20,2025-07-20T09:17:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-omar,v-0183,14,1,0,0,0,1,0,2025-08-02
+l-00108,2025-07-20,2025-07-20T14:42:00.000Z,Website,Finance,Won,b-northside,s-james,v-0168,42,1,1,1,1,0,0,2025-07-24
+l-00655,2025-07-21,2025-07-21T16:12:00.000Z,Walk-in,Test Drive,Lost,b-northside,s-james,v-0175,5,1,0,0,0,1,0,2025-07-31
+l-00515,2025-07-22,2025-07-22T09:07:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-james,v-0191,49,1,0,0,0,1,0,2025-08-02
+l-00867,2025-07-22,2025-07-22T12:27:00.000Z,Website,Test Drive,Lost,b-downtown,s-omar,v-0186,31,1,1,0,0,1,0,2025-08-03
+l-00099,2025-07-22,2025-07-22T18:40:00.000Z,Marketplace,Test Drive,Won,b-northside,s-james,v-0159,29,1,1,1,1,0,0,2025-08-08
+l-01213,2025-07-23,2025-07-23T15:25:00.000Z,Website,Finance,Lost,b-northside,,,,0,0,0,0,1,0,2025-08-01
+l-00565,2025-07-24,2025-07-24T15:07:00.000Z,Facebook,Test Drive,Lost,b-downtown,,,,0,0,0,0,1,0,2025-08-03
+l-01352,2025-07-24,2025-07-24T15:49:00.000Z,Website,Enquiry,Lost,b-northside,,v-0096,,0,0,0,0,1,0,2025-07-29
+l-01559,2025-07-24,2025-07-24T16:23:00.000Z,Walk-in,Test Drive,Lost,b-downtown,s-omar,,4,1,0,0,0,1,0,2025-08-03
+l-00103,2025-07-25,2025-07-25T09:04:00.000Z,Walk-in,Enquiry,Won,b-downtown,s-lucas,v-0163,0,1,1,1,1,0,0,2025-07-31
+l-00116,2025-07-25,2025-07-25T15:37:00.000Z,Walk-in,Test Drive,Won,b-downtown,s-omar,v-0181,1,1,1,1,1,0,0,2025-08-06
+l-01335,2025-07-26,2025-07-26T18:09:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-lucas,v-0186,35,1,1,1,0,1,0,2025-08-13
+l-00877,2025-07-27,2025-07-27T14:23:00.000Z,Phone,Finance,Lost,b-northside,s-james,v-0162,27,1,0,0,0,1,0,2025-07-31
+l-01001,2025-07-27,2025-07-27T18:27:00.000Z,Facebook,Enquiry,Lost,b-northside,s-sara,v-0177,47,1,1,0,0,1,0,2025-08-13
+l-01295,2025-07-27,2025-07-27T18:56:00.000Z,Phone,Enquiry,Lost,b-northside,,,,0,0,0,0,1,0,2025-08-01
+l-00101,2025-07-28,2025-07-28T10:41:00.000Z,Marketplace,Enquiry,Won,b-downtown,s-maya,v-0161,24,1,1,1,1,0,0,2025-08-16
+l-00316,2025-07-28,2025-07-28T11:29:00.000Z,Website,Enquiry,Lost,b-northside,s-james,v-0180,10,1,0,0,0,1,0,2025-07-31
+l-00122,2025-07-28,2025-07-28T12:53:00.000Z,Website,Test Drive,Won,b-downtown,s-omar,v-0189,1303,1,1,1,1,0,0,2025-08-06
+l-00115,2025-07-28,2025-07-28T13:55:00.000Z,Phone,Finance,Won,b-northside,s-james,v-0180,22,1,1,1,1,0,0,2025-07-31
+l-00126,2025-07-28,2025-07-28T15:32:00.000Z,Facebook,Enquiry,Won,b-northside,s-sara,v-0196,43,1,1,1,1,0,0,2025-08-12
+l-00501,2025-07-29,2025-07-29T11:25:00.000Z,Facebook,Finance,Lost,b-northside,s-sara,,27,1,1,1,0,1,0,2025-08-09
+l-00522,2025-07-30,2025-07-30T08:05:00.000Z,Website,Enquiry,Lost,b-northside,s-james,,191,1,1,0,0,1,0,2025-08-14
+l-00801,2025-07-30,2025-07-30T17:32:00.000Z,Facebook,Enquiry,Lost,b-northside,s-james,,209,1,0,0,0,1,0,2025-08-03
+l-00111,2025-07-31,2025-07-31T11:50:00.000Z,Referral,Enquiry,Won,b-northside,s-james,v-0175,120,1,1,1,1,0,0,2025-08-07
+l-00457,2025-07-31,2025-07-31T14:54:00.000Z,Facebook,Test Drive,Lost,b-northside,s-sara,v-0120,34,1,0,0,0,1,0,2025-08-13
+l-00371,2025-08-01,2025-08-01T18:50:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-omar,v-0183,91,1,1,0,0,1,0,2025-08-13
+l-00057,2025-08-02,2025-08-02T12:45:00.000Z,Facebook,Enquiry,Won,b-northside,s-sara,v-0096,10,1,1,1,1,0,0,2025-08-26
+l-00121,2025-08-02,2025-08-02T14:45:00.000Z,Facebook,Enquiry,Won,b-northside,s-sara,v-0188,36,1,1,1,1,0,0,2025-08-05
+l-00349,2025-08-02,2025-08-02T17:01:00.000Z,Walk-in,Finance,Lost,b-northside,s-james,v-0191,0,1,1,0,0,1,0,2025-08-13
+l-01379,2025-08-03,2025-08-03T13:50:00.000Z,Website,Test Drive,Lost,b-northside,s-james,v-0192,144,1,1,0,0,1,0,2025-08-09
+l-01438,2025-08-04,2025-08-04T08:51:00.000Z,Website,Enquiry,Lost,b-northside,s-sara,v-0190,20,1,0,0,0,1,0,2025-08-07
+l-00301,2025-08-04,2025-08-04T09:51:00.000Z,Referral,Test Drive,Lost,b-downtown,,v-0185,,0,0,0,0,1,0,2025-08-15
+l-01052,2025-08-04,2025-08-04T10:17:00.000Z,Website,Test Drive,Lost,b-northside,s-sara,v-0172,118,1,1,1,0,1,0,2025-08-09
+l-01347,2025-08-04,2025-08-04T14:29:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-sara,,40,1,1,0,0,1,0,2025-08-20
+l-00345,2025-08-04,2025-08-04T15:11:00.000Z,Website,Test Drive,Lost,b-downtown,s-lucas,v-0183,80,1,0,0,0,1,0,2025-08-18
+l-00854,2025-08-04,2025-08-04T16:26:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,v-0195,26,1,0,0,0,1,0,2025-08-06
+l-00746,2025-08-05,2025-08-05T15:49:00.000Z,Facebook,Test Drive,Lost,b-northside,s-sara,,27,1,0,0,0,1,0,2025-08-06
+l-01268,2025-08-06,2025-08-06T10:02:00.000Z,Referral,Enquiry,Lost,b-northside,s-sara,,126,1,0,0,0,1,0,2025-08-15
+l-00125,2025-08-06,2025-08-06T10:33:00.000Z,Phone,Finance,Won,b-northside,s-james,v-0192,14,1,0,1,1,0,0,2025-08-18
+l-00129,2025-08-07,2025-08-07T17:11:00.000Z,Referral,Test Drive,Won,b-northside,s-james,v-0200,52,1,1,1,1,0,0,2025-08-29
+l-00680,2025-08-07,2025-08-07T18:42:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,,67,1,1,0,0,1,0,2025-08-16
+l-01101,2025-08-08,2025-08-08T12:25:00.000Z,Walk-in,Finance,Lost,b-northside,s-james,v-0201,4,1,0,0,0,1,0,2025-08-19
+l-01463,2025-08-08,2025-08-08T15:08:00.000Z,Website,Test Drive,Lost,b-downtown,s-maya,v-0202,8,1,1,0,0,1,0,2025-08-20
+l-00074,2025-08-08,2025-08-08T15:37:00.000Z,Walk-in,Test Drive,Won,b-northside,s-sara,v-0120,2,1,0,1,1,0,0,2025-08-16
+l-00606,2025-08-09,2025-08-09T14:25:00.000Z,Marketplace,Test Drive,Lost,b-downtown,,,,0,0,0,0,1,0,2025-08-12
+l-00133,2025-08-09,2025-08-09T17:54:00.000Z,Website,Test Drive,Won,b-northside,s-james,v-0205,28,1,1,1,1,0,0,2025-08-21
+l-01036,2025-08-10,2025-08-10T09:08:00.000Z,Website,Test Drive,Lost,b-northside,s-sara,v-0120,49,1,1,0,0,1,0,2025-08-16
+l-01112,2025-08-10,2025-08-10T12:10:00.000Z,Marketplace,Test Drive,Lost,b-downtown,s-omar,,16,1,1,1,0,1,0,2025-08-26
+l-01502,2025-08-11,2025-08-11T09:38:00.000Z,Facebook,Enquiry,Lost,b-northside,s-sara,v-0172,38,1,0,0,0,1,0,2025-08-22
+l-00124,2025-08-12,2025-08-12T15:54:00.000Z,Facebook,Enquiry,Won,b-northside,s-sara,v-0191,298,1,1,1,1,0,0,2025-08-21
+l-01443,2025-08-14,2025-08-14T11:31:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,v-0195,210,1,0,0,0,1,0,2025-08-16
+l-00735,2025-08-14,2025-08-14T13:06:00.000Z,Walk-in,Finance,Lost,b-northside,,v-0205,,0,0,0,0,1,0,2025-08-18
+l-01562,2025-08-15,2025-08-15T12:16:00.000Z,Website,Finance,Lost,b-downtown,,v-0187,,0,0,0,0,1,0,2025-08-22
+l-00105,2025-08-15,2025-08-15T12:38:00.000Z,Facebook,Enquiry,Won,b-northside,s-sara,v-0165,46,1,1,1,1,0,0,2025-08-28
+l-00797,2025-08-15,2025-08-15T14:30:00.000Z,Website,Enquiry,Lost,b-northside,s-james,v-0120,50,1,1,0,0,1,0,2025-08-29
+l-00113,2025-08-16,2025-08-16T11:16:00.000Z,Facebook,Finance,Won,b-northside,s-sara,v-0177,21,1,1,1,1,0,0,2025-09-07
+l-00339,2025-08-16,2025-08-16T17:21:00.000Z,Walk-in,Enquiry,Lost,b-northside,s-sara,v-0172,3,1,1,0,0,1,0,2025-08-28
+l-00573,2025-08-17,2025-08-17T08:20:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,,1059,1,1,0,0,1,0,2025-09-01
+l-00800,2025-08-17,2025-08-17T17:03:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-maya,,26,1,0,0,0,1,0,2025-08-21
+l-00751,2025-08-17,2025-08-17T17:57:00.000Z,Website,Test Drive,Lost,b-downtown,s-omar,,1174,1,0,0,0,1,0,2025-09-01
+l-00699,2025-08-18,2025-08-18T16:19:00.000Z,Walk-in,Enquiry,Lost,b-northside,s-sara,v-0165,3,1,0,0,0,1,0,2025-08-23
+l-00809,2025-08-19,2025-08-19T14:14:00.000Z,Referral,Enquiry,Lost,b-northside,s-sara,v-0160,22,1,0,0,0,1,0,2025-08-24
+l-01141,2025-08-19,2025-08-19T14:42:00.000Z,Facebook,Enquiry,Lost,b-northside,s-james,v-0165,20,1,0,0,0,1,0,2025-08-30
+l-00837,2025-08-20,2025-08-20T16:29:00.000Z,Marketplace,Finance,Lost,b-northside,s-james,v-0162,216,1,0,0,0,1,0,2025-09-03
+l-01442,2025-08-21,2025-08-21T09:08:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-lucas,v-0195,34,1,0,0,0,1,0,2025-09-03
+l-00389,2025-08-21,2025-08-21T11:57:00.000Z,Phone,Enquiry,Lost,b-northside,s-sara,v-0177,5,1,0,0,0,1,0,2025-09-01
+l-01381,2025-08-21,2025-08-21T15:20:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-sara,,42,1,1,0,0,1,0,2025-08-28
+l-00140,2025-08-21,2025-08-21T16:07:00.000Z,Referral,Test Drive,Won,b-northside,s-james,v-0213,24,1,1,1,1,0,0,2025-08-28
+l-00694,2025-08-21,2025-08-21T18:25:00.000Z,Facebook,Enquiry,Lost,b-northside,s-james,v-0197,24,1,1,0,0,1,0,2025-08-28
+l-00546,2025-08-22,2025-08-22T09:16:00.000Z,Facebook,Finance,Lost,b-northside,s-james,,40,1,0,0,0,1,0,2025-08-25
+l-00622,2025-08-22,2025-08-22T10:09:00.000Z,Website,Finance,Lost,b-downtown,,v-0211,,0,0,0,0,1,0,2025-08-27
+l-00835,2025-08-22,2025-08-22T13:11:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-maya,v-0138,196,1,0,0,0,1,0,2025-08-27
+l-00102,2025-08-22,2025-08-22T18:27:00.000Z,Facebook,Finance,Won,b-northside,s-james,v-0162,35,1,0,1,1,0,0,2025-08-25
+l-00928,2025-08-23,2025-08-23T09:17:00.000Z,Phone,Enquiry,Lost,b-northside,s-james,v-0162,13,1,0,0,0,1,0,2025-09-05
+l-01390,2025-08-23,2025-08-23T10:06:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-maya,,192,1,0,0,0,1,0,2025-08-29
+l-00747,2025-08-23,2025-08-23T10:55:00.000Z,Website,Enquiry,Lost,b-northside,s-sara,v-0172,31,1,0,0,0,1,0,2025-09-03
+l-01267,2025-08-23,2025-08-23T14:44:00.000Z,Phone,Enquiry,Lost,b-downtown,s-lucas,v-0152,26,1,0,0,0,1,0,2025-08-26
+l-00290,2025-08-24,2025-08-24T11:36:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,,175,1,0,0,0,1,0,2025-09-05
+l-00138,2025-08-24,2025-08-24T11:43:00.000Z,Website,Enquiry,Won,b-downtown,s-maya,v-0211,121,1,1,1,1,0,0,2025-09-13
+l-01374,2025-08-24,2025-08-24T12:04:00.000Z,Walk-in,Enquiry,Lost,b-northside,s-sara,v-0201,5,1,1,1,0,1,0,2025-09-06
+l-01162,2025-08-24,2025-08-24T14:12:00.000Z,Website,Enquiry,Lost,b-northside,s-sara,,172,1,1,1,0,1,0,2025-08-31
+l-00136,2025-08-24,2025-08-24T15:48:00.000Z,Walk-in,Finance,Won,b-northside,s-sara,v-0208,2,1,1,1,1,0,0,2025-09-05
+l-00676,2025-08-25,2025-08-25T13:48:00.000Z,Walk-in,Enquiry,Lost,b-northside,s-sara,v-0096,3,1,0,0,0,1,0,2025-08-29
+l-01163,2025-08-25,2025-08-25T15:44:00.000Z,Website,Enquiry,Lost,b-northside,s-james,v-0197,288,1,0,0,0,1,0,2025-08-29
+l-01333,2025-08-25,2025-08-25T18:06:00.000Z,Website,Finance,Lost,b-downtown,s-maya,,332,1,0,0,0,1,0,2025-09-03
+l-01232,2025-08-27,2025-08-27T12:14:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-lucas,,2,1,1,1,0,1,0,2025-09-02
+l-01417,2025-08-27,2025-08-27T13:05:00.000Z,Facebook,Finance,Lost,b-northside,s-sara,v-0172,50,1,1,1,0,1,0,2025-09-11
+l-00827,2025-08-28,2025-08-28T13:04:00.000Z,Marketplace,Test Drive,Lost,b-downtown,s-maya,v-0215,14,1,1,0,0,1,0,2025-09-13
+l-01126,2025-08-29,2025-08-29T11:13:00.000Z,Marketplace,Finance,Lost,b-downtown,s-lucas,v-0211,53,1,0,0,0,1,0,2025-09-11
+l-00634,2025-08-29,2025-08-29T11:27:00.000Z,Website,Enquiry,Lost,b-northside,s-sara,v-0197,43,1,1,1,0,1,0,2025-09-11
+l-01536,2025-08-29,2025-08-29T18:49:00.000Z,Website,Test Drive,Lost,b-downtown,s-maya,v-0138,1126,1,0,0,0,1,0,2025-09-05
+l-00123,2025-08-31,2025-08-31T09:14:00.000Z,Website,Enquiry,Won,b-northside,s-james,v-0190,80,1,1,1,1,0,0,2025-09-23
+l-01434,2025-08-31,2025-08-31T12:55:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,,44,1,1,1,0,1,0,2025-09-10
+l-00562,2025-09-01,2025-09-01T14:06:00.000Z,Facebook,Enquiry,Lost,b-downtown,,,,0,0,0,0,1,0,2025-09-03
+l-00702,2025-09-01,2025-09-01T16:59:00.000Z,Facebook,Test Drive,Lost,b-downtown,s-omar,v-0195,35,1,0,0,0,1,0,2025-09-14
+l-00388,2025-09-02,2025-09-02T08:59:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,v-0199,36,1,0,0,0,1,0,2025-09-08
+l-00766,2025-09-02,2025-09-02T11:40:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,v-0215,21,1,0,0,0,1,0,2025-09-04
+l-01508,2025-09-02,2025-09-02T12:02:00.000Z,Facebook,Enquiry,Lost,b-northside,s-james,,114,1,0,0,0,1,0,2025-09-10
+l-01433,2025-09-03,2025-09-03T09:22:00.000Z,Facebook,Test Drive,Lost,b-downtown,s-maya,v-0199,60,1,0,0,0,1,0,2025-09-05
+l-00941,2025-09-03,2025-09-03T09:53:00.000Z,Website,Enquiry,Lost,b-northside,s-james,,1247,1,1,0,0,1,0,2025-09-09
+l-01249,2025-09-03,2025-09-03T13:41:00.000Z,Marketplace,Finance,Lost,b-northside,s-james,v-0204,85,1,0,0,0,1,0,2025-09-04
+l-00653,2025-09-03,2025-09-03T17:53:00.000Z,Phone,Finance,Lost,b-downtown,s-maya,v-0206,18,1,1,0,0,1,0,2025-09-07
+l-00139,2025-09-04,2025-09-04T09:12:00.000Z,Facebook,Enquiry,Won,b-downtown,s-maya,v-0212,203,1,1,1,1,0,0,2025-09-12
+l-01095,2025-09-04,2025-09-04T14:38:00.000Z,Facebook,Test Drive,Lost,b-downtown,s-lucas,v-0206,21,1,1,1,0,1,0,2025-09-16
+l-01350,2025-09-06,2025-09-06T08:06:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-lucas,,231,1,1,1,0,1,0,2025-09-14
+l-01519,2025-09-06,2025-09-06T08:22:00.000Z,Phone,Test Drive,Lost,b-downtown,s-omar,v-0222,25,1,1,1,0,1,0,2025-09-20
+l-01188,2025-09-06,2025-09-06T08:48:00.000Z,Phone,Enquiry,Lost,b-northside,s-james,,28,1,1,1,0,1,0,2025-09-14
+l-00128,2025-09-06,2025-09-06T13:34:00.000Z,Website,Finance,Won,b-downtown,s-lucas,v-0199,144,1,0,1,1,0,0,2025-09-18
+l-00737,2025-09-06,2025-09-06T15:56:00.000Z,Facebook,Enquiry,Lost,b-downtown,,v-0195,,0,0,0,0,1,0,2025-09-16
+l-00601,2025-09-07,2025-09-07T17:36:00.000Z,Phone,Enquiry,Lost,b-downtown,,v-0154,,0,0,0,0,1,0,2025-09-17
+l-00119,2025-09-08,2025-09-08T13:52:00.000Z,Phone,Test Drive,Won,b-downtown,s-lucas,v-0185,14,1,1,1,1,0,0,2025-09-30
+l-00487,2025-09-08,2025-09-08T16:03:00.000Z,Website,Finance,Lost,b-downtown,,,,0,0,0,0,1,0,2025-09-18
+l-00588,2025-09-09,2025-09-09T09:02:00.000Z,Phone,Enquiry,Lost,b-downtown,s-lucas,v-0210,7,1,0,0,0,1,0,2025-09-13
+l-01483,2025-09-11,2025-09-11T12:15:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-sara,,20,1,1,1,0,1,0,2025-09-24
+l-00295,2025-09-11,2025-09-11T16:59:00.000Z,Phone,Test Drive,Lost,b-downtown,s-omar,v-0206,30,1,1,1,0,1,0,2025-09-24
+l-00284,2025-09-12,2025-09-12T10:22:00.000Z,Phone,Test Drive,Lost,b-downtown,s-omar,,28,1,0,0,0,1,0,2025-09-13
+l-00578,2025-09-12,2025-09-12T10:30:00.000Z,Phone,Enquiry,Lost,b-downtown,s-lucas,,28,1,0,0,0,1,0,2025-09-19
+l-00579,2025-09-12,2025-09-12T10:58:00.000Z,Facebook,Enquiry,Lost,b-northside,s-james,v-0224,33,1,1,0,0,1,0,2025-09-24
+l-00507,2025-09-13,2025-09-13T10:47:00.000Z,Marketplace,Test Drive,Lost,b-downtown,,,,0,0,0,0,1,0,2025-09-19
+l-00789,2025-09-13,2025-09-13T15:28:00.000Z,Website,Enquiry,Lost,b-downtown,,v-0215,,0,0,0,0,1,0,2025-09-14
+l-01340,2025-09-14,2025-09-14T08:41:00.000Z,Marketplace,Finance,Lost,b-downtown,,,,0,0,0,0,1,0,2025-09-28
+l-00303,2025-09-14,2025-09-14T16:34:00.000Z,Website,Enquiry,Lost,b-northside,s-james,v-0172,31,1,1,0,0,1,0,2025-09-23
+l-00411,2025-09-14,2025-09-14T17:53:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,v-0215,22,1,0,0,0,1,0,2025-09-22
+l-01093,2025-09-16,2025-09-16T11:16:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-lucas,v-0185,41,1,0,0,0,1,0,2025-09-18
+l-00308,2025-09-16,2025-09-16T12:04:00.000Z,Website,Enquiry,Lost,b-northside,s-sara,v-0216,26,1,1,0,0,1,0,2025-09-24
+l-00419,2025-09-16,2025-09-16T12:16:00.000Z,Facebook,Test Drive,Lost,b-downtown,s-maya,v-0215,7,1,0,0,0,1,0,2025-09-21
+l-00794,2025-09-16,2025-09-16T13:11:00.000Z,Website,Test Drive,Lost,b-northside,,,,0,0,0,0,1,0,2025-09-19
+l-00490,2025-09-16,2025-09-16T15:02:00.000Z,Website,Enquiry,Lost,b-downtown,,,,0,0,0,0,1,0,2025-09-30
+l-00681,2025-09-16,2025-09-16T17:59:00.000Z,Phone,Enquiry,Lost,b-downtown,,,,0,0,0,0,1,0,2025-09-27
+l-01247,2025-09-17,2025-09-17T15:14:00.000Z,Phone,Finance,Lost,b-northside,s-james,v-0223,26,1,0,0,0,1,0,2025-09-26
+l-01005,2025-09-18,2025-09-18T12:19:00.000Z,Phone,Test Drive,Lost,b-northside,s-sara,v-0201,15,1,0,0,0,1,0,2025-09-19
+l-00675,2025-09-18,2025-09-18T12:22:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,v-0138,24,1,0,0,0,1,0,2025-09-19
+l-00143,2025-09-18,2025-09-18T16:37:00.000Z,Walk-in,Enquiry,Won,b-northside,s-james,v-0218,3,1,1,1,1,0,0,2025-10-02
+l-01133,2025-09-20,2025-09-20T14:00:00.000Z,Website,Test Drive,Lost,b-downtown,s-lucas,v-0206,155,1,0,0,0,1,0,2025-09-23
+l-00929,2025-09-21,2025-09-21T14:32:00.000Z,Website,Test Drive,Lost,b-northside,,,,0,0,0,0,1,0,2025-09-27
+l-00329,2025-09-21,2025-09-21T16:03:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,,136,1,0,0,0,1,0,2025-09-30
+l-00448,2025-09-21,2025-09-21T16:48:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-omar,v-0207,22,1,0,0,0,1,0,2025-10-01
+l-00141,2025-09-22,2025-09-22T17:06:00.000Z,Phone,Test Drive,Won,b-downtown,s-lucas,v-0214,26,1,1,1,1,0,0,2025-09-30
+l-01144,2025-09-23,2025-09-23T10:49:00.000Z,Facebook,Finance,Lost,b-downtown,s-lucas,v-0215,13,1,0,0,0,1,0,2025-09-26
+l-00145,2025-09-23,2025-09-23T12:25:00.000Z,Website,Test Drive,Won,b-downtown,s-omar,v-0221,225,1,1,1,1,0,0,2025-10-06
+l-00135,2025-09-23,2025-09-23T13:16:00.000Z,Facebook,Enquiry,Won,b-downtown,s-maya,v-0207,142,1,1,1,1,0,0,2025-10-06
+l-01572,2025-09-23,2025-09-23T13:50:00.000Z,Facebook,Finance,Lost,b-northside,s-james,v-0224,55,1,1,0,0,1,0,2025-10-11
+l-01354,2025-09-23,2025-09-23T16:17:00.000Z,Website,Enquiry,Lost,b-northside,,v-0204,,0,0,0,0,1,0,2025-10-01
+l-01097,2025-09-23,2025-09-23T18:36:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-omar,v-0226,415,1,1,0,0,1,0,2025-10-06
+l-01476,2025-09-23,2025-09-23T18:47:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-maya,,2,1,0,0,0,1,0,2025-10-05
+l-00149,2025-09-24,2025-09-24T09:21:00.000Z,Phone,Finance,Won,b-northside,s-sara,v-0229,28,1,1,1,1,0,0,2025-09-29
+l-01240,2025-09-24,2025-09-24T15:23:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-lucas,v-0187,102,1,0,0,0,1,0,2025-10-02
+l-01010,2025-09-24,2025-09-24T17:20:00.000Z,Phone,Enquiry,Lost,b-northside,s-sara,,8,1,1,0,0,1,0,2025-09-29
+l-01079,2025-09-24,2025-09-24T18:45:00.000Z,Website,Enquiry,Lost,b-northside,,v-0220,,0,0,0,0,1,0,2025-09-25
+l-01283,2025-09-25,2025-09-25T08:34:00.000Z,Website,Enquiry,Lost,b-northside,s-james,v-0220,883,1,1,0,0,1,0,2025-10-07
+l-00144,2025-09-25,2025-09-25T08:39:00.000Z,Website,Enquiry,Won,b-northside,s-sara,v-0219,218,1,1,1,1,0,0,2025-10-12
+l-00131,2025-09-26,2025-09-26T09:28:00.000Z,Walk-in,Enquiry,Won,b-downtown,s-omar,v-0202,0,1,1,1,1,0,0,2025-10-01
+l-00777,2025-09-27,2025-09-27T08:38:00.000Z,Website,Enquiry,Lost,b-northside,s-sara,,9,1,1,0,0,1,0,2025-10-02
+l-01254,2025-09-28,2025-09-28T12:03:00.000Z,Facebook,Test Drive,Lost,b-northside,s-james,v-0216,48,1,1,0,0,1,0,2025-10-11
+l-00967,2025-09-28,2025-09-28T14:23:00.000Z,Facebook,Finance,Lost,b-northside,s-james,v-0218,149,1,1,0,0,1,0,2025-10-11
+l-01044,2025-09-28,2025-09-28T14:28:00.000Z,Website,Finance,Lost,b-downtown,s-lucas,v-0221,86,1,1,0,0,1,0,2025-10-12
+l-01132,2025-09-28,2025-09-28T19:00:00.000Z,Website,Enquiry,Lost,b-northside,s-sara,v-0197,9,1,0,0,0,1,0,2025-10-08
+l-00364,2025-09-29,2025-09-29T13:16:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-omar,v-0206,1,1,0,0,0,1,0,2025-10-03
+l-00150,2025-09-29,2025-09-29T18:22:00.000Z,Website,Enquiry,Won,b-northside,s-james,v-0230,191,1,1,1,1,0,0,2025-10-07
+l-00130,2025-09-30,2025-09-30T14:43:00.000Z,Marketplace,Enquiry,Won,b-northside,s-sara,v-0201,107,1,0,1,1,0,0,2025-10-15
+l-00372,2025-09-30,2025-09-30T16:33:00.000Z,Facebook,Finance,Lost,b-northside,s-sara,v-0216,6,1,0,0,0,1,0,2025-10-09
+l-01345,2025-09-30,2025-09-30T17:34:00.000Z,Referral,Enquiry,Lost,b-northside,,v-0201,,0,0,0,0,1,0,2025-10-09
+l-01498,2025-10-01,2025-10-01T12:54:00.000Z,Phone,Enquiry,Lost,b-downtown,,v-0207,,0,0,0,0,1,0,2025-10-12
+l-01218,2025-10-02,2025-10-02T11:24:00.000Z,Website,Enquiry,Lost,b-northside,s-james,,67,1,0,0,0,1,0,2025-10-05
+l-01148,2025-10-02,2025-10-02T13:40:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-maya,,4,1,0,0,0,1,0,2025-10-10
+l-01309,2025-10-04,2025-10-04T13:39:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,,220,1,0,0,0,1,0,2025-10-06
+l-00695,2025-10-06,2025-10-06T10:08:00.000Z,Website,Test Drive,Lost,b-northside,,v-0172,,0,0,0,0,1,0,2025-10-19
+l-00356,2025-10-06,2025-10-06T12:21:00.000Z,Phone,Finance,Lost,b-downtown,s-maya,v-0226,19,1,0,0,0,1,0,2025-10-14
+l-00884,2025-10-06,2025-10-06T13:37:00.000Z,Phone,Enquiry,Lost,b-northside,s-james,v-0201,23,1,0,0,0,1,0,2025-10-19
+l-00344,2025-10-07,2025-10-07T11:26:00.000Z,Facebook,Test Drive,Lost,b-northside,s-sara,,58,1,0,0,0,1,0,2025-10-20
+l-00100,2025-10-07,2025-10-07T11:28:00.000Z,Marketplace,Test Drive,Won,b-northside,s-james,v-0160,204,1,0,1,1,0,0,2025-11-01
+l-01412,2025-10-08,2025-10-08T08:08:00.000Z,Marketplace,Enquiry,Lost,b-northside,,v-0204,,0,0,0,0,1,0,2025-10-21
+l-01499,2025-10-08,2025-10-08T08:32:00.000Z,Website,Finance,Lost,b-northside,s-sara,,87,1,1,1,0,1,0,2025-10-23
+l-00132,2025-10-08,2025-10-08T15:49:00.000Z,Facebook,Finance,Won,b-northside,s-james,v-0204,133,1,1,1,1,0,0,2025-10-13
+l-01400,2025-10-08,2025-10-08T16:03:00.000Z,Website,Test Drive,Lost,b-downtown,s-maya,,40,1,0,0,0,1,0,2025-10-10
+l-00810,2025-10-08,2025-10-08T16:13:00.000Z,Website,Enquiry,Lost,b-northside,s-james,v-0197,55,1,1,1,0,1,0,2025-10-17
+l-01046,2025-10-09,2025-10-09T09:34:00.000Z,Phone,Test Drive,Lost,b-downtown,,v-0236,,0,0,0,0,1,0,2025-10-20
+l-00563,2025-10-09,2025-10-09T17:18:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,,27,1,1,0,0,1,0,2025-10-15
+l-00980,2025-10-10,2025-10-10T12:01:00.000Z,Website,Test Drive,Lost,b-northside,,v-0235,,0,0,0,0,1,0,2025-10-14
+l-01178,2025-10-10,2025-10-10T16:49:00.000Z,Walk-in,Enquiry,Lost,b-northside,s-james,v-0201,4,1,0,0,0,1,0,2025-10-23
+l-01338,2025-10-10,2025-10-10T18:19:00.000Z,Referral,Enquiry,Lost,b-downtown,s-maya,v-0210,98,1,0,0,0,1,0,2025-10-19
+l-00519,2025-10-11,2025-10-11T11:44:00.000Z,Phone,Enquiry,Lost,b-northside,,v-0231,,0,0,0,0,1,0,2025-10-20
+l-00724,2025-10-11,2025-10-11T15:53:00.000Z,Walk-in,Enquiry,Lost,b-northside,s-james,,2,1,0,0,0,1,0,2025-10-24
+l-01574,2025-10-12,2025-10-12T09:00:00.000Z,Facebook,Enquiry,Lost,b-northside,s-sara,v-0238,49,1,0,0,0,1,0,2025-10-25
+l-01319,2025-10-12,2025-10-12T12:23:00.000Z,Walk-in,Enquiry,Lost,b-northside,,v-0160,,0,0,0,0,1,0,2025-10-17
+l-00156,2025-10-13,2025-10-13T13:53:00.000Z,Phone,Test Drive,Won,b-northside,s-james,v-0241,19,1,1,1,1,0,0,2025-10-27
+l-01501,2025-10-14,2025-10-14T15:14:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,,122,1,0,0,0,1,0,2025-10-26
+l-01532,2025-10-14,2025-10-14T17:43:00.000Z,Phone,Test Drive,Lost,b-northside,s-sara,v-0220,25,1,1,1,0,1,0,2025-10-22
+l-01549,2025-10-15,2025-10-15T16:37:00.000Z,Walk-in,Finance,Lost,b-northside,s-james,v-0224,4,1,0,0,0,1,0,2025-10-26
+l-00458,2025-10-16,2025-10-16T17:15:00.000Z,Website,Enquiry,Lost,b-northside,s-james,v-0160,1409,1,1,1,0,1,0,2025-10-29
+l-00503,2025-10-17,2025-10-17T12:31:00.000Z,Phone,Enquiry,Lost,b-northside,s-james,v-0223,1,1,0,0,0,1,0,2025-10-26
+l-01392,2025-10-18,2025-10-18T17:26:00.000Z,Walk-in,Finance,Lost,b-downtown,,,,0,0,0,0,1,0,2025-11-01
+l-00508,2025-10-19,2025-10-19T16:14:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,v-0237,13,1,1,0,0,1,0,2025-11-01
+l-00982,2025-10-20,2025-10-20T08:26:00.000Z,Phone,Enquiry,Lost,b-northside,s-james,v-0248,19,1,1,0,0,1,0,2025-11-01
+l-00309,2025-10-20,2025-10-20T14:29:00.000Z,Marketplace,Finance,Lost,b-downtown,s-omar,v-0236,33,1,1,0,0,1,0,2025-10-31
+l-00342,2025-10-20,2025-10-20T14:55:00.000Z,Website,Enquiry,Lost,b-northside,,,,0,0,0,0,1,0,2025-11-01
+l-00151,2025-10-20,2025-10-20T16:30:00.000Z,Walk-in,Test Drive,Won,b-northside,s-james,v-0232,1,1,1,1,1,0,0,2025-11-08
+l-00577,2025-10-20,2025-10-20T17:15:00.000Z,Referral,Enquiry,Lost,b-downtown,s-maya,v-0240,177,1,0,0,0,1,0,2025-10-26
+l-01135,2025-10-21,2025-10-21T08:00:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,v-0225,88,1,0,0,0,1,0,2025-10-25
+l-00319,2025-10-21,2025-10-21T14:17:00.000Z,Phone,Enquiry,Lost,b-downtown,s-lucas,v-0242,29,1,1,0,0,1,0,2025-11-01
+l-01314,2025-10-21,2025-10-21T17:16:00.000Z,Facebook,Enquiry,Lost,b-northside,s-james,v-0238,711,1,1,1,0,1,0,2025-11-07
+l-01348,2025-10-22,2025-10-22T11:59:00.000Z,Website,Test Drive,Lost,b-downtown,s-maya,v-0154,863,1,0,0,0,1,0,2025-10-31
+l-00858,2025-10-22,2025-10-22T12:38:00.000Z,Facebook,Enquiry,Lost,b-northside,s-sara,v-0232,117,1,1,1,0,1,0,2025-11-02
+l-00477,2025-10-24,2025-10-24T16:23:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,,13,1,1,0,0,1,0,2025-11-05
+l-01207,2025-10-25,2025-10-25T09:57:00.000Z,Referral,Enquiry,Lost,b-downtown,,v-0225,,0,0,0,0,1,0,2025-11-08
+l-01490,2025-10-25,2025-10-25T14:34:00.000Z,Website,Finance,Lost,b-downtown,s-lucas,,39,1,0,0,0,1,0,2025-10-26
+l-01538,2025-10-25,2025-10-25T18:22:00.000Z,Referral,Enquiry,Lost,b-northside,s-james,v-0232,100,1,0,0,0,1,0,2025-11-03
+l-01130,2025-10-25,2025-10-25T18:50:00.000Z,Phone,Enquiry,Lost,b-northside,s-james,,6,1,1,1,0,1,0,2025-11-11
+l-01002,2025-10-26,2025-10-26T10:39:00.000Z,Referral,Test Drive,Lost,b-downtown,s-maya,v-0225,33,1,0,0,0,1,0,2025-11-04
+l-00638,2025-10-26,2025-10-26T12:45:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-lucas,v-0226,3,1,0,0,0,1,0,2025-11-03
+l-01373,2025-10-26,2025-10-26T16:55:00.000Z,Marketplace,Finance,Lost,b-downtown,s-omar,v-0228,824,1,1,0,0,1,0,2025-11-01
+l-00147,2025-10-28,2025-10-28T14:45:00.000Z,Walk-in,Test Drive,Won,b-downtown,s-maya,v-0227,2,1,1,1,1,0,0,2025-11-22
+l-01069,2025-10-28,2025-10-28T15:13:00.000Z,Walk-in,Test Drive,Lost,b-northside,s-sara,v-0232,3,1,1,0,0,1,0,2025-11-08
+l-00163,2025-10-28,2025-10-28T15:23:00.000Z,Website,Finance,Won,b-downtown,s-omar,v-0250,871,1,1,1,1,0,0,2025-11-20
+l-00331,2025-10-28,2025-10-28T16:56:00.000Z,Marketplace,Enquiry,Lost,b-downtown,,v-0243,,0,0,0,0,1,0,2025-11-01
+l-01085,2025-10-28,2025-10-28T17:59:00.000Z,Facebook,Enquiry,Lost,b-northside,,,,0,0,0,0,1,0,2025-11-05
+l-00158,2025-10-30,2025-10-30T09:43:00.000Z,Website,Test Drive,Won,b-downtown,s-omar,v-0244,162,1,1,1,1,0,0,2025-11-08
+l-01059,2025-10-30,2025-10-30T15:35:00.000Z,Facebook,Finance,Lost,b-northside,s-james,,74,1,0,0,0,1,0,2025-11-01
+l-00152,2025-10-30,2025-10-30T16:54:00.000Z,Website,Enquiry,Won,b-northside,s-james,v-0233,53,1,1,1,1,0,0,2025-11-05
+l-01221,2025-10-31,2025-10-31T14:03:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-lucas,,34,1,0,0,0,1,0,2025-11-10
+l-00312,2025-10-31,2025-10-31T15:01:00.000Z,Walk-in,Enquiry,Lost,b-northside,s-sara,,3,1,0,0,0,1,0,2025-11-07
+l-00165,2025-10-31,2025-10-31T17:25:00.000Z,Walk-in,Test Drive,Won,b-northside,s-sara,v-0254,4,1,1,1,1,0,0,2025-11-07
+l-01206,2025-11-01,2025-11-01T08:47:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,,38,1,1,0,0,1,0,2025-11-16
+l-01227,2025-11-01,2025-11-01T09:57:00.000Z,Website,Test Drive,Lost,b-downtown,,v-0242,,0,0,0,0,1,0,2025-11-11
+l-00142,2025-11-01,2025-11-01T15:07:00.000Z,Referral,Enquiry,Won,b-northside,s-sara,v-0216,111,1,1,1,1,0,0,2025-11-21
+l-01266,2025-11-02,2025-11-02T11:21:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,v-0251,77,1,0,0,0,1,0,2025-11-12
+l-00351,2025-11-02,2025-11-02T14:57:00.000Z,Facebook,Enquiry,Lost,b-downtown,,,,0,0,0,0,1,0,2025-11-04
+l-00778,2025-11-02,2025-11-02T15:35:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-lucas,v-0226,1,1,0,0,0,1,0,2025-11-13
+l-00159,2025-11-04,2025-11-04T18:55:00.000Z,Facebook,Test Drive,Won,b-downtown,s-lucas,v-0245,164,1,1,1,1,0,0,2025-11-08
+l-00164,2025-11-05,2025-11-05T08:01:00.000Z,Website,Test Drive,Won,b-northside,s-james,v-0252,51,1,1,1,1,0,0,2025-11-16
+l-00153,2025-11-05,2025-11-05T10:37:00.000Z,Walk-in,Enquiry,Won,b-northside,s-sara,v-0234,5,1,1,1,1,0,0,2025-11-23
+l-01287,2025-11-05,2025-11-05T17:28:00.000Z,Referral,Enquiry,Lost,b-northside,,v-0223,,0,0,0,0,1,0,2025-11-19
+l-00514,2025-11-06,2025-11-06T08:54:00.000Z,Facebook,Test Drive,Lost,b-northside,s-sara,v-0172,113,1,1,0,0,1,0,2025-11-11
+l-00861,2025-11-06,2025-11-06T09:09:00.000Z,Walk-in,Finance,Lost,b-downtown,s-maya,,3,1,1,1,0,1,0,2025-11-20
+l-00909,2025-11-06,2025-11-06T10:56:00.000Z,Facebook,Test Drive,Lost,b-downtown,s-omar,v-0228,163,1,1,0,0,1,0,2025-11-18
+l-00157,2025-11-06,2025-11-06T13:16:00.000Z,Referral,Enquiry,Won,b-downtown,s-omar,v-0242,141,1,1,1,1,0,0,2025-11-16
+l-00170,2025-11-07,2025-11-07T09:29:00.000Z,Referral,Enquiry,Won,b-downtown,s-maya,v-0259,62,1,1,1,1,0,0,2025-11-17
+l-00799,2025-11-08,2025-11-08T09:01:00.000Z,Facebook,Finance,Lost,b-northside,s-james,v-0248,56,1,1,0,0,1,0,2025-11-25
+l-01115,2025-11-09,2025-11-09T08:59:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-lucas,,45,1,1,1,0,1,0,2025-11-26
+l-00310,2025-11-09,2025-11-09T11:47:00.000Z,Walk-in,Enquiry,Lost,b-northside,s-james,v-0248,3,1,0,0,0,1,0,2025-11-14
+l-01066,2025-11-09,2025-11-09T13:42:00.000Z,Website,Test Drive,Lost,b-downtown,s-lucas,v-0260,200,1,1,0,0,1,0,2025-11-15
+l-00826,2025-11-09,2025-11-09T14:29:00.000Z,Phone,Enquiry,Lost,b-northside,s-sara,v-0224,13,1,0,0,0,1,0,2025-11-23
+l-00171,2025-11-10,2025-11-10T17:59:00.000Z,Marketplace,Enquiry,Won,b-downtown,s-omar,v-0262,46,1,0,1,1,0,0,2025-11-20
+l-00831,2025-11-10,2025-11-10T18:06:00.000Z,Phone,Enquiry,Lost,b-northside,s-james,v-0223,14,1,0,0,0,1,0,2025-11-22
+l-00390,2025-11-11,2025-11-11T15:27:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,,163,1,1,1,0,1,0,2025-11-23
+l-00847,2025-11-11,2025-11-11T16:46:00.000Z,Phone,Test Drive,Lost,b-northside,s-sara,v-0252,29,1,0,0,0,1,0,2025-11-12
+l-00614,2025-11-12,2025-11-12T16:06:00.000Z,Facebook,Enquiry,Lost,b-northside,s-james,,55,1,0,0,0,1,0,2025-11-24
+l-00544,2025-11-13,2025-11-13T15:13:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-maya,v-0257,3,1,1,0,0,1,0,2025-11-29
+l-01105,2025-11-13,2025-11-13T18:57:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,v-0262,240,1,1,0,0,1,0,2025-11-28
+l-01423,2025-11-14,2025-11-14T10:45:00.000Z,Phone,Enquiry,Lost,b-downtown,s-lucas,v-0227,6,1,0,0,0,1,0,2025-11-19
+l-00539,2025-11-14,2025-11-14T13:48:00.000Z,Walk-in,Enquiry,Lost,b-downtown,,v-0228,,0,0,0,0,1,0,2025-11-15
+l-01282,2025-11-14,2025-11-14T14:11:00.000Z,Phone,Test Drive,Lost,b-downtown,,,,0,0,0,0,1,0,2025-11-24
+l-00832,2025-11-14,2025-11-14T18:11:00.000Z,Facebook,Finance,Lost,b-downtown,s-lucas,v-0242,32,1,0,0,0,1,0,2025-11-25
+l-01084,2025-11-16,2025-11-16T08:20:00.000Z,Website,Finance,Lost,b-northside,s-sara,v-0248,18,1,0,0,0,1,0,2025-11-26
+l-01262,2025-11-16,2025-11-16T08:35:00.000Z,Website,Enquiry,Lost,b-northside,s-sara,v-0238,55,1,0,0,0,1,0,2025-11-26
+l-00555,2025-11-16,2025-11-16T11:47:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-omar,v-0236,988,1,0,0,0,1,0,2025-11-24
+l-01362,2025-11-16,2025-11-16T12:36:00.000Z,Phone,Enquiry,Lost,b-downtown,s-omar,v-0262,22,1,0,0,0,1,0,2025-11-21
+l-00528,2025-11-16,2025-11-16T14:27:00.000Z,Facebook,Enquiry,Lost,b-northside,s-sara,v-0256,54,1,1,0,0,1,0,2025-11-19
+l-01444,2025-11-17,2025-11-17T16:59:00.000Z,Facebook,Enquiry,Lost,b-northside,,v-0209,,0,0,0,0,1,0,2025-11-30
+l-01024,2025-11-18,2025-11-18T09:30:00.000Z,Referral,Finance,Lost,b-northside,s-sara,v-0261,42,1,1,0,0,1,0,2025-11-26
+l-00937,2025-11-18,2025-11-18T10:57:00.000Z,Walk-in,Test Drive,Lost,b-downtown,s-omar,,5,1,1,1,0,1,0,2025-11-30
+l-00706,2025-11-18,2025-11-18T16:38:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,v-0257,54,1,1,0,0,1,0,2025-11-24
+l-00504,2025-11-19,2025-11-19T09:32:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-omar,v-0268,3,1,0,0,0,1,0,2025-12-02
+l-01324,2025-11-19,2025-11-19T10:28:00.000Z,Marketplace,Finance,Lost,b-downtown,,v-0264,,0,0,0,0,1,0,2025-11-25
+l-00315,2025-11-19,2025-11-19T18:03:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-maya,,35,1,1,0,0,1,0,2025-11-27
+l-00330,2025-11-20,2025-11-20T09:10:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-james,v-0197,149,1,0,0,0,1,0,2025-11-26
+l-01406,2025-11-20,2025-11-20T09:52:00.000Z,Facebook,Test Drive,Lost,b-downtown,s-maya,v-0260,9,1,1,0,0,1,0,2025-12-05
+l-01145,2025-11-20,2025-11-20T11:54:00.000Z,Marketplace,Enquiry,Lost,b-downtown,,,,0,0,0,0,1,0,2025-11-24
+l-01271,2025-11-20,2025-11-20T16:16:00.000Z,Marketplace,Finance,Lost,b-downtown,s-maya,v-0206,61,1,1,0,0,1,0,2025-11-29
+l-00167,2025-11-21,2025-11-21T13:44:00.000Z,Website,Test Drive,Won,b-northside,s-sara,v-0256,54,1,1,1,1,0,0,2025-11-30
+l-01569,2025-11-21,2025-11-21T15:35:00.000Z,Facebook,Test Drive,Lost,b-downtown,s-lucas,v-0264,12,1,1,1,0,1,0,2025-12-04
+l-00934,2025-11-22,2025-11-22T11:53:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-sara,,200,1,0,0,0,1,0,2025-12-02
+l-01196,2025-11-23,2025-11-23T11:29:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,v-0263,39,1,0,0,0,1,0,2025-11-30
+l-00885,2025-11-24,2025-11-24T08:49:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-lucas,,0,1,1,1,0,1,0,2025-12-13
+l-00739,2025-11-24,2025-11-24T09:38:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-omar,,161,1,1,0,0,1,0,2025-12-01
+l-01009,2025-11-24,2025-11-24T16:28:00.000Z,Website,Finance,Lost,b-northside,s-james,v-0261,497,1,1,0,0,1,0,2025-11-28
+l-00146,2025-11-25,2025-11-25T09:26:00.000Z,Website,Test Drive,Won,b-northside,s-james,v-0224,135,1,0,1,1,0,0,2025-12-07
+l-00096,2025-11-25,2025-11-25T16:24:00.000Z,Facebook,Enquiry,Won,b-downtown,s-lucas,v-0152,46,1,1,1,1,0,0,2025-12-14
+l-00975,2025-11-26,2025-11-26T10:58:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,,678,1,0,0,0,1,0,2025-12-02
+l-00582,2025-11-26,2025-11-26T16:07:00.000Z,Website,Finance,Lost,b-downtown,s-maya,v-0257,40,1,1,1,0,1,0,2025-12-12
+l-00781,2025-11-26,2025-11-26T18:20:00.000Z,Walk-in,Test Drive,Lost,b-downtown,s-lucas,v-0206,4,1,1,0,0,1,0,2025-11-29
+l-00627,2025-11-27,2025-11-27T15:46:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-lucas,,114,1,0,0,0,1,0,2025-12-05
+l-01027,2025-11-28,2025-11-28T15:22:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-maya,,0,1,0,0,0,1,0,2025-12-05
+l-00499,2025-11-30,2025-11-30T08:05:00.000Z,Website,Enquiry,Lost,b-northside,s-james,v-0266,66,1,0,0,0,1,0,2025-12-01
+l-00752,2025-11-30,2025-11-30T13:05:00.000Z,Walk-in,Test Drive,Lost,b-downtown,s-lucas,,3,1,1,0,0,1,0,2025-12-11
+l-01428,2025-11-30,2025-11-30T15:01:00.000Z,Website,Test Drive,Lost,b-northside,s-sara,v-0253,30,1,1,1,0,1,0,2025-12-07
+l-00488,2025-11-30,2025-11-30T15:02:00.000Z,Facebook,Enquiry,Lost,b-northside,s-sara,v-0209,209,1,1,1,0,1,0,2025-12-09
+l-00845,2025-11-30,2025-11-30T15:35:00.000Z,Referral,Enquiry,Lost,b-downtown,s-lucas,v-0236,94,1,0,0,0,1,0,2025-12-03
+l-01491,2025-11-30,2025-11-30T15:47:00.000Z,Phone,Enquiry,Lost,b-downtown,,v-0206,,0,0,0,0,1,0,2025-12-12
+l-00602,2025-12-01,2025-12-01T12:00:00.000Z,Website,Enquiry,Lost,b-northside,s-sara,v-0261,57,1,0,0,0,1,0,2025-12-13
+l-00174,2025-12-02,2025-12-02T17:24:00.000Z,Website,Enquiry,Won,b-downtown,s-omar,v-0268,39,1,1,1,1,0,0,2025-12-11
+l-00860,2025-12-03,2025-12-03T09:56:00.000Z,Facebook,Enquiry,Lost,b-northside,s-sara,v-0270,162,1,1,1,0,1,0,2025-12-14
+l-01118,2025-12-03,2025-12-03T11:36:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,,71,1,0,0,0,1,0,2025-12-04
+l-01514,2025-12-03,2025-12-03T15:41:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,v-0264,26,1,1,0,0,1,0,2025-12-16
+l-01231,2025-12-03,2025-12-03T17:03:00.000Z,Website,Enquiry,Lost,b-northside,s-sara,,37,1,0,0,0,1,0,2025-12-08
+l-01103,2025-12-03,2025-12-03T18:05:00.000Z,Website,Test Drive,Lost,b-northside,s-james,v-0223,176,1,0,0,0,1,0,2025-12-16
+l-00714,2025-12-04,2025-12-04T10:47:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-james,v-0261,184,1,0,0,0,1,0,2025-12-05
+l-00654,2025-12-04,2025-12-04T11:30:00.000Z,Website,Enquiry,Lost,b-northside,s-james,v-0238,57,1,0,0,0,1,0,2025-12-07
+l-01176,2025-12-04,2025-12-04T17:40:00.000Z,Website,Finance,Lost,b-northside,s-james,v-0261,52,1,0,0,0,1,0,2025-12-11
+l-00162,2025-12-05,2025-12-05T08:54:00.000Z,Website,Enquiry,Won,b-northside,s-james,v-0248,12,1,0,1,1,0,0,2025-12-28
+l-00169,2025-12-05,2025-12-05T11:37:00.000Z,Website,Enquiry,Won,b-downtown,s-omar,v-0258,58,1,0,1,1,0,0,2025-12-25
+l-00530,2025-12-05,2025-12-05T15:54:00.000Z,Website,Test Drive,Lost,b-northside,s-james,v-0261,12,1,0,0,0,1,0,2025-12-14
+l-00924,2025-12-05,2025-12-05T18:37:00.000Z,Website,Enquiry,Lost,b-northside,s-sara,v-0271,190,1,0,0,0,1,0,2025-12-15
+l-01003,2025-12-06,2025-12-06T09:53:00.000Z,Phone,Finance,Lost,b-downtown,s-maya,v-0249,2,1,0,0,0,1,0,2025-12-08
+l-00645,2025-12-06,2025-12-06T10:02:00.000Z,Walk-in,Enquiry,Lost,b-downtown,,v-0249,,0,0,0,0,1,0,2025-12-12
+l-00480,2025-12-06,2025-12-06T11:05:00.000Z,Website,Enquiry,Lost,b-northside,s-james,v-0273,12,1,1,0,0,1,0,2025-12-18
+l-00677,2025-12-06,2025-12-06T13:58:00.000Z,Referral,Enquiry,Lost,b-northside,s-sara,v-0270,33,1,0,0,0,1,0,2025-12-15
+l-00429,2025-12-06,2025-12-06T15:49:00.000Z,Phone,Enquiry,Lost,b-northside,s-sara,v-0172,21,1,1,0,0,1,0,2025-12-25
+l-00910,2025-12-07,2025-12-07T15:25:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,,204,1,1,0,0,1,0,2025-12-12
+l-00545,2025-12-07,2025-12-07T15:48:00.000Z,Facebook,Test Drive,Lost,b-northside,s-james,v-0275,48,1,1,0,0,1,0,2025-12-10
+l-00529,2025-12-07,2025-12-07T18:41:00.000Z,Marketplace,Finance,Lost,b-downtown,s-lucas,,54,1,1,0,0,1,0,2025-12-15
+l-01125,2025-12-08,2025-12-08T09:27:00.000Z,Website,Enquiry,Lost,b-northside,s-james,,56,1,0,0,0,1,0,2025-12-15
+l-01475,2025-12-08,2025-12-08T11:12:00.000Z,Walk-in,Enquiry,Lost,b-downtown,,v-0246,,0,0,0,0,1,0,2025-12-22
+l-01420,2025-12-08,2025-12-08T13:44:00.000Z,Marketplace,Finance,Lost,b-northside,,,,0,0,0,0,1,0,2025-12-13
+l-00609,2025-12-08,2025-12-08T15:34:00.000Z,Walk-in,Finance,Lost,b-downtown,s-lucas,,1,1,0,0,0,1,0,2025-12-22
+l-00179,2025-12-08,2025-12-08T18:30:00.000Z,Marketplace,Enquiry,Won,b-northside,s-sara,v-0275,100,1,1,1,1,0,0,2025-12-31
+l-00414,2025-12-08,2025-12-08T19:00:00.000Z,Phone,Enquiry,Lost,b-downtown,s-lucas,,13,1,1,1,0,1,0,2025-12-30
+l-01332,2025-12-09,2025-12-09T10:20:00.000Z,Website,Enquiry,Lost,b-northside,s-james,,215,1,0,0,0,1,0,2025-12-15
+l-01411,2025-12-09,2025-12-09T14:07:00.000Z,Walk-in,Finance,Lost,b-northside,,v-0223,,0,0,0,0,1,0,2025-12-14
+l-00673,2025-12-10,2025-12-10T16:24:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,,45,1,0,0,0,1,0,2025-12-12
+l-00957,2025-12-11,2025-12-11T08:17:00.000Z,Website,Test Drive,Lost,b-downtown,s-lucas,,12,1,0,0,0,1,0,2025-12-15
+l-01014,2025-12-11,2025-12-11T14:14:00.000Z,Website,Enquiry,Lost,b-northside,s-sara,,41,1,0,0,0,1,0,2025-12-22
+l-01449,2025-12-12,2025-12-12T17:06:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,v-0269,136,1,1,1,0,1,0,2025-12-27
+l-00813,2025-12-12,2025-12-12T18:56:00.000Z,Walk-in,Enquiry,Lost,b-northside,s-james,v-0270,0,1,1,0,0,1,0,2025-12-27
+l-01150,2025-12-13,2025-12-13T18:31:00.000Z,Facebook,Enquiry,Lost,b-northside,s-james,,24,1,1,1,0,1,0,2025-12-28
+l-00931,2025-12-13,2025-12-13T18:34:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-maya,v-0206,113,1,0,0,0,1,0,2025-12-20
+l-01236,2025-12-15,2025-12-15T12:34:00.000Z,Referral,Enquiry,Lost,b-downtown,s-maya,,92,1,0,0,0,1,0,2025-12-22
+l-00907,2025-12-15,2025-12-15T18:12:00.000Z,Website,Enquiry,Lost,b-northside,s-sara,,225,1,0,0,0,1,0,2025-12-28
+l-00744,2025-12-15,2025-12-15T18:52:00.000Z,Website,Enquiry,Lost,b-northside,,v-0238,,0,0,0,0,1,0,2025-12-27
+l-01119,2025-12-16,2025-12-16T09:43:00.000Z,Phone,Enquiry,Lost,b-downtown,s-maya,,28,1,0,0,0,1,0,2025-12-22
+l-00175,2025-12-16,2025-12-16T13:29:00.000Z,Website,Enquiry,Won,b-downtown,s-maya,v-0269,16,1,1,1,1,0,0,2025-12-28
+l-00417,2025-12-17,2025-12-17T10:10:00.000Z,Website,Finance,Lost,b-downtown,s-omar,v-0226,37,1,0,0,0,1,0,2025-12-23
+l-00160,2025-12-17,2025-12-17T13:34:00.000Z,Website,Test Drive,Won,b-downtown,s-maya,v-0246,48,1,1,1,1,0,0,2025-12-31
+l-00400,2025-12-17,2025-12-17T13:42:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-james,v-0273,98,1,0,0,0,1,0,2025-12-21
+l-00836,2025-12-17,2025-12-17T15:53:00.000Z,Phone,Enquiry,Lost,b-downtown,s-maya,,1,1,1,0,0,1,0,2025-12-30
+l-01215,2025-12-18,2025-12-18T14:35:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-omar,,59,1,1,0,0,1,0,2026-01-03
+l-00558,2025-12-19,2025-12-19T09:27:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,v-0255,239,1,0,0,0,1,0,2025-12-31
+l-00868,2025-12-19,2025-12-19T09:52:00.000Z,Facebook,Test Drive,Lost,b-downtown,,v-0239,,0,0,0,0,1,0,2025-12-31
+l-00812,2025-12-19,2025-12-19T10:52:00.000Z,Referral,Test Drive,Lost,b-northside,s-sara,v-0283,16,1,1,0,0,1,0,2025-12-31
+l-01410,2025-12-19,2025-12-19T15:31:00.000Z,Facebook,Enquiry,Lost,b-downtown,,v-0228,,0,0,0,0,1,0,2026-01-01
+l-01279,2025-12-20,2025-12-20T13:04:00.000Z,Walk-in,Enquiry,Lost,b-northside,s-sara,,3,1,1,0,0,1,0,2025-12-25
+l-00161,2025-12-20,2025-12-20T17:03:00.000Z,Website,Enquiry,Won,b-downtown,s-maya,v-0247,62,1,1,1,1,0,0,2026-01-13
+l-00922,2025-12-21,2025-12-21T13:53:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-omar,v-0255,5,1,1,0,0,1,0,2026-01-02
+l-00521,2025-12-21,2025-12-21T14:23:00.000Z,Website,Test Drive,Lost,b-downtown,s-lucas,v-0269,44,1,0,0,0,1,0,2025-12-28
+l-01080,2025-12-22,2025-12-22T19:00:00.000Z,Website,Test Drive,Lost,b-northside,s-sara,v-0273,221,1,0,0,0,1,0,2026-01-01
+l-01029,2025-12-23,2025-12-23T08:36:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,v-0278,75,1,1,0,0,1,0,2026-01-02
+l-00962,2025-12-23,2025-12-23T17:45:00.000Z,Phone,Enquiry,Lost,b-northside,s-sara,v-0285,8,1,0,0,0,1,0,2025-12-30
+l-00317,2025-12-24,2025-12-24T09:02:00.000Z,Facebook,Enquiry,Lost,b-northside,s-james,v-0267,144,1,1,0,0,1,0,2026-01-02
+l-00185,2025-12-24,2025-12-24T16:30:00.000Z,Website,Enquiry,Won,b-northside,s-sara,v-0287,53,1,1,1,1,0,0,2026-01-09
+l-01180,2025-12-24,2025-12-24T18:42:00.000Z,Referral,Enquiry,Lost,b-northside,s-sara,v-0284,78,1,1,0,0,1,0,2026-01-02
+l-01225,2025-12-25,2025-12-25T10:35:00.000Z,Walk-in,Enquiry,Lost,b-northside,s-sara,v-0274,0,1,0,0,0,1,0,2026-01-06
+l-00186,2025-12-25,2025-12-25T11:02:00.000Z,Website,Enquiry,Won,b-downtown,s-maya,v-0288,116,1,1,1,1,0,0,2026-01-12
+l-00703,2025-12-25,2025-12-25T13:11:00.000Z,Phone,Enquiry,Lost,b-northside,s-james,v-0272,29,1,0,0,0,1,0,2026-01-05
+l-01455,2025-12-25,2025-12-25T17:58:00.000Z,Website,Test Drive,Lost,b-downtown,s-maya,,46,1,0,0,0,1,0,2025-12-26
+l-00187,2025-12-26,2025-12-26T08:37:00.000Z,Marketplace,Enquiry,Won,b-northside,s-james,v-0289,211,1,0,1,1,0,0,2026-01-12
+l-01525,2025-12-26,2025-12-26T11:04:00.000Z,Facebook,Enquiry,Lost,b-northside,s-james,v-0273,16,1,0,0,0,1,0,2026-01-01
+l-01509,2025-12-26,2025-12-26T16:43:00.000Z,Website,Test Drive,Lost,b-northside,,v-0270,,0,0,0,0,1,0,2026-01-07
+l-01371,2025-12-27,2025-12-27T13:54:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-lucas,v-0247,5,1,0,0,0,1,0,2025-12-29
+l-00846,2025-12-27,2025-12-27T15:30:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-omar,v-0279,38,1,0,0,0,1,0,2026-01-04
+l-00298,2025-12-28,2025-12-28T09:16:00.000Z,Facebook,Enquiry,Lost,b-northside,,,,0,0,0,0,1,0,2026-01-11
+l-00873,2025-12-28,2025-12-28T12:21:00.000Z,Facebook,Test Drive,Lost,b-downtown,s-lucas,,47,1,1,1,0,1,0,2025-12-30
+l-00890,2025-12-28,2025-12-28T13:49:00.000Z,Facebook,Finance,Lost,b-northside,s-sara,,22,1,1,0,0,1,0,2026-01-12
+l-00685,2025-12-29,2025-12-29T13:08:00.000Z,Facebook,Enquiry,Lost,b-northside,s-james,v-0235,132,1,0,0,0,1,0,2026-01-08
+l-01477,2025-12-30,2025-12-30T09:16:00.000Z,Website,Finance,Lost,b-northside,s-sara,v-0291,5,1,0,0,0,1,0,2026-01-11
+l-00988,2025-12-30,2025-12-30T09:21:00.000Z,Walk-in,Enquiry,Lost,b-northside,s-sara,v-0277,2,1,1,0,0,1,0,2026-01-11
+l-00717,2025-12-30,2025-12-30T11:57:00.000Z,Walk-in,Finance,Lost,b-downtown,s-lucas,v-0280,2,1,1,0,0,1,0,2026-01-07
+l-00172,2025-12-30,2025-12-30T16:04:00.000Z,Facebook,Enquiry,Won,b-northside,s-sara,v-0266,807,1,1,1,1,0,0,2026-01-22
+l-00767,2025-12-31,2025-12-31T08:58:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-maya,,55,1,0,0,0,1,0,2026-01-03
+l-00155,2025-12-31,2025-12-31T15:35:00.000Z,Marketplace,Enquiry,Won,b-northside,s-james,v-0238,179,1,1,1,1,0,0,2026-01-24
+l-00462,2026-01-01,2026-01-01T09:47:00.000Z,Website,Enquiry,Lost,b-northside,s-sara,v-0285,82,1,0,0,0,1,0,2026-01-02
+l-01312,2026-01-01,2026-01-01T10:52:00.000Z,Website,Test Drive,Lost,b-downtown,,v-0226,,0,0,0,0,1,0,2026-01-07
+l-00178,2026-01-01,2026-01-01T12:49:00.000Z,Marketplace,Finance,Won,b-northside,s-james,v-0274,38,1,1,1,1,0,0,2026-01-13
+l-00181,2026-01-01,2026-01-01T18:21:00.000Z,Facebook,Enquiry,Won,b-downtown,s-omar,v-0278,87,1,1,1,1,0,0,2026-01-08
+l-00412,2026-01-02,2026-01-02T10:35:00.000Z,Website,Finance,Lost,b-northside,,,,0,0,0,0,1,0,2026-01-04
+l-00806,2026-01-02,2026-01-02T11:35:00.000Z,Walk-in,Test Drive,Lost,b-downtown,s-maya,v-0293,4,1,0,0,0,1,0,2026-01-04
+l-00976,2026-01-02,2026-01-02T13:16:00.000Z,Marketplace,Enquiry,Lost,b-northside,,v-0253,,0,0,0,0,1,0,2026-01-15
+l-01388,2026-01-02,2026-01-02T13:48:00.000Z,Walk-in,Finance,Lost,b-northside,s-james,v-0284,5,1,0,0,0,1,0,2026-01-06
+l-00176,2026-01-02,2026-01-02T16:35:00.000Z,Phone,Enquiry,Won,b-northside,s-sara,v-0270,4,1,0,1,1,0,0,2026-01-27
+l-01432,2026-01-02,2026-01-02T17:35:00.000Z,Website,Finance,Lost,b-northside,s-sara,v-0209,212,1,1,0,0,1,0,2026-01-12
+l-00768,2026-01-03,2026-01-03T11:04:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-lucas,v-0249,3,1,0,0,0,1,0,2026-01-13
+l-00849,2026-01-03,2026-01-03T11:30:00.000Z,Facebook,Test Drive,Lost,b-downtown,,,,0,0,0,0,1,0,2026-01-12
+l-01212,2026-01-03,2026-01-03T17:05:00.000Z,Website,Test Drive,Lost,b-northside,s-james,v-0284,213,1,0,0,0,1,0,2026-01-07
+l-00191,2026-01-04,2026-01-04T09:09:00.000Z,Referral,Test Drive,Won,b-northside,s-james,v-0295,40,1,1,1,1,0,0,2026-01-11
+l-01342,2026-01-05,2026-01-05T11:27:00.000Z,Marketplace,Test Drive,Lost,b-northside,s-sara,v-0281,13,1,0,0,0,1,0,2026-01-18
+l-01136,2026-01-05,2026-01-05T12:23:00.000Z,Facebook,Test Drive,Lost,b-downtown,s-maya,v-0280,178,1,0,0,0,1,0,2026-01-11
+l-00715,2026-01-05,2026-01-05T14:07:00.000Z,Website,Finance,Lost,b-downtown,s-maya,v-0292,1154,1,0,0,0,1,0,2026-01-19
+l-00127,2026-01-06,2026-01-06T09:57:00.000Z,Facebook,Enquiry,Won,b-northside,s-sara,v-0197,49,1,0,1,1,0,0,2026-01-15
+l-00381,2026-01-07,2026-01-07T12:27:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-omar,v-0247,8,1,0,0,0,1,0,2026-01-10
+l-00288,2026-01-07,2026-01-07T15:01:00.000Z,Referral,Enquiry,Lost,b-northside,s-james,v-0267,24,1,0,0,0,1,0,2026-01-13
+l-00193,2026-01-07,2026-01-07T15:38:00.000Z,Website,Test Drive,Won,b-downtown,s-lucas,v-0297,5,1,1,1,1,0,0,2026-01-21
+l-01469,2026-01-07,2026-01-07T16:26:00.000Z,Facebook,Enquiry,Lost,b-northside,s-sara,v-0295,1092,1,0,0,0,1,0,2026-01-15
+l-00633,2026-01-09,2026-01-09T11:47:00.000Z,Facebook,Enquiry,Lost,b-northside,s-james,v-0298,35,1,1,0,0,1,0,2026-01-20
+l-01534,2026-01-09,2026-01-09T12:30:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-lucas,v-0293,9,1,1,0,0,1,0,2026-01-15
+l-00307,2026-01-09,2026-01-09T17:02:00.000Z,Phone,Finance,Lost,b-northside,s-james,v-0281,21,1,0,0,0,1,0,2026-01-15
+l-00337,2026-01-10,2026-01-10T08:06:00.000Z,Facebook,Test Drive,Lost,b-downtown,,v-0255,,0,0,0,0,1,0,2026-01-17
+l-00192,2026-01-10,2026-01-10T12:04:00.000Z,Facebook,Test Drive,Won,b-downtown,s-lucas,v-0296,5,1,1,1,1,0,0,2026-02-02
+l-00386,2026-01-10,2026-01-10T18:19:00.000Z,Website,Enquiry,Lost,b-northside,s-james,v-0253,79,1,1,1,0,1,0,2026-01-14
+l-00183,2026-01-11,2026-01-11T09:54:00.000Z,Website,Test Drive,Won,b-northside,s-james,v-0285,35,1,1,1,1,0,0,2026-01-17
+l-00855,2026-01-11,2026-01-11T15:12:00.000Z,Referral,Enquiry,Lost,b-downtown,s-lucas,,20,1,1,1,0,1,0,2026-01-27
+l-00137,2026-01-11,2026-01-11T16:35:00.000Z,Facebook,Enquiry,Won,b-northside,s-james,v-0209,188,1,1,1,1,0,0,2026-01-23
+l-00287,2026-01-13,2026-01-13T15:21:00.000Z,Phone,Test Drive,Lost,b-downtown,s-maya,v-0206,15,1,0,0,0,1,0,2026-01-26
+l-00804,2026-01-14,2026-01-14T10:11:00.000Z,Walk-in,Test Drive,Lost,b-downtown,,,,0,0,0,0,1,0,2026-01-27
+l-00184,2026-01-14,2026-01-14T11:46:00.000Z,Phone,Enquiry,Won,b-northside,s-sara,v-0286,5,1,0,1,1,0,0,2026-01-25
+l-00952,2026-01-14,2026-01-14T16:57:00.000Z,Marketplace,Test Drive,Lost,b-downtown,,v-0251,,0,0,0,0,1,0,2026-01-24
+l-01308,2026-01-15,2026-01-15T13:17:00.000Z,Referral,Test Drive,Lost,b-northside,s-james,v-0284,141,1,0,0,0,1,0,2026-01-16
+l-01100,2026-01-15,2026-01-15T17:10:00.000Z,Marketplace,Test Drive,Lost,b-downtown,,v-0236,,0,0,0,0,1,0,2026-01-28
+l-00188,2026-01-16,2026-01-16T08:30:00.000Z,Referral,Enquiry,Won,b-downtown,s-maya,v-0290,42,1,0,1,1,0,0,2026-01-27
+l-00771,2026-01-16,2026-01-16T09:47:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,,185,1,1,0,0,1,0,2026-01-30
+l-00903,2026-01-16,2026-01-16T10:13:00.000Z,Facebook,Test Drive,Lost,b-northside,s-james,,59,1,1,1,0,1,0,2026-01-29
+l-00995,2026-01-16,2026-01-16T15:21:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-omar,v-0255,60,1,0,0,0,1,0,2026-01-28
+l-00625,2026-01-17,2026-01-17T12:33:00.000Z,Facebook,Enquiry,Lost,b-northside,,v-0266,,0,0,0,0,1,0,2026-01-31
+l-01380,2026-01-17,2026-01-17T13:44:00.000Z,Facebook,Enquiry,Lost,b-northside,s-sara,v-0235,45,1,0,0,0,1,0,2026-01-23
+l-00816,2026-01-17,2026-01-17T17:34:00.000Z,Website,Enquiry,Lost,b-downtown,,v-0255,,0,0,0,0,1,0,2026-01-23
+l-01524,2026-01-17,2026-01-17T17:52:00.000Z,Walk-in,Test Drive,Lost,b-northside,s-sara,v-0301,2,1,0,0,0,1,0,2026-01-27
+l-00286,2026-01-18,2026-01-18T10:08:00.000Z,Website,Enquiry,Lost,b-downtown,,,,0,0,0,0,1,0,2026-01-24
+l-00576,2026-01-18,2026-01-18T10:41:00.000Z,Marketplace,Finance,Lost,b-northside,,v-0291,,0,0,0,0,1,0,2026-01-19
+l-01007,2026-01-18,2026-01-18T11:39:00.000Z,Phone,Enquiry,Lost,b-northside,,v-0300,,0,0,0,0,1,0,2026-01-31
+l-00439,2026-01-18,2026-01-18T17:03:00.000Z,Facebook,Test Drive,Lost,b-downtown,s-lucas,v-0206,21,1,0,0,0,1,0,2026-01-24
+l-00882,2026-01-19,2026-01-19T12:59:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-omar,v-0294,2,1,0,0,0,1,0,2026-01-24
+l-00368,2026-01-19,2026-01-19T15:01:00.000Z,Walk-in,Test Drive,Lost,b-downtown,s-maya,,5,1,0,0,0,1,0,2026-01-25
+l-00938,2026-01-19,2026-01-19T15:05:00.000Z,Referral,Test Drive,Lost,b-downtown,s-maya,v-0297,108,1,0,0,0,1,0,2026-01-24
+l-01015,2026-01-19,2026-01-19T17:33:00.000Z,Website,Enquiry,Lost,b-northside,s-james,v-0291,28,1,1,0,0,1,0,2026-02-07
+l-00790,2026-01-20,2026-01-20T10:27:00.000Z,Website,Enquiry,Lost,b-northside,,,,0,0,0,0,1,0,2026-01-21
+l-00492,2026-01-20,2026-01-20T16:12:00.000Z,Website,Test Drive,Lost,b-downtown,s-lucas,v-0228,210,1,1,1,0,1,0,2026-02-04
+l-00180,2026-01-21,2026-01-21T14:47:00.000Z,Walk-in,Enquiry,Won,b-northside,s-james,v-0277,5,1,0,1,1,0,0,2026-02-01
+l-00965,2026-01-21,2026-01-21T17:03:00.000Z,Marketplace,Enquiry,Lost,b-downtown,,v-0292,,0,0,0,0,1,0,2026-01-27
+l-01540,2026-01-22,2026-01-22T11:58:00.000Z,Phone,Enquiry,Lost,b-northside,s-sara,,23,1,1,1,0,1,0,2026-02-07
+l-01372,2026-01-22,2026-01-22T12:28:00.000Z,Website,Test Drive,Lost,b-downtown,s-lucas,v-0255,1146,1,0,0,0,1,0,2026-01-25
+l-00189,2026-01-22,2026-01-22T17:49:00.000Z,Facebook,Enquiry,Won,b-downtown,s-lucas,v-0292,237,1,0,1,1,0,0,2026-01-26
+l-00195,2026-01-24,2026-01-24T11:25:00.000Z,Walk-in,Enquiry,Won,b-northside,s-sara,v-0300,5,1,1,1,1,0,0,2026-02-02
+l-00182,2026-01-24,2026-01-24T18:27:00.000Z,Website,Enquiry,Won,b-northside,s-james,v-0281,11,1,1,1,1,0,0,2026-02-18
+l-00631,2026-01-25,2026-01-25T14:27:00.000Z,Website,Finance,Lost,b-northside,s-sara,v-0301,728,1,1,1,0,1,0,2026-02-05
+l-00468,2026-01-25,2026-01-25T15:41:00.000Z,Referral,Enquiry,Lost,b-downtown,s-lucas,v-0255,88,1,1,0,0,1,0,2026-01-30
+l-00543,2026-01-26,2026-01-26T16:34:00.000Z,Marketplace,Test Drive,Lost,b-northside,,v-0281,,0,0,0,0,1,0,2026-02-09
+l-01413,2026-01-26,2026-01-26T18:22:00.000Z,Phone,Test Drive,Lost,b-northside,s-sara,v-0277,4,1,1,0,0,1,0,2026-01-31
+l-00998,2026-01-27,2026-01-27T09:12:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,v-0276,24,1,0,0,0,1,0,2026-02-04
+l-00199,2026-01-27,2026-01-27T10:39:00.000Z,Marketplace,Test Drive,Won,b-downtown,s-maya,v-0305,22,1,1,1,1,0,0,2026-02-16
+l-00707,2026-01-27,2026-01-27T13:16:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-omar,,5,1,1,0,0,1,0,2026-02-01
+l-00201,2026-01-27,2026-01-27T17:14:00.000Z,Website,Enquiry,Won,b-downtown,s-omar,v-0307,238,1,1,1,1,0,0,2026-02-01
+l-00997,2026-01-28,2026-01-28T08:04:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-lucas,v-0304,3,1,1,1,0,1,0,2026-02-12
+l-00177,2026-01-29,2026-01-29T12:19:00.000Z,Marketplace,Enquiry,Won,b-northside,s-sara,v-0273,97,1,1,1,1,0,0,2026-02-20
+l-00341,2026-01-30,2026-01-30T09:02:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-omar,,217,1,1,0,0,1,0,2026-02-04
+l-00166,2026-01-30,2026-01-30T14:52:00.000Z,Facebook,Enquiry,Won,b-downtown,s-lucas,v-0255,49,1,1,1,1,0,0,2026-02-21
+l-00523,2026-01-31,2026-01-31T18:04:00.000Z,Website,Enquiry,Lost,b-northside,,v-0301,,0,0,0,0,1,0,2026-02-08
+l-01570,2026-02-03,2026-02-03T16:01:00.000Z,Facebook,Enquiry,Lost,b-northside,,v-0281,,0,0,0,0,1,0,2026-02-17
+l-00983,2026-02-03,2026-02-03T18:15:00.000Z,Website,Finance,Lost,b-downtown,s-lucas,v-0302,57,1,0,0,0,1,0,2026-02-12
+l-00912,2026-02-04,2026-02-04T11:00:00.000Z,Facebook,Enquiry,Lost,b-northside,s-james,v-0301,55,1,1,0,0,1,0,2026-02-10
+l-01460,2026-02-04,2026-02-04T14:54:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,v-0255,26,1,0,0,0,1,0,2026-02-07
+l-00203,2026-02-04,2026-02-04T15:12:00.000Z,Website,Test Drive,Won,b-downtown,s-maya,v-0310,58,1,1,1,1,0,0,2026-02-26
+l-00955,2026-02-04,2026-02-04T16:06:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-omar,v-0294,2,1,1,1,0,1,0,2026-02-12
+l-00296,2026-02-04,2026-02-04T18:19:00.000Z,Walk-in,Enquiry,Lost,b-northside,,v-0301,,0,0,0,0,1,0,2026-02-15
+l-01270,2026-02-05,2026-02-05T09:59:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-maya,v-0206,170,1,1,1,0,1,0,2026-02-16
+l-00993,2026-02-05,2026-02-05T10:53:00.000Z,Marketplace,Finance,Lost,b-downtown,s-maya,v-0305,62,1,0,0,0,1,0,2026-02-14
+l-00359,2026-02-05,2026-02-05T14:31:00.000Z,Phone,Enquiry,Lost,b-downtown,s-omar,v-0308,9,1,0,0,0,1,0,2026-02-14
+l-01230,2026-02-06,2026-02-06T08:37:00.000Z,Website,Test Drive,Lost,b-downtown,s-maya,,51,1,1,1,0,1,0,2026-02-11
+l-00940,2026-02-06,2026-02-06T18:38:00.000Z,Facebook,Finance,Lost,b-downtown,s-omar,v-0304,142,1,0,0,0,1,0,2026-02-09
+l-00401,2026-02-07,2026-02-07T17:48:00.000Z,Facebook,Enquiry,Lost,b-downtown,,,,0,0,0,0,1,0,2026-02-18
+l-00196,2026-02-07,2026-02-07T18:09:00.000Z,Website,Finance,Won,b-northside,s-james,v-0301,196,1,1,1,1,0,0,2026-02-19
+l-01185,2026-02-08,2026-02-08T10:47:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-omar,v-0303,28,1,1,0,0,1,0,2026-02-11
+l-00206,2026-02-08,2026-02-08T15:10:00.000Z,Facebook,Test Drive,Won,b-northside,s-james,v-0313,55,1,0,1,1,0,0,2026-02-17
+l-00134,2026-02-08,2026-02-08T15:18:00.000Z,Marketplace,Enquiry,Won,b-downtown,s-lucas,v-0206,13,1,1,1,1,0,0,2026-02-13
+l-00640,2026-02-08,2026-02-08T15:50:00.000Z,Website,Test Drive,Lost,b-downtown,s-lucas,v-0304,12,1,0,0,0,1,0,2026-02-12
+l-00200,2026-02-09,2026-02-09T13:30:00.000Z,Website,Test Drive,Won,b-downtown,s-omar,v-0306,7,1,1,1,1,0,0,2026-02-17
+l-01304,2026-02-09,2026-02-09T17:54:00.000Z,Website,Test Drive,Lost,b-northside,s-sara,v-0312,21,1,0,0,0,1,0,2026-02-22
+l-00646,2026-02-10,2026-02-10T08:48:00.000Z,Website,Test Drive,Lost,b-downtown,s-omar,v-0251,387,1,1,0,0,1,0,2026-02-16
+l-00560,2026-02-10,2026-02-10T09:22:00.000Z,Website,Finance,Lost,b-downtown,s-maya,v-0310,60,1,1,0,0,1,0,2026-02-20
+l-01571,2026-02-10,2026-02-10T10:21:00.000Z,Phone,Enquiry,Lost,b-downtown,s-lucas,,29,1,1,1,0,1,0,2026-02-22
+l-00208,2026-02-10,2026-02-10T13:29:00.000Z,Website,Test Drive,Won,b-northside,s-james,v-0315,54,1,1,1,1,0,0,2026-02-20
+l-00763,2026-02-10,2026-02-10T14:54:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-omar,v-0314,58,1,0,0,0,1,0,2026-02-22
+l-01408,2026-02-11,2026-02-11T12:04:00.000Z,Marketplace,Enquiry,Lost,b-northside,,v-0315,,0,0,0,0,1,0,2026-02-24
+l-00575,2026-02-11,2026-02-11T15:41:00.000Z,Walk-in,Enquiry,Lost,b-northside,s-james,,2,1,1,0,0,1,0,2026-02-15
+l-00684,2026-02-12,2026-02-12T11:22:00.000Z,Website,Enquiry,Lost,b-northside,s-sara,v-0311,36,1,1,1,0,1,0,2026-02-20
+l-00405,2026-02-12,2026-02-12T13:54:00.000Z,Walk-in,Enquiry,Lost,b-northside,s-sara,v-0301,5,1,0,0,0,1,0,2026-02-21
+l-00710,2026-02-12,2026-02-12T13:58:00.000Z,Phone,Enquiry,Lost,b-downtown,s-omar,v-0310,10,1,0,0,0,1,0,2026-02-19
+l-00759,2026-02-12,2026-02-12T18:28:00.000Z,Referral,Enquiry,Lost,b-downtown,s-lucas,,12,1,1,1,0,1,0,2026-02-28
+l-01106,2026-02-13,2026-02-13T15:21:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-sara,,218,1,0,0,0,1,0,2026-02-26
+l-01201,2026-02-14,2026-02-14T14:09:00.000Z,Phone,Finance,Lost,b-northside,s-james,v-0281,12,1,1,0,0,1,0,2026-02-22
+l-00207,2026-02-14,2026-02-14T18:21:00.000Z,Phone,Enquiry,Won,b-downtown,s-maya,v-0314,2,1,1,1,1,0,0,2026-02-27
+l-00761,2026-02-15,2026-02-15T09:14:00.000Z,Website,Test Drive,Lost,b-downtown,,,,0,0,0,0,1,0,2026-02-27
+l-01000,2026-02-15,2026-02-15T10:02:00.000Z,Referral,Enquiry,Lost,b-downtown,,,,0,0,0,0,1,0,2026-02-22
+l-00824,2026-02-15,2026-02-15T12:19:00.000Z,Phone,Finance,Lost,b-downtown,s-maya,v-0302,13,1,1,0,0,1,0,2026-03-04
+l-00197,2026-02-16,2026-02-16T16:11:00.000Z,Referral,Enquiry,Won,b-downtown,s-maya,v-0302,171,1,0,1,1,0,0,2026-02-24
+l-00410,2026-02-16,2026-02-16T17:04:00.000Z,Referral,Enquiry,Lost,b-downtown,,v-0257,,0,0,0,0,1,0,2026-02-27
+l-00944,2026-02-16,2026-02-16T17:35:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-james,v-0315,127,1,1,0,0,1,0,2026-02-26
+l-01531,2026-02-17,2026-02-17T10:31:00.000Z,Phone,Finance,Lost,b-downtown,s-maya,,24,1,0,0,0,1,0,2026-02-19
+l-01030,2026-02-17,2026-02-17T10:44:00.000Z,Facebook,Finance,Lost,b-downtown,s-omar,v-0310,27,1,0,0,0,1,0,2026-02-22
+l-00734,2026-02-17,2026-02-17T12:44:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-lucas,,4,1,1,0,0,1,0,2026-03-02
+l-01404,2026-02-18,2026-02-18T11:55:00.000Z,Website,Test Drive,Lost,b-downtown,s-omar,,49,1,0,0,0,1,0,2026-02-28
+l-00211,2026-02-18,2026-02-18T15:45:00.000Z,Referral,Enquiry,Won,b-northside,s-sara,v-0319,158,1,1,1,1,0,0,2026-03-01
+l-00871,2026-02-19,2026-02-19T09:42:00.000Z,Phone,Test Drive,Lost,b-northside,,,,0,0,0,0,1,0,2026-02-28
+l-00212,2026-02-19,2026-02-19T13:45:00.000Z,Website,Enquiry,Won,b-northside,s-sara,v-0320,120,1,0,1,1,0,0,2026-03-04
+l-00198,2026-02-19,2026-02-19T15:26:00.000Z,Marketplace,Enquiry,Won,b-downtown,s-maya,v-0304,180,1,1,1,1,0,0,2026-02-23
+l-00803,2026-02-19,2026-02-19T17:24:00.000Z,Website,Test Drive,Lost,b-northside,,v-0235,,0,0,0,0,1,0,2026-02-24
+l-00691,2026-02-19,2026-02-19T17:49:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-lucas,,245,1,0,0,0,1,0,2026-03-01
+l-00194,2026-02-20,2026-02-20T12:26:00.000Z,Marketplace,Enquiry,Won,b-northside,s-james,v-0298,171,1,1,1,1,0,0,2026-03-16
+l-01275,2026-02-20,2026-02-20T12:51:00.000Z,Referral,Test Drive,Lost,b-northside,s-sara,v-0235,56,1,1,0,0,1,0,2026-02-23
+l-01366,2026-02-20,2026-02-20T13:45:00.000Z,Website,Finance,Lost,b-downtown,,v-0257,,0,0,0,0,1,0,2026-02-27
+l-00471,2026-02-20,2026-02-20T14:49:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,v-0251,14,1,0,0,0,1,0,2026-03-03
+l-01137,2026-02-21,2026-02-21T10:31:00.000Z,Website,Test Drive,Lost,b-downtown,s-omar,v-0308,146,1,0,0,0,1,0,2026-03-05
+l-01121,2026-02-21,2026-02-21T13:04:00.000Z,Walk-in,Test Drive,Lost,b-downtown,s-maya,v-0228,4,1,1,0,0,1,0,2026-03-02
+l-00621,2026-02-21,2026-02-21T13:32:00.000Z,Referral,Enquiry,Lost,b-northside,s-james,v-0319,92,1,0,0,0,1,0,2026-03-07
+l-00373,2026-02-22,2026-02-22T14:14:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-lucas,v-0316,1,1,1,0,0,1,0,2026-02-28
+l-00641,2026-02-23,2026-02-23T08:15:00.000Z,Website,Enquiry,Lost,b-northside,s-james,v-0317,37,1,1,0,0,1,0,2026-03-07
+l-01229,2026-02-23,2026-02-23T12:48:00.000Z,Website,Enquiry,Lost,b-northside,,v-0318,,0,0,0,0,1,0,2026-02-27
+l-01522,2026-02-24,2026-02-24T10:45:00.000Z,Website,Test Drive,Lost,b-downtown,s-omar,v-0314,23,1,0,0,0,1,0,2026-02-26
+l-01565,2026-02-24,2026-02-24T12:11:00.000Z,Marketplace,Finance,Lost,b-northside,,v-0311,,0,0,0,0,1,0,2026-02-25
+l-00863,2026-02-25,2026-02-25T10:17:00.000Z,Website,Enquiry,Lost,b-northside,s-james,v-0323,131,1,1,1,0,1,0,2026-03-07
+l-01365,2026-02-27,2026-02-27T08:48:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-lucas,v-0294,88,1,0,0,0,1,0,2026-03-08
+l-00204,2026-02-27,2026-02-27T18:30:00.000Z,Website,Enquiry,Won,b-northside,s-james,v-0311,486,1,1,1,1,0,0,2026-03-02
+l-00927,2026-02-28,2026-02-28T11:43:00.000Z,Facebook,Enquiry,Lost,b-northside,,v-0323,,0,0,0,0,1,0,2026-03-13
+l-01459,2026-03-01,2026-03-01T15:04:00.000Z,Marketplace,Test Drive,Lost,b-northside,s-james,,530,1,1,0,0,1,0,2026-03-07
+l-01489,2026-03-01,2026-03-01T17:18:00.000Z,Website,Finance,Lost,b-downtown,s-maya,v-0228,49,1,1,1,0,1,0,2026-03-06
+l-00974,2026-03-02,2026-03-02T10:01:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-sara,v-0324,60,1,0,0,0,1,0,2026-03-10
+l-01233,2026-03-02,2026-03-02T11:24:00.000Z,Phone,Test Drive,Lost,b-downtown,s-maya,v-0322,13,1,1,1,0,1,0,2026-03-13
+l-01360,2026-03-02,2026-03-02T12:19:00.000Z,Walk-in,Finance,Lost,b-northside,s-sara,v-0324,0,1,0,0,0,1,0,2026-03-12
+l-00587,2026-03-02,2026-03-02T13:47:00.000Z,Facebook,Finance,Lost,b-downtown,s-maya,v-0321,91,1,1,0,0,1,0,2026-03-09
+l-00475,2026-03-02,2026-03-02T14:01:00.000Z,Website,Test Drive,Lost,b-downtown,s-lucas,,5,1,0,0,0,1,0,2026-03-07
+l-01416,2026-03-02,2026-03-02T15:28:00.000Z,Website,Finance,Lost,b-downtown,s-lucas,,6,1,0,0,0,1,0,2026-03-16
+l-01486,2026-03-02,2026-03-02T16:34:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,,8,1,0,0,0,1,0,2026-03-14
+l-00745,2026-03-02,2026-03-02T16:54:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-lucas,v-0236,1,1,1,0,0,1,0,2026-03-16
+l-01523,2026-03-02,2026-03-02T18:35:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-omar,v-0228,1,1,1,0,0,1,0,2026-03-16
+l-00154,2026-03-02,2026-03-02T18:41:00.000Z,Marketplace,Test Drive,Won,b-northside,s-sara,v-0235,203,1,1,1,1,0,0,2026-03-08
+l-00748,2026-03-03,2026-03-03T12:17:00.000Z,Website,Test Drive,Lost,b-downtown,s-omar,v-0326,23,1,1,1,0,1,0,2026-03-16
+l-00756,2026-03-03,2026-03-03T16:13:00.000Z,Phone,Test Drive,Lost,b-northside,s-james,,19,1,0,0,0,1,0,2026-03-14
+l-00320,2026-03-04,2026-03-04T09:44:00.000Z,Website,Enquiry,Lost,b-northside,s-sara,v-0325,60,1,0,0,0,1,0,2026-03-18
+l-01114,2026-03-04,2026-03-04T11:19:00.000Z,Website,Test Drive,Lost,b-downtown,s-omar,,19,1,0,0,0,1,0,2026-03-12
+l-01424,2026-03-04,2026-03-04T15:33:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-omar,,61,1,1,1,0,1,0,2026-03-23
+l-01503,2026-03-05,2026-03-05T09:35:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-maya,v-0228,5,1,0,0,0,1,0,2026-03-16
+l-01224,2026-03-05,2026-03-05T12:23:00.000Z,Website,Enquiry,Lost,b-northside,s-james,v-0323,144,1,0,0,0,1,0,2026-03-07
+l-00984,2026-03-05,2026-03-05T14:49:00.000Z,Phone,Enquiry,Lost,b-northside,s-james,v-0298,13,1,0,0,0,1,0,2026-03-08
+l-00335,2026-03-07,2026-03-07T11:15:00.000Z,Website,Enquiry,Lost,b-northside,s-james,v-0318,50,1,0,0,0,1,0,2026-03-17
+l-01273,2026-03-08,2026-03-08T11:02:00.000Z,Website,Finance,Lost,b-downtown,s-lucas,,701,1,0,0,0,1,0,2026-03-19
+l-01160,2026-03-08,2026-03-08T15:30:00.000Z,Facebook,Enquiry,Lost,b-northside,s-sara,v-0329,57,1,1,0,0,1,0,2026-03-20
+l-01195,2026-03-08,2026-03-08T15:36:00.000Z,Phone,Finance,Lost,b-downtown,s-maya,v-0326,9,1,0,0,0,1,0,2026-03-13
+l-00880,2026-03-09,2026-03-09T08:07:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-james,v-0317,185,1,1,0,0,1,0,2026-03-17
+l-01134,2026-03-09,2026-03-09T13:09:00.000Z,Phone,Enquiry,Lost,b-downtown,s-lucas,v-0293,13,1,0,0,0,1,0,2026-03-10
+l-01032,2026-03-09,2026-03-09T13:13:00.000Z,Website,Enquiry,Lost,b-downtown,,,,0,0,0,0,1,0,2026-03-14
+l-00485,2026-03-09,2026-03-09T16:33:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,v-0327,27,1,0,0,0,1,0,2026-03-11
+l-01004,2026-03-10,2026-03-10T11:55:00.000Z,Walk-in,Enquiry,Lost,b-northside,s-james,v-0329,3,1,1,1,0,1,0,2026-03-22
+l-01104,2026-03-11,2026-03-11T12:58:00.000Z,Referral,Enquiry,Lost,b-downtown,s-omar,v-0236,31,1,0,0,0,1,0,2026-03-24
+l-00213,2026-03-11,2026-03-11T13:57:00.000Z,Facebook,Test Drive,Won,b-downtown,s-lucas,v-0321,9,1,1,1,1,0,0,2026-03-31
+l-01043,2026-03-12,2026-03-12T09:35:00.000Z,Phone,Enquiry,Lost,b-downtown,s-omar,v-0327,12,1,0,0,0,1,0,2026-03-25
+l-00642,2026-03-12,2026-03-12T13:40:00.000Z,Walk-in,Test Drive,Lost,b-northside,,,,0,0,0,0,1,0,2026-03-21
+l-01182,2026-03-12,2026-03-12T15:26:00.000Z,Facebook,Enquiry,Lost,b-northside,s-james,,53,1,0,0,0,1,0,2026-03-18
+l-00968,2026-03-12,2026-03-12T17:40:00.000Z,Phone,Enquiry,Lost,b-downtown,s-maya,v-0308,6,1,1,0,0,1,0,2026-03-15
+l-00697,2026-03-13,2026-03-13T11:58:00.000Z,Facebook,Enquiry,Lost,b-northside,,v-0325,,0,0,0,0,1,0,2026-03-16
+l-00970,2026-03-13,2026-03-13T16:57:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-sara,v-0267,1115,1,0,0,0,1,0,2026-03-20
+l-01222,2026-03-14,2026-03-14T14:22:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-lucas,v-0332,12,1,0,0,0,1,0,2026-03-22
+l-00701,2026-03-14,2026-03-14T17:05:00.000Z,Website,Test Drive,Lost,b-downtown,s-lucas,v-0251,64,1,1,0,0,1,0,2026-03-16
+l-00554,2026-03-15,2026-03-15T08:48:00.000Z,Phone,Test Drive,Lost,b-downtown,s-omar,v-0332,12,1,0,0,0,1,0,2026-03-21
+l-01022,2026-03-15,2026-03-15T09:01:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-maya,,36,1,1,0,0,1,0,2026-03-24
+l-00672,2026-03-15,2026-03-15T12:30:00.000Z,Website,Test Drive,Lost,b-downtown,s-lucas,v-0328,40,1,1,0,0,1,0,2026-03-29
+l-00190,2026-03-15,2026-03-15T16:57:00.000Z,Marketplace,Test Drive,Won,b-downtown,s-maya,v-0293,16,1,1,1,1,0,0,2026-03-19
+l-01403,2026-03-16,2026-03-16T10:48:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-sara,v-0267,107,1,0,0,0,1,0,2026-03-29
+l-00210,2026-03-18,2026-03-18T16:26:00.000Z,Walk-in,Enquiry,Won,b-northside,s-james,v-0318,4,1,1,1,1,0,0,2026-03-30
+l-01550,2026-03-18,2026-03-18T17:25:00.000Z,Marketplace,Finance,Lost,b-northside,s-james,,20,1,1,1,0,1,0,2026-03-26
+l-00723,2026-03-20,2026-03-20T08:31:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,v-0257,23,1,0,0,0,1,0,2026-04-01
+l-00705,2026-03-20,2026-03-20T08:38:00.000Z,Website,Finance,Lost,b-northside,s-sara,,588,1,1,0,0,1,0,2026-04-03
+l-01205,2026-03-20,2026-03-20T10:41:00.000Z,Phone,Enquiry,Lost,b-northside,s-james,v-0267,12,1,0,0,0,1,0,2026-03-31
+l-00674,2026-03-20,2026-03-20T12:05:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-sara,v-0284,123,1,1,1,0,1,0,2026-04-08
+l-00581,2026-03-20,2026-03-20T12:37:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-lucas,v-0321,1,1,0,0,0,1,0,2026-04-03
+l-00324,2026-03-20,2026-03-20T18:32:00.000Z,Website,Test Drive,Lost,b-northside,s-james,,30,1,0,0,0,1,0,2026-03-27
+l-01337,2026-03-21,2026-03-21T11:01:00.000Z,Website,Enquiry,Lost,b-northside,,,,0,0,0,0,1,0,2026-03-22
+l-00221,2026-03-21,2026-03-21T16:25:00.000Z,Marketplace,Enquiry,Won,b-downtown,s-omar,v-0338,6,1,1,1,1,0,0,2026-04-15
+l-01325,2026-03-22,2026-03-22T13:24:00.000Z,Referral,Finance,Lost,b-downtown,s-omar,v-0257,12,1,1,0,0,1,0,2026-03-31
+l-00616,2026-03-22,2026-03-22T13:34:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,v-0321,108,1,1,0,0,1,0,2026-04-03
+l-00657,2026-03-22,2026-03-22T14:54:00.000Z,Referral,Enquiry,Lost,b-downtown,s-lucas,,107,1,0,0,0,1,0,2026-04-01
+l-00839,2026-03-23,2026-03-23T08:21:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,v-0321,13,1,1,0,0,1,0,2026-03-28
+l-00811,2026-03-23,2026-03-23T08:28:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-sara,,187,1,1,1,0,1,0,2026-03-27
+l-01124,2026-03-23,2026-03-23T14:08:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-maya,,52,1,0,0,0,1,0,2026-03-29
+l-01414,2026-03-24,2026-03-24T10:48:00.000Z,Marketplace,Test Drive,Lost,b-downtown,,v-0321,,0,0,0,0,1,0,2026-04-05
+l-00215,2026-03-24,2026-03-24T11:14:00.000Z,Website,Test Drive,Won,b-northside,s-james,v-0324,15,1,1,1,1,0,0,2026-04-08
+l-00202,2026-03-24,2026-03-24T12:36:00.000Z,Facebook,Test Drive,Won,b-downtown,s-omar,v-0308,196,1,1,1,1,0,0,2026-04-06
+l-00205,2026-03-25,2026-03-25T09:07:00.000Z,Walk-in,Test Drive,Won,b-northside,s-sara,v-0312,3,1,1,1,1,0,0,2026-03-29
+l-01339,2026-03-25,2026-03-25T17:03:00.000Z,Phone,Enquiry,Lost,b-downtown,,,,0,0,0,0,1,0,2026-03-29
+l-00223,2026-03-25,2026-03-25T18:28:00.000Z,Walk-in,Enquiry,Won,b-downtown,s-omar,v-0341,0,1,1,1,1,0,0,2026-04-04
+l-00224,2026-03-26,2026-03-26T10:45:00.000Z,Walk-in,Enquiry,Won,b-downtown,s-lucas,v-0342,1,1,0,1,1,0,0,2026-04-15
+l-00899,2026-03-26,2026-03-26T11:42:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-omar,v-0340,0,1,0,0,0,1,0,2026-03-31
+l-01063,2026-03-26,2026-03-26T13:49:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,v-0339,58,1,1,0,0,1,0,2026-04-09
+l-01331,2026-03-26,2026-03-26T14:30:00.000Z,Marketplace,Enquiry,Lost,b-northside,,v-0284,,0,0,0,0,1,0,2026-04-01
+l-01021,2026-03-27,2026-03-27T08:56:00.000Z,Website,Test Drive,Lost,b-downtown,,v-0279,,0,0,0,0,1,0,2026-04-04
+l-01306,2026-03-27,2026-03-27T15:12:00.000Z,Marketplace,Finance,Lost,b-downtown,s-lucas,v-0332,155,1,1,0,0,1,0,2026-03-31
+l-01521,2026-03-28,2026-03-28T12:32:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-maya,,43,1,0,0,0,1,0,2026-03-30
+l-01330,2026-03-29,2026-03-29T08:54:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-maya,v-0336,73,1,0,0,0,1,0,2026-04-05
+l-00765,2026-03-29,2026-03-29T10:24:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-lucas,v-0343,27,1,1,1,0,1,0,2026-04-07
+l-01367,2026-03-29,2026-03-29T10:25:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-james,v-0334,104,1,1,0,0,1,0,2026-04-14
+l-00483,2026-03-29,2026-03-29T10:26:00.000Z,Facebook,Enquiry,Lost,b-northside,s-sara,v-0323,59,1,0,0,0,1,0,2026-04-07
+l-00369,2026-03-30,2026-03-30T09:58:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-lucas,v-0279,3,1,1,0,0,1,0,2026-04-11
+l-00956,2026-03-30,2026-03-30T17:05:00.000Z,Website,Enquiry,Lost,b-downtown,,,,0,0,0,0,1,0,2026-04-01
+l-00613,2026-03-30,2026-03-30T17:20:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-lucas,,222,1,0,0,0,1,0,2026-04-09
+l-01450,2026-03-30,2026-03-30T17:38:00.000Z,Website,Enquiry,Lost,b-downtown,,,,0,0,0,0,1,0,2026-04-02
+l-00785,2026-03-31,2026-03-31T08:11:00.000Z,Marketplace,Test Drive,Lost,b-downtown,s-omar,v-0332,54,1,0,0,0,1,0,2026-04-05
+l-00473,2026-03-31,2026-03-31T12:54:00.000Z,Referral,Enquiry,Lost,b-downtown,s-lucas,,61,1,1,0,0,1,0,2026-04-08
+l-01087,2026-03-31,2026-03-31T13:09:00.000Z,Phone,Enquiry,Lost,b-downtown,s-maya,v-0331,22,1,0,0,0,1,0,2026-04-13
+l-01500,2026-03-31,2026-03-31T16:34:00.000Z,Website,Test Drive,Lost,b-downtown,s-maya,,97,1,0,0,0,1,0,2026-04-02
+l-01235,2026-03-31,2026-03-31T17:47:00.000Z,Walk-in,Enquiry,Lost,b-northside,,v-0344,,0,0,0,0,1,0,2026-04-14
+l-01261,2026-04-01,2026-04-01T08:44:00.000Z,Website,Finance,Lost,b-northside,s-james,v-0317,148,1,0,0,0,1,0,2026-04-11
+l-00805,2026-04-01,2026-04-01T10:35:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-lucas,,48,1,0,0,0,1,0,2026-04-13
+l-01481,2026-04-01,2026-04-01T17:38:00.000Z,Facebook,Enquiry,Lost,b-downtown,,,,0,0,0,0,1,0,2026-04-08
+l-00964,2026-04-01,2026-04-01T18:52:00.000Z,Website,Finance,Lost,b-northside,s-james,v-0344,129,1,1,1,0,1,0,2026-04-23
+l-00559,2026-04-03,2026-04-03T08:07:00.000Z,Facebook,Finance,Lost,b-northside,s-james,v-0324,13,1,0,0,0,1,0,2026-04-07
+l-00300,2026-04-03,2026-04-03T13:24:00.000Z,Website,Test Drive,Lost,b-downtown,s-omar,,11,1,0,0,0,1,0,2026-04-07
+l-00358,2026-04-03,2026-04-03T14:06:00.000Z,Referral,Enquiry,Lost,b-downtown,s-omar,v-0341,129,1,0,0,0,1,0,2026-04-15
+l-00958,2026-04-03,2026-04-03T15:25:00.000Z,Referral,Enquiry,Lost,b-downtown,s-omar,v-0303,171,1,0,0,0,1,0,2026-04-07
+l-00904,2026-04-03,2026-04-03T15:50:00.000Z,Facebook,Test Drive,Lost,b-downtown,s-omar,,17,1,0,0,0,1,0,2026-04-17
+l-00583,2026-04-04,2026-04-04T10:48:00.000Z,Phone,Enquiry,Lost,b-downtown,,v-0327,,0,0,0,0,1,0,2026-04-07
+l-00148,2026-04-05,2026-04-05T16:55:00.000Z,Website,Enquiry,Won,b-downtown,s-lucas,v-0228,205,1,1,1,1,0,0,2026-04-08
+l-00985,2026-04-06,2026-04-06T11:25:00.000Z,Marketplace,Finance,Lost,b-downtown,s-omar,v-0303,24,1,1,1,0,1,0,2026-04-12
+l-00216,2026-04-06,2026-04-06T12:27:00.000Z,Facebook,Test Drive,Won,b-downtown,s-maya,v-0330,1244,1,1,1,1,0,0,2026-04-20
+l-00222,2026-04-07,2026-04-07T12:08:00.000Z,Referral,Finance,Won,b-downtown,s-lucas,v-0340,21,1,1,1,1,0,0,2026-05-01
+l-01274,2026-04-08,2026-04-08T09:07:00.000Z,Website,Enquiry,Lost,b-downtown,,v-0257,,0,0,0,0,1,0,2026-04-11
+l-00220,2026-04-08,2026-04-08T14:18:00.000Z,Website,Finance,Won,b-northside,s-james,v-0337,10,1,1,1,1,0,0,2026-04-22
+l-01129,2026-04-09,2026-04-09T18:41:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,v-0348,8,1,1,1,0,1,0,2026-04-24
+l-01294,2026-04-10,2026-04-10T11:26:00.000Z,Walk-in,Finance,Lost,b-downtown,,,,0,0,0,0,1,0,2026-04-11
+l-01316,2026-04-10,2026-04-10T12:15:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,v-0328,49,1,0,0,0,1,0,2026-04-19
+l-00596,2026-04-10,2026-04-10T14:07:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-maya,v-0336,0,1,0,0,0,1,0,2026-04-19
+l-00875,2026-04-10,2026-04-10T16:01:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-sara,,31,1,0,0,0,1,0,2026-04-18
+l-01062,2026-04-11,2026-04-11T12:45:00.000Z,Website,Enquiry,Lost,b-northside,,v-0351,,0,0,0,0,1,0,2026-04-15
+l-00595,2026-04-11,2026-04-11T18:28:00.000Z,Referral,Test Drive,Lost,b-downtown,s-lucas,,16,1,0,0,0,1,0,2026-04-12
+l-00549,2026-04-11,2026-04-11T18:44:00.000Z,Facebook,Finance,Lost,b-northside,s-sara,v-0317,69,1,1,0,0,1,0,2026-04-19
+l-01082,2026-04-12,2026-04-12T08:01:00.000Z,Facebook,Test Drive,Lost,b-downtown,s-lucas,,44,1,1,0,0,1,0,2026-04-24
+l-00431,2026-04-13,2026-04-13T14:15:00.000Z,Walk-in,Test Drive,Lost,b-downtown,,v-0328,,0,0,0,0,1,0,2026-04-19
+l-00722,2026-04-14,2026-04-14T08:21:00.000Z,Website,Enquiry,Lost,b-northside,s-james,,5,1,1,0,0,1,0,2026-04-26
+l-00779,2026-04-14,2026-04-14T09:05:00.000Z,Website,Test Drive,Lost,b-northside,s-james,v-0267,49,1,1,0,0,1,0,2026-04-19
+l-00533,2026-04-14,2026-04-14T14:21:00.000Z,Facebook,Enquiry,Lost,b-northside,,v-0284,,0,0,0,0,1,0,2026-04-26
+l-00173,2026-04-15,2026-04-15T12:28:00.000Z,Website,Enquiry,Won,b-northside,s-james,v-0267,31,1,1,1,1,0,0,2026-04-19
+l-00498,2026-04-15,2026-04-15T17:45:00.000Z,Referral,Enquiry,Lost,b-downtown,s-maya,,46,1,1,1,0,1,0,2026-05-02
+l-01426,2026-04-16,2026-04-16T10:50:00.000Z,Phone,Enquiry,Lost,b-downtown,s-lucas,v-0330,25,1,0,0,0,1,0,2026-04-19
+l-01378,2026-04-16,2026-04-16T12:15:00.000Z,Walk-in,Test Drive,Lost,b-downtown,s-omar,v-0343,2,1,0,0,0,1,0,2026-04-18
+l-01356,2026-04-16,2026-04-16T16:52:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-sara,v-0337,108,1,0,0,0,1,0,2026-04-18
+l-00370,2026-04-16,2026-04-16T17:39:00.000Z,Marketplace,Test Drive,Lost,b-northside,s-james,,1378,1,1,1,0,1,0,2026-05-04
+l-01198,2026-04-17,2026-04-17T08:29:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-lucas,,168,1,0,0,0,1,0,2026-04-24
+l-00323,2026-04-18,2026-04-18T10:16:00.000Z,Website,Test Drive,Lost,b-downtown,s-omar,v-0257,150,1,0,0,0,1,0,2026-04-22
+l-00218,2026-04-18,2026-04-18T13:34:00.000Z,Website,Finance,Won,b-northside,s-sara,v-0334,86,1,0,1,1,0,0,2026-05-05
+l-00416,2026-04-19,2026-04-19T08:32:00.000Z,Phone,Enquiry,Lost,b-downtown,s-maya,v-0330,13,1,1,0,0,1,0,2026-05-04
+l-01142,2026-04-19,2026-04-19T18:56:00.000Z,Facebook,Enquiry,Lost,b-northside,s-sara,v-0352,45,1,1,0,0,1,0,2026-05-03
+l-00567,2026-04-20,2026-04-20T08:30:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-maya,,225,1,0,0,0,1,0,2026-05-04
+l-01310,2026-04-20,2026-04-20T17:18:00.000Z,Phone,Enquiry,Lost,b-northside,s-james,,3,1,1,0,0,1,0,2026-05-06
+l-00219,2026-04-21,2026-04-21T10:23:00.000Z,Website,Enquiry,Won,b-downtown,s-maya,v-0335,97,1,1,1,1,0,0,2026-05-11
+l-01323,2026-04-22,2026-04-22T11:10:00.000Z,Website,Test Drive,Lost,b-northside,s-james,v-0351,50,1,1,1,0,1,0,2026-04-28
+l-00915,2026-04-22,2026-04-22T12:51:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,v-0331,24,1,0,0,0,1,0,2026-05-03
+l-00669,2026-04-22,2026-04-22T14:06:00.000Z,Website,Enquiry,Lost,b-northside,s-sara,v-0334,21,1,1,0,0,1,0,2026-04-23
+l-00234,2026-04-23,2026-04-23T11:32:00.000Z,Walk-in,Enquiry,Won,b-northside,s-sara,v-0359,3,1,1,1,1,0,0,2026-04-30
+l-00229,2026-04-23,2026-04-23T12:26:00.000Z,Phone,Finance,Won,b-northside,s-sara,v-0352,11,1,1,1,1,0,0,2026-05-13
+l-00687,2026-04-23,2026-04-23T14:37:00.000Z,Phone,Test Drive,Lost,b-northside,s-sara,v-0284,30,1,1,0,0,1,0,2026-05-01
+l-00782,2026-04-23,2026-04-23T18:12:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-maya,v-0331,13,1,0,0,0,1,0,2026-05-04
+l-01505,2026-04-24,2026-04-24T10:43:00.000Z,Phone,Test Drive,Lost,b-downtown,s-omar,v-0354,23,1,1,0,0,1,0,2026-05-03
+l-00209,2026-04-24,2026-04-24T13:11:00.000Z,Marketplace,Test Drive,Won,b-northside,s-james,v-0317,51,1,1,1,1,0,0,2026-05-07
+l-00981,2026-04-25,2026-04-25T10:43:00.000Z,Facebook,Enquiry,Lost,b-downtown,,v-0328,,0,0,0,0,1,0,2026-05-06
+l-00427,2026-04-25,2026-04-25T10:49:00.000Z,Website,Enquiry,Lost,b-northside,s-james,,96,1,1,1,0,1,0,2026-05-13
+l-00334,2026-04-25,2026-04-25T14:30:00.000Z,Walk-in,Enquiry,Lost,b-northside,,v-0360,,0,0,0,0,1,0,2026-05-07
+l-01172,2026-04-25,2026-04-25T18:11:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-maya,v-0343,10,1,1,1,0,1,0,2026-05-15
+l-00762,2026-04-26,2026-04-26T10:52:00.000Z,Facebook,Finance,Lost,b-downtown,s-omar,,60,1,0,0,0,1,0,2026-04-30
+l-00227,2026-04-26,2026-04-26T12:20:00.000Z,Referral,Enquiry,Won,b-downtown,s-maya,v-0346,36,1,0,1,1,0,0,2026-05-08
+l-00338,2026-04-26,2026-04-26T12:59:00.000Z,Website,Finance,Lost,b-downtown,s-omar,v-0328,49,1,0,0,0,1,0,2026-05-05
+l-01292,2026-04-27,2026-04-27T13:50:00.000Z,Website,Enquiry,Lost,b-northside,s-sara,,107,1,1,0,0,1,0,2026-05-03
+l-00808,2026-04-27,2026-04-27T15:05:00.000Z,Phone,Enquiry,Lost,b-northside,s-sara,,10,1,0,0,0,1,0,2026-04-29
+l-00479,2026-04-28,2026-04-28T09:56:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,,25,1,1,0,0,1,0,2026-05-08
+l-01056,2026-04-28,2026-04-28T12:10:00.000Z,Facebook,Finance,Lost,b-downtown,s-lucas,,22,1,0,0,0,1,0,2026-05-05
+l-00387,2026-04-29,2026-04-29T10:38:00.000Z,Phone,Finance,Lost,b-northside,s-sara,v-0356,1,1,1,0,0,1,0,2026-05-06
+l-00524,2026-04-29,2026-04-29T12:25:00.000Z,Phone,Enquiry,Lost,b-northside,s-james,v-0359,17,1,0,0,0,1,0,2026-05-06
+l-00709,2026-04-29,2026-04-29T16:56:00.000Z,Phone,Enquiry,Lost,b-downtown,s-omar,v-0328,10,1,0,0,0,1,0,2026-05-13
+l-00719,2026-04-29,2026-04-29T16:56:00.000Z,Referral,Enquiry,Lost,b-downtown,s-maya,v-0348,61,1,1,0,0,1,0,2026-05-13
+l-00725,2026-04-29,2026-04-29T17:53:00.000Z,Website,Finance,Lost,b-downtown,s-maya,v-0340,39,1,0,0,0,1,0,2026-05-02
+l-01298,2026-04-30,2026-04-30T08:19:00.000Z,Website,Enquiry,Lost,b-downtown,,,,0,0,0,0,1,0,2026-05-11
+l-00231,2026-04-30,2026-04-30T12:00:00.000Z,Marketplace,Enquiry,Won,b-northside,s-sara,v-0356,1012,1,1,1,1,0,0,2026-05-18
+l-00354,2026-04-30,2026-04-30T17:44:00.000Z,Walk-in,Finance,Lost,b-northside,,v-0317,,0,0,0,0,1,0,2026-05-05
+l-00228,2026-05-01,2026-05-01T11:19:00.000Z,Facebook,Enquiry,Won,b-northside,s-james,v-0351,14,1,0,1,1,0,0,2026-05-12
+l-00438,2026-05-01,2026-05-01T14:53:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-lucas,v-0331,41,1,1,1,0,1,0,2026-05-12
+l-00233,2026-05-01,2026-05-01T15:15:00.000Z,Facebook,Enquiry,Won,b-downtown,s-lucas,v-0358,187,1,1,1,1,0,0,2026-05-25
+l-00896,2026-05-02,2026-05-02T08:30:00.000Z,Walk-in,Enquiry,Lost,b-northside,s-james,v-0361,3,1,0,0,0,1,0,2026-05-06
+l-00236,2026-05-02,2026-05-02T17:48:00.000Z,Website,Enquiry,Won,b-northside,s-james,v-0361,11,1,0,1,1,0,0,2026-05-11
+l-01506,2026-05-02,2026-05-02T18:54:00.000Z,Website,Finance,Lost,b-downtown,s-maya,v-0346,991,1,1,0,0,1,0,2026-05-12
+l-00733,2026-05-03,2026-05-03T08:30:00.000Z,Facebook,Test Drive,Lost,b-downtown,s-lucas,v-0343,22,1,0,0,0,1,0,2026-05-04
+l-00535,2026-05-03,2026-05-03T17:13:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-sara,,42,1,0,0,0,1,0,2026-05-17
+l-00383,2026-05-04,2026-05-04T11:08:00.000Z,Facebook,Test Drive,Lost,b-northside,s-james,v-0344,18,1,0,0,0,1,0,2026-05-11
+l-01068,2026-05-04,2026-05-04T16:35:00.000Z,Facebook,Enquiry,Lost,b-downtown,,v-0357,,0,0,0,0,1,0,2026-05-05
+l-00226,2026-05-06,2026-05-06T16:03:00.000Z,Facebook,Test Drive,Won,b-northside,s-james,v-0344,20,1,0,1,1,0,0,2026-05-23
+l-00541,2026-05-07,2026-05-07T15:40:00.000Z,Facebook,Test Drive,Lost,b-downtown,,v-0358,,0,0,0,0,1,0,2026-05-10
+l-00445,2026-05-07,2026-05-07T17:21:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-james,v-0350,32,1,0,0,0,1,0,2026-05-21
+l-01045,2026-05-08,2026-05-08T15:56:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-maya,v-0365,3,1,0,0,0,1,0,2026-05-12
+l-00949,2026-05-09,2026-05-09T09:07:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-james,v-0323,41,1,1,1,0,1,0,2026-05-18
+l-01389,2026-05-09,2026-05-09T11:32:00.000Z,Website,Enquiry,Lost,b-northside,s-sara,v-0325,195,1,1,1,0,1,0,2026-05-20
+l-01289,2026-05-09,2026-05-09T11:39:00.000Z,Referral,Enquiry,Lost,b-downtown,s-lucas,v-0343,34,1,0,0,0,1,0,2026-05-10
+l-01239,2026-05-09,2026-05-09T16:57:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,,155,1,1,1,0,1,0,2026-05-15
+l-01431,2026-05-09,2026-05-09T18:43:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,v-0331,9,1,0,0,0,1,0,2026-05-21
+l-01023,2026-05-10,2026-05-10T10:10:00.000Z,Phone,Enquiry,Lost,b-downtown,s-maya,v-0257,21,1,0,0,0,1,0,2026-05-17
+l-00918,2026-05-10,2026-05-10T11:44:00.000Z,Facebook,Finance,Lost,b-downtown,,v-0365,,0,0,0,0,1,0,2026-05-20
+l-01252,2026-05-10,2026-05-10T12:54:00.000Z,Website,Finance,Lost,b-downtown,s-maya,v-0335,178,1,0,0,0,1,0,2026-05-11
+l-01321,2026-05-11,2026-05-11T14:32:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-lucas,v-0339,16,1,0,0,0,1,0,2026-05-16
+l-00892,2026-05-11,2026-05-11T15:28:00.000Z,Walk-in,Finance,Lost,b-northside,,v-0351,,0,0,0,0,1,0,2026-05-12
+l-01541,2026-05-12,2026-05-12T14:36:00.000Z,Phone,Enquiry,Lost,b-downtown,,v-0339,,0,0,0,0,1,0,2026-05-17
+l-00241,2026-05-13,2026-05-13T09:36:00.000Z,Facebook,Test Drive,Won,b-northside,s-james,v-0370,11,1,1,1,1,0,0,2026-05-20
+l-00994,2026-05-13,2026-05-13T12:17:00.000Z,Website,Test Drive,Lost,b-downtown,s-maya,v-0339,56,1,0,0,0,1,0,2026-05-26
+l-01520,2026-05-13,2026-05-13T14:55:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-sara,v-0356,46,1,0,0,0,1,0,2026-05-25
+l-00350,2026-05-13,2026-05-13T17:32:00.000Z,Walk-in,Finance,Lost,b-northside,s-sara,v-0366,0,1,1,1,0,1,0,2026-05-24
+l-01241,2026-05-13,2026-05-13T17:41:00.000Z,Referral,Test Drive,Lost,b-downtown,s-maya,v-0343,160,1,0,0,0,1,0,2026-05-20
+l-00168,2026-05-14,2026-05-14T15:02:00.000Z,Facebook,Enquiry,Won,b-downtown,s-omar,v-0257,205,1,1,1,1,0,0,2026-06-07
+l-00491,2026-05-15,2026-05-15T08:07:00.000Z,Facebook,Enquiry,Lost,b-northside,s-james,v-0366,123,1,1,0,0,1,0,2026-05-30
+l-01401,2026-05-15,2026-05-15T11:36:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-maya,v-0357,25,1,1,0,0,1,0,2026-05-26
+l-00322,2026-05-15,2026-05-15T11:39:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,,123,1,0,0,0,1,0,2026-05-25
+l-01038,2026-05-15,2026-05-15T14:22:00.000Z,Walk-in,Finance,Lost,b-northside,s-sara,v-0356,1,1,0,0,0,1,0,2026-05-22
+l-01265,2026-05-15,2026-05-15T14:52:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-lucas,,54,1,0,0,0,1,0,2026-05-24
+l-01441,2026-05-16,2026-05-16T16:19:00.000Z,Phone,Enquiry,Lost,b-downtown,s-maya,v-0367,13,1,0,0,0,1,0,2026-05-21
+l-00379,2026-05-17,2026-05-17T09:53:00.000Z,Referral,Enquiry,Lost,b-northside,s-james,v-0364,150,1,1,1,0,1,0,2026-05-25
+l-01219,2026-05-17,2026-05-17T11:36:00.000Z,Marketplace,Test Drive,Lost,b-downtown,,,,0,0,0,0,1,0,2026-05-21
+l-00793,2026-05-18,2026-05-18T11:21:00.000Z,Facebook,Finance,Lost,b-northside,,v-0325,,0,0,0,0,1,0,2026-05-27
+l-00570,2026-05-19,2026-05-19T17:39:00.000Z,Website,Enquiry,Lost,b-downtown,,,,0,0,0,0,1,0,2026-05-20
+l-00434,2026-05-20,2026-05-20T13:00:00.000Z,Website,Enquiry,Lost,b-northside,s-james,v-0364,236,1,1,0,0,1,0,2026-06-01
+l-00225,2026-05-20,2026-05-20T15:48:00.000Z,Facebook,Test Drive,Won,b-downtown,s-maya,v-0343,37,1,1,1,1,0,0,2026-06-14
+l-00664,2026-05-21,2026-05-21T08:19:00.000Z,Referral,Test Drive,Lost,b-downtown,s-lucas,v-0358,39,1,0,0,0,1,0,2026-05-26
+l-00239,2026-05-21,2026-05-21T12:52:00.000Z,Website,Test Drive,Won,b-northside,s-james,v-0366,11,1,1,1,1,0,0,2026-06-08
+l-01067,2026-05-21,2026-05-21T13:03:00.000Z,Facebook,Test Drive,Lost,b-northside,,,,0,0,0,0,1,0,2026-06-03
+l-00652,2026-05-21,2026-05-21T15:08:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-omar,v-0354,68,1,1,0,0,1,0,2026-05-30
+l-00624,2026-05-22,2026-05-22T10:17:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,v-0363,23,1,0,0,0,1,0,2026-06-04
+l-01140,2026-05-22,2026-05-22T12:52:00.000Z,Facebook,Test Drive,Lost,b-northside,s-sara,,28,1,0,0,0,1,0,2026-06-05
+l-00630,2026-05-23,2026-05-23T08:21:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,v-0362,45,1,0,0,0,1,0,2026-05-24
+l-00232,2026-05-23,2026-05-23T10:07:00.000Z,Website,Enquiry,Won,b-downtown,s-maya,v-0357,9,1,1,1,1,0,0,2026-05-29
+l-01197,2026-05-23,2026-05-23T12:34:00.000Z,Phone,Test Drive,Lost,b-downtown,s-maya,v-0363,8,1,1,1,0,1,0,2026-06-02
+l-00217,2026-05-23,2026-05-23T16:10:00.000Z,Website,Test Drive,Won,b-downtown,s-maya,v-0331,43,1,1,1,1,0,0,2026-06-06
+l-00921,2026-05-23,2026-05-23T16:44:00.000Z,Marketplace,Enquiry,Lost,b-downtown,,,,0,0,0,0,1,0,2026-06-05
+l-01049,2026-05-23,2026-05-23T18:08:00.000Z,Facebook,Test Drive,Lost,b-northside,s-james,,170,1,1,0,0,1,0,2026-06-06
+l-01568,2026-05-24,2026-05-24T16:36:00.000Z,Marketplace,Test Drive,Lost,b-downtown,s-omar,v-0339,169,1,1,0,0,1,0,2026-06-09
+l-00237,2026-05-24,2026-05-24T17:36:00.000Z,Website,Enquiry,Won,b-downtown,s-lucas,v-0362,55,1,1,1,1,0,0,2026-06-14
+l-00240,2026-05-24,2026-05-24T17:56:00.000Z,Phone,Enquiry,Won,b-downtown,s-lucas,v-0368,28,1,1,1,1,0,0,2026-05-30
+l-00881,2026-05-24,2026-05-24T18:12:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-lucas,v-0363,3,1,0,0,0,1,0,2026-05-26
+l-00665,2026-05-24,2026-05-24T18:34:00.000Z,Referral,Enquiry,Lost,b-northside,s-james,v-0323,84,1,0,0,0,1,0,2026-05-31
+l-00235,2026-05-25,2026-05-25T14:09:00.000Z,Marketplace,Enquiry,Won,b-northside,s-james,v-0360,18,1,1,1,1,0,0,2026-06-01
+l-01456,2026-05-25,2026-05-25T14:47:00.000Z,Walk-in,Test Drive,Lost,b-downtown,,,,0,0,0,0,1,0,2026-05-26
+l-01385,2026-05-26,2026-05-26T16:11:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,v-0331,33,1,1,0,0,1,0,2026-06-13
+l-01278,2026-05-27,2026-05-27T15:59:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-lucas,,30,1,1,0,0,1,0,2026-06-03
+l-00537,2026-05-27,2026-05-27T17:36:00.000Z,Walk-in,Test Drive,Lost,b-downtown,s-lucas,,1,1,0,0,0,1,0,2026-06-03
+l-00247,2026-05-27,2026-05-27T17:43:00.000Z,Website,Finance,Won,b-downtown,s-lucas,v-0380,51,1,1,1,1,0,0,2026-06-09
+l-01074,2026-05-28,2026-05-28T09:10:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,v-0376,231,1,0,0,0,1,0,2026-06-08
+l-01071,2026-05-28,2026-05-28T11:11:00.000Z,Website,Test Drive,Lost,b-northside,s-sara,,966,1,0,0,0,1,0,2026-06-12
+l-00214,2026-05-28,2026-05-28T12:46:00.000Z,Website,Finance,Won,b-northside,s-sara,v-0323,6,1,1,1,1,0,0,2026-06-01
+l-01031,2026-05-28,2026-05-28T17:38:00.000Z,Phone,Enquiry,Lost,b-downtown,s-omar,v-0377,4,1,0,0,0,1,0,2026-06-04
+l-00571,2026-05-29,2026-05-29T11:41:00.000Z,Marketplace,Enquiry,Lost,b-downtown,,,,0,0,0,0,1,0,2026-06-09
+l-00242,2026-05-29,2026-05-29T12:39:00.000Z,Phone,Enquiry,Won,b-downtown,s-lucas,v-0371,16,1,1,1,1,0,0,2026-06-10
+l-00394,2026-05-29,2026-05-29T17:53:00.000Z,Website,Test Drive,Lost,b-downtown,s-omar,v-0347,238,1,0,0,0,1,0,2026-06-02
+l-00939,2026-05-30,2026-05-30T08:16:00.000Z,Website,Test Drive,Lost,b-northside,s-james,,983,1,1,1,0,1,0,2026-06-07
+l-00248,2026-05-30,2026-05-30T12:00:00.000Z,Website,Enquiry,Won,b-downtown,s-omar,v-0383,5,1,1,1,1,0,0,2026-06-06
+l-00857,2026-05-30,2026-05-30T12:45:00.000Z,Website,Enquiry,Lost,b-northside,s-james,v-0360,43,1,0,0,0,1,0,2026-06-06
+l-00671,2026-05-31,2026-05-31T13:10:00.000Z,Facebook,Enquiry,Lost,b-downtown,,v-0363,,0,0,0,0,1,0,2026-06-05
+l-00843,2026-06-01,2026-06-01T09:35:00.000Z,Phone,Finance,Lost,b-northside,s-james,v-0378,9,1,0,0,0,1,0,2026-06-07
+l-01055,2026-06-01,2026-06-01T11:22:00.000Z,Website,Enquiry,Lost,b-northside,s-james,,79,1,0,0,0,1,0,2026-06-03
+l-00923,2026-06-01,2026-06-01T14:18:00.000Z,Facebook,Finance,Lost,b-downtown,s-maya,v-0382,14,1,1,1,0,1,0,2026-06-18
+l-00244,2026-06-02,2026-06-02T11:56:00.000Z,Website,Enquiry,Won,b-downtown,s-omar,v-0376,162,1,0,1,1,0,0,2026-06-25
+l-01451,2026-06-03,2026-06-03T10:10:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-maya,v-0331,5,1,1,0,0,1,0,2026-06-09
+l-00367,2026-06-03,2026-06-03T15:19:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,,113,1,0,0,0,1,0,2026-06-17
+l-01281,2026-06-04,2026-06-04T10:30:00.000Z,Website,Enquiry,Lost,b-northside,,v-0284,,0,0,0,0,1,0,2026-06-12
+l-01567,2026-06-04,2026-06-04T11:09:00.000Z,Phone,Finance,Lost,b-northside,,,,0,0,0,0,1,0,2026-06-15
+l-01315,2026-06-05,2026-06-05T08:26:00.000Z,Website,Enquiry,Lost,b-northside,s-sara,v-0374,39,1,0,0,0,1,0,2026-06-08
+l-01035,2026-06-05,2026-06-05T17:51:00.000Z,Facebook,Enquiry,Lost,b-northside,,,,0,0,0,0,1,0,2026-06-15
+l-00282,2026-06-06,2026-06-06T09:02:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,v-0373,234,1,0,0,0,1,0,2026-06-12
+l-00690,2026-06-06,2026-06-06T13:23:00.000Z,Referral,Finance,Lost,b-northside,s-james,,166,1,0,0,0,1,0,2026-06-16
+l-00380,2026-06-06,2026-06-06T13:40:00.000Z,Referral,Enquiry,Lost,b-northside,s-sara,v-0284,67,1,0,0,0,1,0,2026-06-11
+l-01566,2026-06-07,2026-06-07T12:43:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,v-0380,72,1,0,0,0,1,0,2026-06-18
+l-00718,2026-06-07,2026-06-07T16:15:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,v-0375,7,1,0,0,0,1,0,2026-06-11
+l-00708,2026-06-07,2026-06-07T17:34:00.000Z,Phone,Enquiry,Lost,b-downtown,s-omar,v-0387,4,1,0,0,0,1,0,2026-06-19
+l-01073,2026-06-08,2026-06-08T13:57:00.000Z,Facebook,Enquiry,Lost,b-northside,s-james,,527,1,0,0,0,1,0,2026-06-09
+l-01355,2026-06-08,2026-06-08T14:27:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-lucas,,0,1,0,0,0,1,0,2026-06-10
+l-00299,2026-06-08,2026-06-08T16:48:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,,43,1,1,1,0,1,0,2026-06-18
+l-01157,2026-06-10,2026-06-10T08:28:00.000Z,Phone,Enquiry,Lost,b-downtown,s-omar,v-0347,20,1,0,0,0,1,0,2026-06-20
+l-01092,2026-06-10,2026-06-10T11:12:00.000Z,Website,Finance,Lost,b-northside,,v-0369,,0,0,0,0,1,0,2026-06-19
+l-01151,2026-06-10,2026-06-10T11:42:00.000Z,Walk-in,Enquiry,Lost,b-northside,s-james,v-0325,3,1,0,0,0,1,0,2026-06-17
+l-00461,2026-06-11,2026-06-11T10:19:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-omar,,121,1,1,0,0,1,0,2026-06-23
+l-01202,2026-06-11,2026-06-11T13:45:00.000Z,Facebook,Test Drive,Lost,b-northside,,,,0,0,0,0,1,0,2026-06-17
+l-00467,2026-06-12,2026-06-12T12:53:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-omar,v-0362,32,1,0,0,0,1,0,2026-06-18
+l-01474,2026-06-12,2026-06-12T17:06:00.000Z,Website,Test Drive,Lost,b-northside,s-james,v-0325,19,1,1,0,0,1,0,2026-06-23
+l-00245,2026-06-14,2026-06-14T18:35:00.000Z,Facebook,Test Drive,Won,b-downtown,s-maya,v-0377,25,1,1,1,1,0,0,2026-07-03
+l-01258,2026-06-15,2026-06-15T15:21:00.000Z,Marketplace,Test Drive,Lost,b-northside,,v-0325,,0,0,0,0,1,0,2026-06-18
+l-01530,2026-06-17,2026-06-17T09:47:00.000Z,Walk-in,Enquiry,Lost,b-northside,s-james,v-0389,1,1,0,0,0,1,0,2026-06-30
+l-00513,2026-06-17,2026-06-17T10:47:00.000Z,Website,Enquiry,Lost,b-northside,,v-0391,,0,0,0,0,1,0,2026-06-22
+l-00376,2026-06-17,2026-06-17T12:40:00.000Z,Marketplace,Test Drive,Lost,b-downtown,s-lucas,v-0354,155,1,0,0,0,1,0,2026-06-22
+l-00741,2026-06-17,2026-06-17T17:29:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,v-0347,33,1,0,0,0,1,0,2026-06-24
+l-00470,2026-06-18,2026-06-18T11:21:00.000Z,Phone,Enquiry,Lost,b-downtown,s-omar,,17,1,0,0,0,1,0,2026-06-27
+l-00243,2026-06-18,2026-06-18T13:49:00.000Z,Referral,Enquiry,Won,b-downtown,s-lucas,v-0375,69,1,1,1,1,0,0,2026-06-21
+l-00246,2026-06-18,2026-06-18T14:33:00.000Z,Facebook,Enquiry,Won,b-northside,s-james,v-0378,43,1,1,1,1,0,0,2026-06-30
+l-01375,2026-06-19,2026-06-19T08:08:00.000Z,Website,Enquiry,Lost,b-northside,,,,0,0,0,0,1,0,2026-06-21
+l-01081,2026-06-19,2026-06-19T12:45:00.000Z,Facebook,Enquiry,Lost,b-downtown,,v-0395,,0,0,0,0,1,0,2026-06-22
+l-00399,2026-06-19,2026-06-19T12:51:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-omar,v-0367,23,1,1,1,0,1,0,2026-07-05
+l-00531,2026-06-20,2026-06-20T09:36:00.000Z,Walk-in,Test Drive,Lost,b-northside,s-sara,v-0364,1,1,1,1,0,1,0,2026-07-05
+l-01286,2026-06-20,2026-06-20T09:46:00.000Z,Walk-in,Test Drive,Lost,b-northside,s-james,v-0325,4,1,0,0,0,1,0,2026-06-24
+l-00569,2026-06-20,2026-06-20T10:14:00.000Z,Website,Finance,Lost,b-northside,s-james,v-0374,7,1,0,0,0,1,0,2026-07-04
+l-00238,2026-06-20,2026-06-20T13:27:00.000Z,Referral,Test Drive,Won,b-northside,s-sara,v-0364,144,1,1,1,1,0,0,2026-07-12
+l-00332,2026-06-20,2026-06-20T14:34:00.000Z,Website,Enquiry,Lost,b-northside,s-james,,144,1,0,0,0,1,0,2026-06-29
+l-00986,2026-06-20,2026-06-20T17:24:00.000Z,Walk-in,Enquiry,Lost,b-downtown,,,,0,0,0,0,1,0,2026-07-01
+l-00932,2026-06-21,2026-06-21T12:31:00.000Z,Website,Finance,Lost,b-downtown,s-maya,,81,1,0,0,0,1,0,2026-07-05
+l-00620,2026-06-21,2026-06-21T14:47:00.000Z,Website,Enquiry,Lost,b-northside,s-james,v-0399,82,1,0,0,0,1,0,2026-06-25
+l-01564,2026-06-22,2026-06-22T08:54:00.000Z,Phone,Test Drive,Lost,b-northside,,,,0,0,0,0,1,0,2026-06-30
+l-00449,2026-06-22,2026-06-22T11:48:00.000Z,Facebook,Enquiry,Lost,b-downtown,,v-0354,,0,0,0,0,1,0,2026-06-23
+l-00256,2026-06-22,2026-06-22T13:49:00.000Z,Walk-in,Enquiry,Won,b-downtown,s-lucas,v-0396,2,1,1,1,1,0,0,2026-07-05
+l-01504,2026-06-22,2026-06-22T16:22:00.000Z,Facebook,Test Drive,Lost,b-downtown,s-omar,v-0397,35,1,1,0,0,1,0,2026-06-30
+l-01269,2026-06-23,2026-06-23T09:08:00.000Z,Facebook,Finance,Lost,b-downtown,s-omar,,218,1,0,0,0,1,0,2026-07-07
+l-00891,2026-06-23,2026-06-23T14:21:00.000Z,Walk-in,Test Drive,Lost,b-downtown,s-lucas,v-0387,1,1,1,1,0,1,0,2026-06-30
+l-00989,2026-06-23,2026-06-23T18:39:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-omar,v-0387,0,1,0,0,0,1,0,2026-06-30
+l-00375,2026-06-24,2026-06-24T13:35:00.000Z,Facebook,Enquiry,Lost,b-northside,s-james,v-0378,891,1,1,1,0,1,0,2026-07-08
+l-01017,2026-06-24,2026-06-24T18:41:00.000Z,Marketplace,Test Drive,Lost,b-downtown,s-omar,v-0398,768,1,0,0,0,1,0,2026-07-04
+l-00819,2026-06-25,2026-06-25T16:45:00.000Z,Facebook,Enquiry,Lost,b-downtown,,v-0377,,0,0,0,0,1,0,2026-06-29
+l-00738,2026-06-26,2026-06-26T08:19:00.000Z,Phone,Enquiry,Lost,b-northside,s-james,,16,1,0,0,0,1,0,2026-07-01
+l-00850,2026-06-26,2026-06-26T16:24:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-omar,,41,1,1,0,0,1,0,2026-07-02
+l-00254,2026-06-26,2026-06-26T17:19:00.000Z,Website,Enquiry,Won,b-northside,s-james,v-0389,26,1,1,1,1,0,0,2026-07-21
+l-00798,2026-06-28,2026-06-28T10:47:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,v-0395,76,1,0,0,0,1,0,2026-06-29
+l-01479,2026-06-28,2026-06-28T11:48:00.000Z,Facebook,Test Drive,Lost,b-downtown,s-lucas,v-0388,39,1,1,1,0,1,0,2026-07-07
+l-01175,2026-06-28,2026-06-28T12:51:00.000Z,Website,Test Drive,Lost,b-downtown,s-maya,v-0379,1437,1,1,0,0,1,0,2026-07-16
+l-00878,2026-06-28,2026-06-28T17:39:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-omar,v-0398,9,1,1,1,0,1,0,2026-07-14
+l-01336,2026-06-28,2026-06-28T17:58:00.000Z,Website,Finance,Lost,b-downtown,,,,0,0,0,0,1,0,2026-07-11
+l-01484,2026-06-28,2026-06-28T18:15:00.000Z,Referral,Enquiry,Lost,b-northside,,v-0386,,0,0,0,0,1,0,2026-07-12
+l-00252,2026-06-29,2026-06-29T08:02:00.000Z,Website,Test Drive,Won,b-downtown,s-maya,v-0387,28,1,1,1,1,0,0,2026-07-04
+l-00336,2026-06-29,2026-06-29T15:52:00.000Z,Website,Enquiry,Lost,b-northside,s-james,v-0394,48,1,0,0,0,1,0,2026-07-04
+l-00250,2026-06-30,2026-06-30T12:51:00.000Z,Facebook,Finance,Won,b-downtown,s-lucas,v-0385,125,1,0,1,1,0,0,2026-07-10
+l-01090,2026-06-30,2026-06-30T13:22:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-omar,v-0396,19,1,1,1,0,1,0,2026-07-19
+l-01246,2026-06-30,2026-06-30T13:50:00.000Z,Phone,Enquiry,Lost,b-downtown,s-omar,,8,1,1,1,0,1,0,2026-07-10
+l-00720,2026-06-30,2026-06-30T15:47:00.000Z,Website,Enquiry,Lost,b-downtown,,,,0,0,0,0,1,0,2026-07-09
+l-00814,2026-06-30,2026-06-30T15:48:00.000Z,Marketplace,Enquiry,Lost,b-northside,,,,0,0,0,0,1,0,2026-07-09
+l-00260,2026-07-01,2026-07-01T09:10:00.000Z,Website,Enquiry,Won,b-downtown,s-omar,v-0403,103,1,1,1,1,0,0,2026-07-13
+l-00253,2026-07-01,2026-07-01T09:14:00.000Z,Walk-in,Enquiry,Won,b-downtown,s-maya,v-0388,2,1,0,1,1,0,0,2026-07-24
+l-01573,2026-07-01,2026-07-01T12:46:00.000Z,Website,Finance,Lost,b-downtown,,v-0354,,0,0,0,0,1,0,2026-07-06
+l-01425,2026-07-01,2026-07-01T15:25:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,v-0339,7,1,0,0,0,1,0,2026-07-15
+l-01328,2026-07-01,2026-07-01T17:36:00.000Z,Website,Enquiry,Lost,b-northside,s-sara,v-0364,74,1,0,0,0,1,0,2026-07-12
+l-01250,2026-07-02,2026-07-02T18:38:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,v-0377,39,1,0,0,0,1,0,2026-07-12
+l-01471,2026-07-03,2026-07-03T08:00:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,v-0395,1235,1,0,0,0,1,0,2026-07-08
+l-00305,2026-07-03,2026-07-03T15:17:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-omar,v-0384,2,1,1,0,0,1,0,2026-07-07
+l-00635,2026-07-03,2026-07-03T15:57:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,v-0339,43,1,0,0,0,1,0,2026-07-08
+l-01516,2026-07-03,2026-07-03T16:05:00.000Z,Website,Test Drive,Lost,b-downtown,s-maya,v-0392,13,1,0,0,0,1,0,2026-07-05
+l-00870,2026-07-03,2026-07-03T18:33:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,v-0347,111,1,0,0,0,1,0,2026-07-07
+l-00969,2026-07-04,2026-07-04T10:20:00.000Z,Walk-in,Enquiry,Lost,b-northside,,v-0381,,0,0,0,0,1,0,2026-07-06
+l-00959,2026-07-04,2026-07-04T12:41:00.000Z,Phone,Enquiry,Lost,b-northside,,,,0,0,0,0,1,0,2026-07-16
+l-00251,2026-07-04,2026-07-04T13:15:00.000Z,Website,Enquiry,Won,b-northside,s-sara,v-0386,16,1,1,1,1,0,0,2026-07-18
+l-00792,2026-07-04,2026-07-04T14:00:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,v-0382,10,1,0,0,0,1,0,2026-07-11
+l-01542,2026-07-04,2026-07-04T17:22:00.000Z,Phone,Finance,Lost,b-downtown,s-maya,v-0339,17,1,0,0,0,1,0,2026-07-15
+l-00255,2026-07-05,2026-07-05T08:37:00.000Z,Phone,Test Drive,Won,b-downtown,s-lucas,v-0390,5,1,0,1,1,0,0,2026-07-20
+l-00656,2026-07-05,2026-07-05T08:42:00.000Z,Phone,Enquiry,Lost,b-northside,s-sara,v-0399,1,1,1,0,0,1,0,2026-07-16
+l-00828,2026-07-05,2026-07-05T11:53:00.000Z,Walk-in,Test Drive,Lost,b-northside,,v-0389,,0,0,0,0,1,0,2026-07-08
+l-01127,2026-07-05,2026-07-05T12:38:00.000Z,Walk-in,Finance,Lost,b-downtown,s-maya,v-0395,5,1,0,0,0,1,0,2026-07-11
+l-00249,2026-07-05,2026-07-05T14:04:00.000Z,Website,Enquiry,Won,b-downtown,s-omar,v-0384,36,1,1,1,1,0,0,2026-07-17
+l-01016,2026-07-06,2026-07-06T17:14:00.000Z,Marketplace,Finance,Lost,b-northside,s-sara,v-0391,71,1,1,0,0,1,0,2026-07-13
+l-00700,2026-07-06,2026-07-06T18:51:00.000Z,Facebook,Enquiry,Lost,b-downtown,,v-0400,,0,0,0,0,1,0,2026-07-19
+l-00947,2026-07-07,2026-07-07T09:10:00.000Z,Website,Finance,Lost,b-northside,s-james,v-0386,7,1,1,0,0,1,0,2026-07-11
+l-00954,2026-07-07,2026-07-07T17:03:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-omar,v-0397,167,1,1,1,0,1,0,2026-07-24
+l-01464,2026-07-07,2026-07-07T18:05:00.000Z,Walk-in,Test Drive,Lost,b-northside,s-james,v-0374,3,1,0,0,0,1,0,2026-07-13
+l-00853,2026-07-08,2026-07-08T09:08:00.000Z,Facebook,Test Drive,Lost,b-northside,,v-0391,,0,0,0,0,1,0,2026-07-09
+l-01192,2026-07-08,2026-07-08T14:51:00.000Z,Website,Enquiry,Lost,b-northside,s-sara,v-0401,6,1,1,0,0,1,0,2026-07-23
+l-01179,2026-07-09,2026-07-09T13:06:00.000Z,Facebook,Enquiry,Lost,b-downtown,,v-0390,,0,0,0,0,1,0,2026-07-23
+l-00263,2026-07-09,2026-07-09T16:04:00.000Z,Website,Enquiry,Won,b-downtown,s-omar,v-0409,235,1,1,1,1,0,0,2026-08-01
+l-01243,2026-07-10,2026-07-10T14:17:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,,608,1,0,0,0,1,0,2026-07-16
+l-00679,2026-07-11,2026-07-11T15:44:00.000Z,Website,Test Drive,Lost,b-downtown,s-lucas,,51,1,0,0,0,1,0,2026-07-20
+l-00610,2026-07-11,2026-07-11T16:07:00.000Z,Facebook,Test Drive,Lost,b-northside,s-james,v-0374,677,1,1,0,0,1,0,2026-07-26
+l-00418,2026-07-12,2026-07-12T11:00:00.000Z,Website,Finance,Lost,b-northside,s-james,,29,1,1,1,0,1,0,2026-07-22
+l-00605,2026-07-12,2026-07-12T11:14:00.000Z,Website,Enquiry,Lost,b-downtown,,v-0412,,0,0,0,0,1,0,2026-07-14
+l-00757,2026-07-12,2026-07-12T11:19:00.000Z,Referral,Test Drive,Lost,b-downtown,s-omar,v-0339,105,1,1,0,0,1,0,2026-07-24
+l-00257,2026-07-12,2026-07-12T13:11:00.000Z,Referral,Enquiry,Won,b-downtown,s-omar,v-0397,118,1,1,1,1,0,0,2026-07-17
+l-00776,2026-07-12,2026-07-12T18:47:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-maya,v-0379,1,1,0,0,0,1,0,2026-07-17
+l-01437,2026-07-12,2026-07-12T18:52:00.000Z,Website,Enquiry,Lost,b-northside,,v-0402,,0,0,0,0,1,0,2026-07-14
+l-00509,2026-07-13,2026-07-13T15:12:00.000Z,Website,Enquiry,Lost,b-downtown,,v-0404,,0,0,0,0,1,0,2026-07-24
+l-00262,2026-07-14,2026-07-14T11:28:00.000Z,Marketplace,Enquiry,Won,b-northside,s-james,v-0407,1127,1,1,1,1,0,0,2026-08-05
+l-00617,2026-07-14,2026-07-14T14:57:00.000Z,Facebook,Test Drive,Lost,b-downtown,s-maya,v-0354,238,1,1,1,0,1,0,2026-07-28
+l-00978,2026-07-15,2026-07-15T16:34:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-maya,v-0412,55,1,1,1,0,1,0,2026-07-23
+l-01248,2026-07-16,2026-07-16T13:41:00.000Z,Facebook,Finance,Lost,b-downtown,s-lucas,v-0409,147,1,0,0,0,1,0,2026-07-22
+l-00730,2026-07-17,2026-07-17T14:24:00.000Z,Website,Finance,Lost,b-downtown,s-omar,,23,1,0,0,0,1,0,2026-07-22
+l-00489,2026-07-18,2026-07-18T18:24:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,v-0390,22,1,0,0,0,1,0,2026-07-27
+l-01040,2026-07-19,2026-07-19T08:43:00.000Z,Phone,Enquiry,Lost,b-northside,s-james,v-0399,23,1,0,0,0,1,0,2026-07-31
+l-00637,2026-07-19,2026-07-19T09:54:00.000Z,Facebook,Finance,Lost,b-downtown,s-lucas,v-0398,201,1,1,0,0,1,0,2026-07-25
+l-01245,2026-07-19,2026-07-19T11:04:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,v-0408,14,1,0,0,0,1,0,2026-08-01
+l-01159,2026-07-20,2026-07-20T09:20:00.000Z,Website,Enquiry,Lost,b-northside,s-james,,57,1,1,0,0,1,0,2026-08-02
+l-00838,2026-07-20,2026-07-20T14:31:00.000Z,Phone,Enquiry,Lost,b-downtown,s-lucas,v-0395,5,1,1,1,0,1,0,2026-08-09
+l-00357,2026-07-20,2026-07-20T15:31:00.000Z,Phone,Enquiry,Lost,b-downtown,s-omar,,18,1,1,1,0,1,0,2026-07-28
+l-01515,2026-07-20,2026-07-20T17:30:00.000Z,Website,Enquiry,Lost,b-northside,s-james,v-0417,58,1,0,0,0,1,0,2026-08-01
+l-01386,2026-07-21,2026-07-21T18:27:00.000Z,Walk-in,Enquiry,Lost,b-downtown,,v-0414,,0,0,0,0,1,0,2026-08-04
+l-01551,2026-07-22,2026-07-22T11:30:00.000Z,Website,Enquiry,Lost,b-downtown,,v-0392,,0,0,0,0,1,0,2026-07-24
+l-00265,2026-07-22,2026-07-22T13:39:00.000Z,Walk-in,Enquiry,Won,b-downtown,s-omar,v-0416,0,1,1,1,1,0,0,2026-08-07
+l-01305,2026-07-23,2026-07-23T09:19:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,,907,1,0,0,0,1,0,2026-08-06
+l-00548,2026-07-24,2026-07-24T09:05:00.000Z,Facebook,Test Drive,Lost,b-downtown,s-omar,v-0339,1148,1,0,0,0,1,0,2026-07-31
+l-00520,2026-07-24,2026-07-24T12:14:00.000Z,Walk-in,Finance,Lost,b-downtown,,v-0347,,0,0,0,0,1,0,2026-07-31
+l-01511,2026-07-24,2026-07-24T13:54:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,v-0398,81,1,0,0,0,1,0,2026-07-25
+l-00933,2026-07-25,2026-07-25T12:52:00.000Z,Facebook,Test Drive,Lost,b-downtown,,v-0379,,0,0,0,0,1,0,2026-08-01
+l-01485,2026-07-25,2026-07-25T16:14:00.000Z,Website,Test Drive,Lost,b-downtown,s-lucas,v-0414,158,1,0,0,0,1,0,2026-08-02
+l-00963,2026-07-26,2026-07-26T09:26:00.000Z,Website,Test Drive,Lost,b-downtown,s-lucas,v-0421,108,1,0,0,0,1,0,2026-08-09
+l-01418,2026-07-26,2026-07-26T10:07:00.000Z,Facebook,Enquiry,Lost,b-downtown,,v-0404,,0,0,0,0,1,0,2026-08-05
+l-00261,2026-07-26,2026-07-26T12:23:00.000Z,Website,Test Drive,Won,b-downtown,s-maya,v-0406,56,1,1,1,1,0,0,2026-08-20
+l-01467,2026-07-27,2026-07-27T13:25:00.000Z,Website,Enquiry,Lost,b-northside,,,,0,0,0,0,1,0,2026-08-03
+l-00895,2026-07-28,2026-07-28T09:33:00.000Z,Website,Finance,Lost,b-northside,s-james,v-0394,200,1,1,0,0,1,0,2026-08-07
+l-00906,2026-07-28,2026-07-28T16:23:00.000Z,Website,Test Drive,Lost,b-downtown,s-omar,v-0382,79,1,0,0,0,1,0,2026-08-08
+l-01300,2026-07-29,2026-07-29T10:34:00.000Z,Walk-in,Enquiry,Lost,b-northside,,v-0420,,0,0,0,0,1,0,2026-08-11
+l-00442,2026-07-29,2026-07-29T11:18:00.000Z,Walk-in,Test Drive,Lost,b-northside,,,,0,0,0,0,1,0,2026-08-02
+l-01311,2026-07-29,2026-07-29T15:24:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-omar,v-0392,48,1,0,0,0,1,0,2026-08-02
+l-01263,2026-07-29,2026-07-29T18:24:00.000Z,Referral,Enquiry,Lost,b-downtown,,,,0,0,0,0,1,0,2026-08-02
+l-01075,2026-07-30,2026-07-30T10:52:00.000Z,Website,Finance,Lost,b-northside,,v-0381,,0,0,0,0,1,0,2026-08-13
+l-00268,2026-07-30,2026-07-30T11:16:00.000Z,Marketplace,Test Drive,Won,b-northside,s-sara,v-0420,46,1,0,1,1,0,0,2026-08-22
+l-00333,2026-07-30,2026-07-30T11:51:00.000Z,Website,Enquiry,Lost,b-northside,s-james,,194,1,1,0,0,1,0,2026-08-06
+l-00264,2026-07-30,2026-07-30T17:24:00.000Z,Facebook,Enquiry,Won,b-northside,s-sara,v-0411,18,1,1,1,1,0,0,2026-08-03
+l-00398,2026-07-31,2026-07-31T13:38:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-maya,v-0392,173,1,1,0,0,1,0,2026-08-06
+l-00259,2026-07-31,2026-07-31T14:26:00.000Z,Walk-in,Enquiry,Won,b-northside,s-james,v-0401,2,1,1,1,1,0,0,2026-08-03
+l-00408,2026-08-01,2026-08-01T09:11:00.000Z,Walk-in,Finance,Lost,b-downtown,s-lucas,v-0354,3,1,1,1,0,1,0,2026-08-16
+l-00629,2026-08-01,2026-08-01T10:38:00.000Z,Phone,Enquiry,Lost,b-downtown,s-lucas,v-0412,20,1,1,0,0,1,0,2026-08-18
+l-01299,2026-08-01,2026-08-01T12:22:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-omar,v-0418,0,1,0,0,0,1,0,2026-08-06
+l-00659,2026-08-01,2026-08-01T15:07:00.000Z,Phone,Enquiry,Lost,b-downtown,s-maya,v-0423,13,1,0,0,0,1,0,2026-08-13
+l-01060,2026-08-01,2026-08-01T16:14:00.000Z,Walk-in,Enquiry,Lost,b-downtown,,v-0347,,0,0,0,0,1,0,2026-08-06
+l-00551,2026-08-02,2026-08-02T09:40:00.000Z,Walk-in,Enquiry,Lost,b-northside,,v-0325,,0,0,0,0,1,0,2026-08-08
+l-00486,2026-08-02,2026-08-02T11:18:00.000Z,Website,Enquiry,Lost,b-northside,s-james,v-0399,1109,1,1,0,0,1,0,2026-08-18
+l-01191,2026-08-02,2026-08-02T12:40:00.000Z,Website,Finance,Lost,b-downtown,s-maya,v-0354,171,1,1,1,0,1,0,2026-08-16
+l-01065,2026-08-02,2026-08-02T13:56:00.000Z,Phone,Test Drive,Lost,b-downtown,,v-0406,,0,0,0,0,1,0,2026-08-08
+l-01553,2026-08-02,2026-08-02T16:13:00.000Z,Walk-in,Test Drive,Lost,b-northside,,v-0401,,0,0,0,0,1,0,2026-08-12
+l-00269,2026-08-03,2026-08-03T08:00:00.000Z,Phone,Enquiry,Won,b-northside,s-sara,v-0424,25,1,1,1,1,0,0,2026-08-28
+l-00897,2026-08-03,2026-08-03T10:58:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,v-0392,43,1,1,0,0,1,0,2026-08-08
+l-01384,2026-08-04,2026-08-04T08:23:00.000Z,Walk-in,Enquiry,Lost,b-northside,s-sara,,4,1,0,0,0,1,0,2026-08-07
+l-01154,2026-08-04,2026-08-04T12:22:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,,18,1,0,0,0,1,0,2026-08-08
+l-01174,2026-08-04,2026-08-04T13:12:00.000Z,Website,Finance,Lost,b-northside,,v-0394,,0,0,0,0,1,0,2026-08-05
+l-01472,2026-08-05,2026-08-05T10:55:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-maya,v-0414,3,1,0,0,0,1,0,2026-08-09
+l-00564,2026-08-05,2026-08-05T11:20:00.000Z,Website,Finance,Lost,b-northside,s-james,,8,1,0,0,0,1,0,2026-08-09
+l-01094,2026-08-05,2026-08-05T18:03:00.000Z,Facebook,Enquiry,Lost,b-northside,s-sara,v-0427,237,1,0,0,0,1,0,2026-08-17
+l-00935,2026-08-06,2026-08-06T09:55:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-omar,v-0418,45,1,0,0,0,1,0,2026-08-08
+l-00647,2026-08-06,2026-08-06T16:45:00.000Z,Phone,Finance,Lost,b-downtown,s-omar,v-0382,8,1,1,0,0,1,0,2026-08-16
+l-01461,2026-08-07,2026-08-07T10:18:00.000Z,Marketplace,Finance,Lost,b-northside,s-james,,20,1,0,0,0,1,0,2026-08-18
+l-01465,2026-08-07,2026-08-07T18:42:00.000Z,Walk-in,Enquiry,Lost,b-downtown,,,,0,0,0,0,1,0,2026-08-08
+l-00272,2026-08-08,2026-08-08T12:28:00.000Z,Walk-in,Enquiry,Won,b-downtown,s-omar,v-0432,0,1,1,1,1,0,0,2026-08-28
+l-00267,2026-08-09,2026-08-09T12:16:00.000Z,Facebook,Enquiry,Won,b-downtown,s-lucas,v-0418,92,1,1,1,1,0,0,2026-08-12
+l-00505,2026-08-09,2026-08-09T18:41:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-lucas,,40,1,1,1,0,1,0,2026-08-14
+l-00712,2026-08-10,2026-08-10T14:15:00.000Z,Website,Test Drive,Lost,b-downtown,s-maya,,125,1,1,1,0,1,0,2026-08-21
+l-00409,2026-08-10,2026-08-10T16:06:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-lucas,v-0339,250,1,0,0,0,1,0,2026-08-23
+l-00859,2026-08-11,2026-08-11T09:54:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-lucas,v-0408,4,1,1,0,0,1,0,2026-08-17
+l-00258,2026-08-11,2026-08-11T11:01:00.000Z,Facebook,Test Drive,Won,b-northside,s-james,v-0399,24,1,1,1,1,0,0,2026-08-21
+l-00270,2026-08-12,2026-08-12T11:05:00.000Z,Phone,Finance,Won,b-northside,s-james,v-0428,30,1,1,1,1,0,0,2026-08-20
+l-01448,2026-08-12,2026-08-12T18:26:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-lucas,v-0412,54,1,0,0,0,1,0,2026-08-24
+l-01497,2026-08-14,2026-08-14T09:10:00.000Z,Phone,Enquiry,Lost,b-downtown,,v-0405,,0,0,0,0,1,0,2026-08-26
+l-00966,2026-08-14,2026-08-14T09:57:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-omar,,121,1,0,0,0,1,0,2026-08-27
+l-00273,2026-08-14,2026-08-14T15:22:00.000Z,Website,Finance,Won,b-downtown,s-lucas,v-0435,857,1,1,1,1,0,0,2026-08-23
+l-01018,2026-08-15,2026-08-15T10:15:00.000Z,Website,Finance,Lost,b-downtown,,v-0433,,0,0,0,0,1,0,2026-08-29
+l-01301,2026-08-15,2026-08-15T14:45:00.000Z,Website,Test Drive,Lost,b-downtown,s-maya,,211,1,0,0,0,1,0,2026-08-18
+l-00230,2026-08-16,2026-08-16T09:27:00.000Z,Facebook,Enquiry,Won,b-downtown,s-lucas,v-0354,1027,1,1,1,1,0,0,2026-09-08
+l-00754,2026-08-16,2026-08-16T16:07:00.000Z,Marketplace,Test Drive,Lost,b-northside,s-sara,v-0424,1001,1,0,0,0,1,0,2026-08-27
+l-00775,2026-08-16,2026-08-16T17:42:00.000Z,Website,Enquiry,Lost,b-northside,,,,0,0,0,0,1,0,2026-08-17
+l-01285,2026-08-17,2026-08-17T08:32:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-james,v-0428,52,1,0,0,0,1,0,2026-08-25
+l-00568,2026-08-17,2026-08-17T18:00:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-james,v-0381,21,1,0,0,0,1,0,2026-08-28
+l-00302,2026-08-18,2026-08-18T09:31:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-omar,,5,1,1,1,0,1,0,2026-09-01
+l-01238,2026-08-18,2026-08-18T13:19:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,v-0405,67,1,0,0,0,1,0,2026-08-21
+l-01495,2026-08-18,2026-08-18T13:24:00.000Z,Phone,Finance,Lost,b-downtown,s-maya,v-0412,6,1,0,0,0,1,0,2026-08-30
+l-00979,2026-08-18,2026-08-18T18:51:00.000Z,Phone,Finance,Lost,b-downtown,s-maya,v-0433,30,1,1,0,0,1,0,2026-08-28
+l-01446,2026-08-19,2026-08-19T08:43:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-sara,v-0436,216,1,1,0,0,1,0,2026-08-30
+l-00378,2026-08-19,2026-08-19T09:48:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-james,,46,1,1,0,0,1,0,2026-08-31
+l-00943,2026-08-19,2026-08-19T15:30:00.000Z,Website,Enquiry,Lost,b-northside,s-sara,,18,1,1,0,0,1,0,2026-08-26
+l-00769,2026-08-20,2026-08-20T14:24:00.000Z,Walk-in,Enquiry,Lost,b-downtown,s-maya,v-0347,2,1,1,0,0,1,0,2026-09-02
+l-00275,2026-08-21,2026-08-21T09:14:00.000Z,Facebook,Enquiry,Won,b-northside,s-sara,v-0438,52,1,0,1,1,0,0,2026-08-30
+l-00352,2026-08-21,2026-08-21T18:08:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,v-0423,55,1,1,0,0,1,0,2026-09-07
+l-01033,2026-08-22,2026-08-22T08:30:00.000Z,Walk-in,Test Drive,Lost,b-downtown,s-lucas,v-0431,3,1,0,0,0,1,0,2026-08-29
+l-01117,2026-08-22,2026-08-22T08:46:00.000Z,Referral,Enquiry,Lost,b-northside,s-james,,151,1,0,0,0,1,0,2026-09-05
+l-00716,2026-08-22,2026-08-22T11:47:00.000Z,Marketplace,Test Drive,Lost,b-northside,,v-0438,,0,0,0,0,1,0,2026-09-01
+l-00285,2026-08-22,2026-08-22T12:46:00.000Z,Marketplace,Test Drive,Lost,b-downtown,,v-0408,,0,0,0,0,1,0,2026-09-05
+l-01177,2026-08-23,2026-08-23T13:07:00.000Z,Website,Enquiry,Lost,b-northside,,v-0438,,0,0,0,0,1,0,2026-09-04
+l-01123,2026-08-23,2026-08-23T15:18:00.000Z,Marketplace,Enquiry,Lost,b-downtown,s-omar,,34,1,1,1,0,1,0,2026-08-27
+l-01369,2026-08-24,2026-08-24T15:45:00.000Z,Website,Test Drive,Lost,b-downtown,s-omar,v-0437,149,1,0,0,0,1,0,2026-09-03
+l-00297,2026-08-24,2026-08-24T16:57:00.000Z,Marketplace,Test Drive,Lost,b-northside,s-sara,v-0394,92,1,0,0,0,1,0,2026-09-03
+l-00743,2026-08-25,2026-08-25T14:08:00.000Z,Facebook,Finance,Lost,b-downtown,,v-0382,,0,0,0,0,1,0,2026-09-03
+l-00277,2026-08-25,2026-08-25T16:51:00.000Z,Facebook,Finance,Won,b-downtown,s-omar,v-0441,5,1,0,1,1,0,0,2026-09-18
+l-00266,2026-08-25,2026-08-25T18:22:00.000Z,Website,Enquiry,Won,b-northside,s-james,v-0417,43,1,0,1,1,0,0,2026-09-14
+l-01555,2026-08-26,2026-08-26T10:40:00.000Z,Phone,Test Drive,Lost,b-downtown,s-maya,,6,1,1,0,0,1,0,2026-09-07
+l-00406,2026-08-26,2026-08-26T12:11:00.000Z,Referral,Enquiry,Lost,b-downtown,s-maya,v-0367,111,1,0,0,0,1,0,2026-08-27
+l-00678,2026-08-26,2026-08-26T12:36:00.000Z,Marketplace,Enquiry,Lost,b-downtown,,,,0,0,0,0,1,0,2026-08-27
+l-00311,2026-08-26,2026-08-26T14:47:00.000Z,Facebook,Enquiry,Lost,b-downtown,s-lucas,v-0339,166,1,0,0,0,1,0,2026-08-31
+l-00271,2026-08-26,2026-08-26T16:43:00.000Z,Walk-in,Enquiry,Won,b-northside,s-sara,v-0429,2,1,1,1,1,0,0,2026-09-16
+l-01493,2026-08-26,2026-08-26T17:23:00.000Z,Website,Enquiry,Lost,b-downtown,,v-0347,,0,0,0,0,1,0,2026-09-09
+l-00916,2026-08-27,2026-08-27T15:41:00.000Z,Facebook,Test Drive,Lost,b-downtown,s-lucas,v-0414,126,1,0,0,0,1,0,2026-09-07
+l-00644,2026-08-28,2026-08-28T09:51:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,v-0423,14,1,1,0,0,1,0,2026-09-09
+l-01280,2026-08-28,2026-08-28T15:41:00.000Z,Website,Enquiry,Lost,b-northside,s-james,,606,1,0,0,0,1,0,2026-09-08
+l-00971,2026-08-29,2026-08-29T18:37:00.000Z,Walk-in,Enquiry,Negotiation,b-downtown,s-omar,v-0441,3,1,1,1,0,0,1,
+l-00879,2026-08-30,2026-08-30T09:05:00.000Z,Facebook,Enquiry,Contacted,b-northside,s-james,v-0394,47,1,0,0,0,0,1,
+l-01019,2026-08-30,2026-08-30T09:26:00.000Z,Website,Finance,Lost,b-northside,s-sara,v-0429,24,1,0,0,0,1,0,2026-09-10
+l-01473,2026-08-30,2026-08-30T16:04:00.000Z,Marketplace,Enquiry,Contacted,b-downtown,s-omar,v-0367,58,1,0,0,0,0,1,
+l-00274,2026-08-31,2026-08-31T08:12:00.000Z,Facebook,Enquiry,Won,b-downtown,s-maya,v-0437,37,1,1,1,1,0,0,2026-09-06
+l-01526,2026-08-31,2026-08-31T11:49:00.000Z,Phone,Test Drive,New,b-northside,,v-0442,,0,0,0,0,0,1,
+l-00651,2026-08-31,2026-08-31T12:43:00.000Z,Website,Enquiry,New,b-downtown,,,,0,0,0,0,0,1,
+l-01513,2026-08-31,2026-08-31T14:43:00.000Z,Facebook,Test Drive,Contacted,b-downtown,s-lucas,v-0414,41,1,0,0,0,0,1,
+l-00278,2026-08-31,2026-08-31T15:53:00.000Z,Phone,Finance,Won,b-northside,s-sara,v-0444,22,1,1,1,1,0,0,2026-09-14
+l-00415,2026-08-31,2026-08-31T17:41:00.000Z,Referral,Enquiry,Negotiation,b-northside,s-james,v-0427,24,1,1,1,0,0,1,
+l-01535,2026-09-01,2026-09-01T12:31:00.000Z,Website,Enquiry,Lost,b-northside,s-james,,904,1,1,0,0,1,0,2026-09-12
+l-00279,2026-09-01,2026-09-01T13:35:00.000Z,Website,Enquiry,Won,b-downtown,s-lucas,v-0448,191,1,1,1,1,0,0,2026-09-20
+l-00830,2026-09-02,2026-09-02T09:34:00.000Z,Website,Finance,Lost,b-downtown,s-omar,v-0448,563,1,0,0,0,1,0,2026-09-15
+l-00773,2026-09-02,2026-09-02T14:30:00.000Z,Website,Finance,New,b-northside,,,,0,0,0,0,0,1,
+l-00822,2026-09-03,2026-09-03T08:01:00.000Z,Marketplace,Test Drive,Contacted,b-northside,s-james,v-0381,42,1,0,0,0,0,1,
+l-00496,2026-09-03,2026-09-03T15:25:00.000Z,Facebook,Test Drive,Negotiation,b-northside,s-sara,,176,1,1,1,0,0,1,
+l-01383,2026-09-04,2026-09-04T09:09:00.000Z,Facebook,Finance,Contacted,b-downtown,s-maya,v-0422,15,1,0,0,0,0,1,
+l-00511,2026-09-04,2026-09-04T12:00:00.000Z,Facebook,Enquiry,Contacted,b-downtown,s-omar,v-0421,54,1,0,0,0,0,1,
+l-00585,2026-09-04,2026-09-04T15:44:00.000Z,Walk-in,Test Drive,Negotiation,b-northside,s-james,,1,1,1,1,0,0,1,
+l-00795,2026-09-04,2026-09-04T16:31:00.000Z,Facebook,Enquiry,Negotiation,b-downtown,s-omar,v-0449,15,1,1,1,0,0,1,
+l-01556,2026-09-05,2026-09-05T08:39:00.000Z,Walk-in,Test Drive,Lost,b-downtown,s-lucas,v-0414,5,1,0,0,0,1,0,2026-09-11
+l-00292,2026-09-05,2026-09-05T09:22:00.000Z,Marketplace,Enquiry,Lost,b-northside,s-james,,169,1,1,0,0,1,0,2026-09-10
+l-00516,2026-09-05,2026-09-05T12:19:00.000Z,Referral,Test Drive,Test Drive,b-downtown,s-maya,v-0448,98,1,1,0,0,0,1,
+l-00902,2026-09-05,2026-09-05T13:46:00.000Z,Facebook,Enquiry,Contacted,b-northside,s-sara,v-0427,34,1,0,0,0,0,1,
+l-01048,2026-09-06,2026-09-06T08:42:00.000Z,Website,Enquiry,Contacted,b-northside,s-james,,40,1,0,0,0,0,1,
+l-01228,2026-09-07,2026-09-07T12:25:00.000Z,Website,Finance,Test Drive,b-downtown,s-omar,v-0431,57,1,1,0,0,0,1,
+l-01113,2026-09-07,2026-09-07T15:52:00.000Z,Facebook,Finance,Lost,b-northside,s-james,,169,1,0,0,0,1,0,2026-09-18
+l-00834,2026-09-07,2026-09-07T16:48:00.000Z,Phone,Enquiry,Contacted,b-downtown,s-omar,v-0395,8,1,0,0,0,0,1,
+l-00527,2026-09-08,2026-09-08T08:13:00.000Z,Referral,Finance,Contacted,b-downtown,s-lucas,v-0434,70,1,0,0,0,0,1,
+l-00452,2026-09-08,2026-09-08T13:48:00.000Z,Website,Enquiry,Lost,b-downtown,s-lucas,v-0414,109,1,1,0,0,1,0,2026-09-25
+l-01077,2026-09-08,2026-09-08T14:54:00.000Z,Website,Enquiry,New,b-northside,,v-0439,,0,0,0,0,0,1,
+l-00791,2026-09-08,2026-09-08T16:52:00.000Z,Facebook,Test Drive,Contacted,b-downtown,s-maya,v-0339,52,1,0,0,0,0,1,
+l-01344,2026-09-09,2026-09-09T08:34:00.000Z,Facebook,Enquiry,Contacted,b-downtown,s-maya,v-0452,684,1,0,0,0,0,1,
+l-01088,2026-09-09,2026-09-09T12:23:00.000Z,Facebook,Test Drive,Test Drive,b-downtown,s-omar,v-0426,38,1,1,0,0,0,1,
+l-00466,2026-09-10,2026-09-10T11:34:00.000Z,Facebook,Enquiry,Test Drive,b-downtown,s-omar,,24,1,1,0,0,0,1,
+l-00648,2026-09-12,2026-09-12T09:58:00.000Z,Marketplace,Enquiry,Negotiation,b-downtown,s-omar,v-0458,32,1,1,1,0,0,1,
+l-00281,2026-09-12,2026-09-12T11:01:00.000Z,Facebook,Enquiry,Won,b-downtown,s-maya,v-0456,521,1,0,1,1,0,0,2026-09-19
+l-00276,2026-09-12,2026-09-12T15:28:00.000Z,Facebook,Finance,Won,b-downtown,s-lucas,v-0440,42,1,0,1,1,0,0,2026-09-16
+l-00424,2026-09-13,2026-09-13T16:39:00.000Z,Marketplace,Finance,Contacted,b-downtown,s-lucas,v-0347,494,1,0,0,0,0,1,
+l-00920,2026-09-14,2026-09-14T12:19:00.000Z,Facebook,Enquiry,Negotiation,b-northside,s-sara,v-0465,119,1,1,1,0,0,1,
+l-01546,2026-09-14,2026-09-14T14:43:00.000Z,Website,Enquiry,Lost,b-downtown,s-maya,v-0414,496,1,1,0,0,1,0,2026-09-20
+l-00444,2026-09-14,2026-09-14T16:09:00.000Z,Phone,Enquiry,Contacted,b-northside,s-james,,15,1,0,0,0,0,1,
+l-00469,2026-09-14,2026-09-14T17:21:00.000Z,Website,Enquiry,Test Drive,b-northside,s-sara,v-0454,182,1,1,0,0,0,1,
+l-00463,2026-09-15,2026-09-15T09:13:00.000Z,Website,Enquiry,Test Drive,b-downtown,s-omar,v-0458,9,1,1,0,0,0,1,
+l-00667,2026-09-15,2026-09-15T09:25:00.000Z,Marketplace,Enquiry,Negotiation,b-northside,s-james,v-0465,45,1,1,1,0,0,1,
+l-01050,2026-09-15,2026-09-15T12:45:00.000Z,Walk-in,Test Drive,Contacted,b-downtown,s-lucas,v-0456,5,1,0,0,0,0,1,
+l-00693,2026-09-15,2026-09-15T14:05:00.000Z,Phone,Test Drive,Test Drive,b-downtown,s-lucas,,4,1,1,0,0,0,1,
+l-00869,2026-09-15,2026-09-15T16:27:00.000Z,Website,Test Drive,Lost,b-northside,s-james,,57,1,1,0,0,1,0,2026-09-28
+l-01510,2026-09-18,2026-09-18T12:27:00.000Z,Facebook,Enquiry,Test Drive,b-downtown,s-omar,v-0412,825,1,1,0,0,0,1,
+l-00823,2026-09-18,2026-09-18T15:00:00.000Z,Phone,Enquiry,Contacted,b-downtown,s-lucas,v-0464,20,1,0,0,0,0,1,
+l-01407,2026-09-19,2026-09-19T16:35:00.000Z,Marketplace,Enquiry,Contacted,b-downtown,s-lucas,,58,1,0,0,0,0,1,
+l-00392,2026-09-21,2026-09-21T10:30:00.000Z,Facebook,Enquiry,Contacted,b-downtown,s-omar,v-0426,45,1,0,0,0,0,1,
+l-00926,2026-09-21,2026-09-21T10:36:00.000Z,Marketplace,Enquiry,Test Drive,b-downtown,s-lucas,v-0443,80,1,1,0,0,0,1,
+l-00658,2026-09-21,2026-09-21T12:47:00.000Z,Website,Test Drive,Negotiation,b-downtown,s-maya,,37,1,1,1,0,0,1,
+l-01149,2026-09-22,2026-09-22T09:27:00.000Z,Facebook,Finance,Test Drive,b-downtown,s-maya,v-0347,45,1,1,0,0,0,1,
+l-01237,2026-09-22,2026-09-22T09:41:00.000Z,Referral,Enquiry,Contacted,b-downtown,s-maya,v-0347,161,1,0,0,0,0,1,
+l-01346,2026-09-23,2026-09-23T12:26:00.000Z,Website,Finance,New,b-northside,,,,0,0,0,0,0,1,
+l-00597,2026-09-23,2026-09-23T16:51:00.000Z,Website,Enquiry,Lost,b-northside,s-james,v-0471,191,1,1,0,0,1,0,2026-09-28
+l-00901,2026-09-24,2026-09-24T13:06:00.000Z,Marketplace,Enquiry,Contacted,b-northside,s-james,v-0462,64,1,0,0,0,0,1,
+l-00280,2026-09-24,2026-09-24T14:02:00.000Z,Website,Enquiry,Won,b-northside,s-sara,v-0454,60,1,1,1,1,0,0,2026-09-27
+l-00914,2026-09-24,2026-09-24T15:45:00.000Z,Marketplace,Finance,Test Drive,b-downtown,s-maya,v-0467,40,1,1,0,0,0,1,
+l-01039,2026-09-24,2026-09-24T15:49:00.000Z,Website,Enquiry,Lost,b-downtown,s-omar,,176,1,1,0,0,1,0,2026-09-28
+l-00942,2026-09-24,2026-09-24T18:40:00.000Z,Website,Enquiry,Contacted,b-northside,s-james,v-0442,169,1,0,0,0,0,1,
+l-00517,2026-09-25,2026-09-25T10:20:00.000Z,Website,Enquiry,Test Drive,b-downtown,s-lucas,,197,1,1,0,0,0,1,
+l-01164,2026-09-25,2026-09-25T12:01:00.000Z,Marketplace,Finance,Test Drive,b-downtown,s-maya,,29,1,1,0,0,0,1,
+l-01447,2026-09-25,2026-09-25T12:23:00.000Z,Facebook,Enquiry,New,b-downtown,,,,0,0,0,0,0,1,
+l-00628,2026-09-25,2026-09-25T13:20:00.000Z,Marketplace,Test Drive,Negotiation,b-northside,s-james,v-0463,52,1,1,1,0,0,1,
+l-01042,2026-09-26,2026-09-26T14:01:00.000Z,Walk-in,Enquiry,New,b-downtown,,v-0464,,0,0,0,0,0,1,
+l-00787,2026-09-26,2026-09-26T18:57:00.000Z,Referral,Enquiry,New,b-downtown,,v-0367,,0,0,0,0,0,1,
+l-00682,2026-09-27,2026-09-27T09:25:00.000Z,Website,Test Drive,New,b-downtown,,v-0422,,0,0,0,0,0,1,
+l-00450,2026-09-27,2026-09-27T10:52:00.000Z,Walk-in,Enquiry,Contacted,b-downtown,s-lucas,v-0466,1,1,0,0,0,0,1,
+l-00436,2026-09-27,2026-09-27T18:28:00.000Z,Website,Test Drive,New,b-downtown,,v-0445,,0,0,0,0,0,1,
+l-01139,2026-09-28,2026-09-28T08:21:00.000Z,Website,Finance,New,b-downtown,,,,0,0,0,0,0,1,
+l-00807,2026-09-28,2026-09-28T13:33:00.000Z,Website,Test Drive,New,b-downtown,,v-0431,,0,0,0,0,0,1,
+l-01284,2026-09-28,2026-09-28T15:55:00.000Z,Phone,Enquiry,New,b-downtown,,v-0446,,0,0,0,0,0,1,

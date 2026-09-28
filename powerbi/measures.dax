@@ -1,0 +1,138 @@
+// ============================================================================
+// Apex Auto – dealership measures for Power BI
+// Create a table called "_Measures" (Enter data → one empty column), then add
+// each measure below with "New measure". Folder names are suggestions.
+// Relationships must be set up first – see powerbi/README.md.
+// ============================================================================
+
+// ---------- Sales ----------
+Units Sold = COUNTROWS ( FactSales )
+
+Revenue = SUM ( FactSales[SalePrice] )
+
+Gross Profit = SUM ( FactSales[GrossProfit] )
+
+Gross Per Unit = DIVIDE ( [Gross Profit], [Units Sold] )
+
+Gross Margin % = DIVIDE ( [Gross Profit], [Revenue] )
+
+Avg Sale Price = DIVIDE ( [Revenue], [Units Sold] )
+
+Avg Days To Sell = AVERAGE ( FactSales[DaysToSell] )
+
+// ---------- Targets ----------
+// Targets are monthly. Filter by whole months (Year / Month slicers) for exact numbers.
+Target Units = SUM ( FactTargets[TargetUnits] )
+
+Target Attainment % = DIVIDE ( [Units Sold], [Target Units] )
+
+Units vs Target = [Units Sold] - [Target Units]
+
+// ---------- Time intelligence (DimDate must be marked as the date table) ----------
+Units Sold LY = CALCULATE ( [Units Sold], SAMEPERIODLASTYEAR ( DimDate[Date] ) )
+
+Units Sold YoY % = DIVIDE ( [Units Sold] - [Units Sold LY], [Units Sold LY] )
+
+Gross Profit LY = CALCULATE ( [Gross Profit], SAMEPERIODLASTYEAR ( DimDate[Date] ) )
+
+Gross Profit YoY % = DIVIDE ( [Gross Profit] - [Gross Profit LY], [Gross Profit LY] )
+
+Gross Profit YTD = TOTALYTD ( [Gross Profit], DimDate[Date] )
+
+Units Sold MTD = TOTALMTD ( [Units Sold], DimDate[Date] )
+
+Units Sold Rolling 3M =
+CALCULATE (
+    [Units Sold],
+    DATESINPERIOD ( DimDate[Date], MAX ( DimDate[Date] ), -3, MONTH )
+)
+
+// ---------- Leads & funnel ----------
+Leads = COUNTROWS ( FactLeads )
+
+Won Leads = CALCULATE ( [Leads], FactLeads[IsWon] = 1 )
+
+Lost Leads = CALCULATE ( [Leads], FactLeads[IsLost] = 1 )
+
+Open Leads = CALCULATE ( [Leads], FactLeads[IsOpen] = 1 )
+
+Lead Conversion % = DIVIDE ( [Won Leads], [Leads] )
+
+Contact Rate % = DIVIDE ( CALCULATE ( [Leads], FactLeads[ReachedContacted] = 1 ), [Leads] )
+
+Test Drive Rate % = DIVIDE ( CALCULATE ( [Leads], FactLeads[ReachedTestDrive] = 1 ), [Leads] )
+
+Test Drive to Sale % =
+DIVIDE (
+    CALCULATE ( [Leads], FactLeads[ReachedTestDrive] = 1, FactLeads[IsWon] = 1 ),
+    CALCULATE ( [Leads], FactLeads[ReachedTestDrive] = 1 )
+)
+
+Avg First Response (min) = AVERAGE ( FactLeads[FirstResponseMinutes] )
+
+Responded Leads =
+COUNTROWS ( FILTER ( FactLeads, NOT ISBLANK ( FactLeads[FirstResponseMinutes] ) ) )
+
+Answered Within 15 Min % =
+DIVIDE (
+    COUNTROWS (
+        FILTER (
+            FactLeads,
+            NOT ISBLANK ( FactLeads[FirstResponseMinutes] )
+                && FactLeads[FirstResponseMinutes] <= 15
+        )
+    ),
+    [Responded Leads]
+)
+
+Unanswered Leads =
+COUNTROWS (
+    FILTER (
+        FactLeads,
+        FactLeads[CurrentStage] = "New"
+            && ISBLANK ( FactLeads[FirstResponseMinutes] )
+    )
+)
+
+// ---------- Inventory (point-in-time; not filtered by DimDate) ----------
+Stock Units = CALCULATE ( COUNTROWS ( DimVehicle ), DimVehicle[Status] <> "Sold" )
+
+Stock Value at Cost = CALCULATE ( SUM ( DimVehicle[Cost] ), DimVehicle[Status] <> "Sold" )
+
+Stock Value at Retail = CALCULATE ( SUM ( DimVehicle[ListPrice] ), DimVehicle[Status] <> "Sold" )
+
+Avg Days In Stock = CALCULATE ( AVERAGE ( DimVehicle[DaysInStock] ), DimVehicle[Status] <> "Sold" )
+
+Aged Stock 90+ =
+CALCULATE (
+    COUNTROWS ( DimVehicle ),
+    DimVehicle[Status] <> "Sold",
+    DimVehicle[DaysInStock] > 90
+)
+
+Aged Stock % = DIVIDE ( [Aged Stock 90+], [Stock Units] )
+
+// Days of supply = stock on hand ÷ average daily sales over the last 30 days of sales.
+Days Supply =
+VAR LastSale = CALCULATE ( MAX ( FactSales[SoldDate] ), ALL ( DimDate ) )
+VAR Sold30 =
+    CALCULATE ( [Units Sold], DATESINPERIOD ( DimDate[Date], LastSale, -30, DAY ) )
+RETURN
+    DIVIDE ( [Stock Units], DIVIDE ( Sold30, 30 ) )
+
+// ============================================================================
+// Optional calculated column (DimVehicle) if you want age to update on refresh
+// instead of using the exported DaysInStock:
+//
+// Days In Stock (Live) =
+//     DATEDIFF ( DimVehicle[AcquiredDate], COALESCE ( DimVehicle[SoldDate], TODAY () ), DAY )
+//
+// Aging Bucket =
+//     SWITCH (
+//         TRUE (),
+//         DimVehicle[DaysInStock] <= 30, "0–30",
+//         DimVehicle[DaysInStock] <= 60, "31–60",
+//         DimVehicle[DaysInStock] <= 90, "61–90",
+//         "90+"
+//     )
+// ============================================================================
