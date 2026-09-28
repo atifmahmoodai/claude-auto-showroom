@@ -26,6 +26,18 @@ async function waitForServer() {
   throw new Error("preview server did not start");
 }
 
+// Newer Chromium returns a Promise from scrollTo(); emulate that on older builds so a
+// regression (a React effect accidentally returning it) is caught on every browser.
+async function emulatePromiseScroll(context) {
+  await context.addInitScript(() => {
+    const original = window.scrollTo.bind(window);
+    window.scrollTo = (...args) => {
+      const r = original(...args);
+      return r instanceof Promise ? r : Promise.resolve();
+    };
+  });
+}
+
 let failures = 0;
 let activePage = null;
 function check(cond, msg) {
@@ -40,6 +52,7 @@ try {
   await waitForServer();
   const browser = await chromium.launch({ executablePath });
   const ctx = await browser.newContext({ viewport: { width: 1360, height: 900 }, acceptDownloads: true });
+  await emulatePromiseScroll(ctx);
   const page = await ctx.newPage();
   const errors = [];
   page.on("pageerror", (e) => {
@@ -178,6 +191,7 @@ try {
 
   console.log("Mobile + dark mode");
   const mobile = await browser.newContext({ viewport: { width: 390, height: 844 }, colorScheme: "dark" });
+  await emulatePromiseScroll(mobile);
   const m = await mobile.newPage();
   m.on("pageerror", (e) => errors.push(`mobile pageerror: ${e.message}`));
   for (const route of ["", "#/inventory", "#/admin"]) {
@@ -199,6 +213,7 @@ try {
   await m.screenshot({ path: `${SHOTS}/mobile-dashboard-dark.png` });
 
   const dark = await browser.newContext({ viewport: { width: 1360, height: 900 }, colorScheme: "dark" });
+  await emulatePromiseScroll(dark);
   const dp = await dark.newPage();
   await dp.goto(`${BASE}#/admin`);
   await dp.waitForSelector(".recharts-surface");
