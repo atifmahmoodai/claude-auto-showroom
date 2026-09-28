@@ -27,6 +27,7 @@ async function waitForServer() {
 }
 
 let failures = 0;
+let activePage = null;
 function check(cond, msg) {
   if (cond) console.log(`  ✓ ${msg}`);
   else {
@@ -41,8 +42,17 @@ try {
   const ctx = await browser.newContext({ viewport: { width: 1360, height: 900 }, acceptDownloads: true });
   const page = await ctx.newPage();
   const errors = [];
-  page.on("pageerror", (e) => errors.push(`pageerror: ${e.message}`));
-  page.on("console", (m) => m.type() === "error" && errors.push(`console: ${m.text()}`));
+  page.on("pageerror", (e) => {
+    errors.push(`pageerror: ${e.message}`);
+    console.log(`  ! page error: ${e.message}`);
+  });
+  page.on("console", (m) => {
+    if (m.type() === "error") {
+      errors.push(`console: ${m.text()}`);
+      console.log(`  ! console error: ${m.text()}`);
+    }
+  });
+  activePage = page;
 
   console.log("Home");
   await page.goto(BASE);
@@ -51,7 +61,8 @@ try {
   await page.screenshot({ path: `${SHOTS}/home.png`, fullPage: false });
 
   console.log("Inventory");
-  await page.click("text=View all");
+  await page.getByRole("link", { name: /View all \d+ cars/ }).click();
+  await page.waitForURL(/#\/inventory/);
   await page.waitForSelector(".filters");
   const total = await page.locator(".vcard").count();
   check(total > 0, `inventory shows cars (${total} on first page)`);
@@ -199,6 +210,12 @@ try {
 } catch (e) {
   failures++;
   console.error(e);
+  if (activePage) {
+    console.error(`URL at failure: ${activePage.url()}`);
+    const text = await activePage.evaluate(() => document.body.innerText.slice(0, 600)).catch(() => "(unavailable)");
+    console.error(`Page text at failure:\n${text}`);
+    await activePage.screenshot({ path: `${SHOTS}/failure.png`, fullPage: true }).catch(() => {});
+  }
 } finally {
   stop();
 }
