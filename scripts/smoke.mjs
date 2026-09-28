@@ -198,6 +198,10 @@ try {
     await m.goto(`${BASE}${route}`);
     await m.waitForTimeout(400);
     const overflow = await m.evaluate(() => document.documentElement.scrollWidth - window.innerWidth);
+    if (route === "#/inventory") {
+      const left = await m.evaluate(() => document.querySelector(".vcard")?.getBoundingClientRect().left ?? -1);
+      check(left >= 12, `content keeps a side margin on phone (${left}px)`);
+    }
     check(overflow <= 0, `no horizontal scroll on phone at "${route || "/"}" (overflow ${overflow}px)`);
     if (route !== "#/admin") {
       const navH = await m.evaluate(() => document.querySelector(".nav")?.getBoundingClientRect().height ?? 0);
