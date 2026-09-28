@@ -44,7 +44,7 @@ try {
   const errors = [];
   page.on("pageerror", (e) => {
     errors.push(`pageerror: ${e.message}`);
-    console.log(`  ! page error: ${e.message}`);
+    console.log(`  ! page error: ${e.stack || e.message}`);
   });
   page.on("console", (m) => {
     if (m.type() === "error") {
