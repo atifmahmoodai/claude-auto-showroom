@@ -140,8 +140,7 @@ export async function buildApp(config: Config, db: pg.Pool, opts: { mailer?: Mai
   }
 
   app.setNotFoundHandler((req, reply) => {
-    const accepts = req.headers.accept ?? "";
-    if (req.method === "GET" && web && !req.url.startsWith("/api/") && !req.url.startsWith("/uploads/") && accepts.includes("text/html")) {
+    if (req.method === "GET" && web && !req.url.startsWith("/api/") && !req.url.startsWith("/uploads/") && isPageRequest(req.url, req.headers.accept)) {
       // Client-side routes (/inventory, /vehicle/…, /admin/…) all load the app shell.
       return reply.header("cache-control", "no-cache").sendFile("index.html", web);
     }
@@ -149,6 +148,12 @@ export async function buildApp(config: Config, db: pg.Pool, opts: { mailer?: Mai
   });
 
   return app;
+}
+
+/** A browser page navigation (not a missing asset such as /logo.png): serve the app shell. */
+function isPageRequest(url: string, accept = "") {
+  const path = url.split("?")[0];
+  return accept.includes("text/html") || !/\.[a-z0-9]+$/i.test(path);
 }
 
 function noCacheApi(reply: { header: (k: string, v: string) => unknown }) {

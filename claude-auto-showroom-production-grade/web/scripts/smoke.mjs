@@ -118,8 +118,10 @@ try {
   console.log("Inventory");
   await page.getByRole("link", { name: /View all \d+ cars/ }).click();
   await page.waitForURL(/\/inventory/);
-  await page.waitForSelector(".vcard");
-  const total = await page.locator(".vcard").count();
+  await page.waitForSelector(".filters");
+  // Wait for the server's first page rather than counting whatever is on screen mid-load.
+  await page.waitForFunction(() => document.querySelectorAll(".inventory-layout .vcard").length > 0);
+  const total = await page.locator(".inventory-layout .vcard").count();
   check(total === 12, `inventory shows the first page (${total} cars)`);
   await page.click("button:has-text('Show more')");
   await page.waitForFunction(() => document.querySelectorAll(".vcard").length > 12);
