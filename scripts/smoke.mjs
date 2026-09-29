@@ -152,6 +152,9 @@ try {
   await page.click("button:has-text('Save sale')");
   await page.waitForTimeout(100);
   check((await page.locator("tbody tr").count()) === before - 1, "sold car leaves the in-stock list");
+  await page.selectOption("select:has(option[value=Sold])", "Sold");
+  check((await page.locator("tbody tr").count()) > 0 && (await page.locator("tbody button:has-text('Delete')").count()) === 0, "sold cars (sales history) can't be deleted");
+  await page.selectOption("select:has(option[value=Sold])", "stock");
 
   await page.click("text=+ Add vehicle");
   await page.click("button:has-text('Add to inventory')");

@@ -146,11 +146,16 @@ export function StoreProvider({ children }: { children: ReactNode }) {
   }, []);
 
   const deleteVehicle = useCallback((id: string) => {
-    setData((d) => ({
-      vehicles: d.vehicles.filter((v) => v.id !== id),
-      // Keep the leads but drop the dangling reference.
-      leads: d.leads.map((l) => (l.vehicleId === id ? { ...l, vehicleId: undefined } : l)),
-    }));
+    setData((d) => {
+      // Sold cars are kept: they are the sales history.
+      if (d.vehicles.find((v) => v.id === id)?.status === "Sold") return d;
+      return {
+        ...d,
+        vehicles: d.vehicles.filter((v) => v.id !== id),
+        // Keep the leads but drop the dangling reference.
+        leads: d.leads.map((l) => (l.vehicleId === id ? { ...l, vehicleId: undefined } : l)),
+      };
+    });
   }, []);
 
   const markSold = useCallback((id: string, sale: SaleInput) => {

@@ -129,14 +129,17 @@ export function AdminInventory() {
                           </button>
                         </>
                       )}
-                      <button
-                        className="btn btn-sm btn-danger"
-                        onClick={() => {
-                          if (window.confirm(`Delete ${vehicleTitle(v)} (${v.stockNo})? This cannot be undone.`)) deleteVehicle(v.id);
-                        }}
-                      >
-                        Delete
-                      </button>
+                      {/* Sold cars are sales records (dashboard, Power BI); deleting them would rewrite history. */}
+                      {v.status !== "Sold" && (
+                        <button
+                          className="btn btn-sm btn-danger"
+                          onClick={() => {
+                            if (window.confirm(`Delete ${vehicleTitle(v)} (${v.stockNo})? This cannot be undone.`)) deleteVehicle(v.id);
+                          }}
+                        >
+                          Delete
+                        </button>
+                      )}
                     </div>
                   </td>
                 </tr>
