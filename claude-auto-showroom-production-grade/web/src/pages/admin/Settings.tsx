@@ -277,7 +277,8 @@ function Branches() {
 function Business() {
   const q = useQuery({ queryKey: ["settings"], queryFn: () => api<{ site: SiteSettings; branches: Branch[] }>("/admin/settings") });
   if (!q.data) return <section className="card">{q.isError ? errorText(q.error) : "Loading…"}</section>;
-  return <BusinessForm key={JSON.stringify(q.data.site)} initial={q.data.site} branches={q.data.branches} />;
+  // Not keyed on the settings: saving refreshes them, and remounting would hide the "Saved" badge.
+  return <BusinessForm initial={q.data.site} branches={q.data.branches} />;
 }
 
 function BusinessForm({ initial, branches }: { initial: SiteSettings; branches: Branch[] }) {
