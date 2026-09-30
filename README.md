@@ -2,9 +2,11 @@
 
 A full car-dealership demo in one React app:
 
+**Project guide (PDF):** [docs/PROJECT-GUIDE.pdf](docs/PROJECT-GUIDE.pdf) explains what this project is, the business problem it solves, the client's requirements, and how to build it from scratch, step by step.
+
 - **Public showroom**: searchable inventory, vehicle pages, finance calculator, and enquiry and test-drive booking.
 - **Dealer back office**: inventory management, a lead pipeline, and a KPI dashboard (sales vs target, gross profit, lead funnel, response times, stock aging).
-- **Power BI starter kit**: star-schema CSV exports, 40+ DAX measures, a theme, and a step-by-step modelling guide.
+- **Power BI starter kit**: star-schema CSV exports, 38 DAX measures, a theme, and a step-by-step modelling guide.
 
 It's built from what dealerships actually pay freelancers for: Power BI dealer dashboards, inventory and DMS-style systems, lead tracking, and stock-aging reports.
 

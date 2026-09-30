@@ -5,7 +5,7 @@ Everything you need to build a dealership sales, lead and inventory report in Po
 | File | What it is |
 |---|---|
 | `data/*.csv` | Star-schema tables (24 months of demo data, as of 2026-09-28) |
-| `measures.dax` | 40+ ready-made DAX measures: units, gross, targets, YoY, funnel, response time, stock aging, days supply |
+| `measures.dax` | 38 ready-made DAX measures: units, gross, targets, YoY, funnel, response time, stock aging, days supply |
 | `theme.json` | Colour theme matching the web dashboard (View → Themes → Browse for themes) |
 
 > A `.pbix` file isn't included: it can only be saved from Power BI Desktop, which runs on Windows. Building the model from the steps below takes about 20 minutes. Save your result as `ApexAuto.pbix` in this folder.
